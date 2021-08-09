@@ -1,0 +1,12 @@
+ar_talk_or010400.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+text01 - 現在の貴方の目標は……
+11_voice_shop_414 - <c bb0000>ショップエリア、武器ショップ<br>およびアイテム鑑定ショップへの<br>訪問<c>となっています。
+
+Group 1
+
+

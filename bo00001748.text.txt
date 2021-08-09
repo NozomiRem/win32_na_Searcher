@@ -1,0 +1,13 @@
+bo00001748.text was created: 8/8/2021 8:59:48 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - ブラックニャックをプレイする<br><br>※ブラックニャックは<br>カジノでプレイすることができます。
+
+Group 1
+Title - Bingo Order 99
+Explanation - Play Blacknyack<br><br>Blacknyack can be played in the Casino.
+
+

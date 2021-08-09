@@ -1,0 +1,15 @@
+ac06040402.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「火山洞窟探索」をクリア
+Explanation - フリーフィールド「火山洞窟探索」をクリアし<br>砂漠エリア・海岸エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Volcanic Caves Exploration"
+Explanation - Clear the Expedition "Volcanic Caves Exploration" and<br>unlock the Desert and the Coast!
+
+

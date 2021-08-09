@@ -1,0 +1,11 @@
+mb00004004.text was created: 8/8/2021 9:01:02 PM
+Filesize is: 304 bytes
+
+Info
+Group 0
+Title - マターボード4004
+Explanation - マターボード4004に関する説明
+
+Group 1
+
+

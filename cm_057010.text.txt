@@ -1,0 +1,13 @@
+cm_057010.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 672 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_009 - 暗闇で視界が悪いミッションです。<br>中央のスイッチを押すことで<br>一定時間、明るくなります。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_009 - In this mission, it is dark, and you cannot see<br>well. Pressing the center switch will illuminate<br>the area for a period of time.
+
+

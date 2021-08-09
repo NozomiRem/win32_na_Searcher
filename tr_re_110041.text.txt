@@ -1,0 +1,15 @@
+tr_re_110041.text was created: 8/8/2021 8:56:28 PM
+Filesize is: 880 bytes
+
+Tut_win
+Group 0
+train_title - 課題３：<yellow>パニッシュメントナックルをチャージして、魔神壁に当てる
+tut_title - ＰＡのチャージについて
+text100 - ・<%WeaponAction>でパレット切り替え<br>・<%PhotonArts>を押し続けて放す
+
+Group 1
+train_title - Training 3: <yellow>Charge up Punishment Knuckle and hit the Demon Bulwark
+tut_title - Charging Photon Arts
+text100 - -Switch Palettes with <%WeaponAction><br>-Press and hold <%PhotonArts>, then release
+
+

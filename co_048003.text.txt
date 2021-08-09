@@ -1,0 +1,13 @@
+co_048003.text was created: 8/8/2021 9:00:08 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+skit01 - VR Forest
+skit02 - VRアリーナ　森林：雨
+
+Group 1
+skit01 - VR Forest
+skit02 - VR Arena - Forest: Rain
+
+

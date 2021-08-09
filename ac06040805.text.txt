@@ -1,0 +1,15 @@
+ac06040805.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 880 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「龍に託されたもの」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE1」を進めることでプレイ可能になる<br>「龍に託されたもの」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Entrusted by the Draconians"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "Entrusted by the Draconians" unlocked by<br>progressing through Episode 1!
+
+

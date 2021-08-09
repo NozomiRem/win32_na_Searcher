@@ -1,0 +1,11 @@
+om_040653133.text was created: 8/8/2021 8:58:52 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+text01 - もう終わりニャン？<br>パーティーだとあっという間ニャン！
+
+Group 1
+text01 - Time paw-sitively flies when you're having fun!
+
+

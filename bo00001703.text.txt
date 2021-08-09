@@ -1,0 +1,13 @@
+bo00001703.text was created: 8/8/2021 8:59:48 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【エネミー撃破】<br>魔神城・ランザーバレス<br><br>【対象グレード】<br>バスタークエスト<br>グレード:２以上
+
+Group 1
+Title - Bingo Order 99
+Explanation - [Enemy Extermination]<br>Castrum Demonica: Lanzer Vales<br><br>[Grade Requirement]<br>Buster Quest<br>2+
+
+

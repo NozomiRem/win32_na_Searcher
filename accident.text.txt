@@ -1,0 +1,19 @@
+accident.text was created: 8/8/2021 8:56:31 PM
+Filesize is: 432 bytes
+
+Accident
+Group 0
+Acc_FeverEmblem - エンブレムフィーバー
+
+Group 1
+Acc_FeverEmblem - Emblem Fever
+
+
+Abstract
+Group 0
+Acc_FeverEmblem - エンブレムを回収せよ
+
+Group 1
+Acc_FeverEmblem - Recover Emblems
+
+

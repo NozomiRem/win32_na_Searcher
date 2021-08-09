@@ -1,0 +1,13 @@
+cm_048612.text was created: 8/8/2021 9:01:28 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 報酬を回収ののち<br>帰還してください！
+
+Group 1
+name01 - Xiera
+text01 - Head on back after collecting your reward!
+
+

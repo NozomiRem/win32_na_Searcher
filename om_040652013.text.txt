@@ -1,0 +1,11 @@
+om_040652013.text was created: 8/8/2021 8:58:31 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+text01 - ふっ……<br>永き戦いに、終わりの風が吹いたな。
+
+Group 1
+text01 - Ah... The roaring winds of change have settled<br>and the endless battle draws to an end.
+
+

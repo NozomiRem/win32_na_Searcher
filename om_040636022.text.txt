@@ -1,0 +1,11 @@
+om_040636022.text was created: 8/8/2021 9:00:32 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+text01 - 巻き込んでしまってすみません。<br>私、頑張りますので<br>よろしくお願いします。
+
+Group 1
+text01 - Sorry to drag you into this mess.<br>I'll do my best to make up for it.
+
+

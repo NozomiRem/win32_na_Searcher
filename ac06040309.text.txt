@@ -1,0 +1,15 @@
+ac06040309.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - クラスレベル80を達成
+Explanation - いずれかのクラスレベルを80にしよう！
+
+Group 1
+Title - Main Mission
+Goal - Reach Class Level 80
+Explanation - Reach Class Level 80 with any Class!
+
+

@@ -1,0 +1,11 @@
+co_050030.text was created: 8/8/2021 8:47:11 PM
+Filesize is: 368 bytes
+
+system_message
+Group 0
+linewindow001 - クーナをパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Quna as your Partner.
+
+

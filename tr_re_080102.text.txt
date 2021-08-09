@@ -1,0 +1,17 @@
+tr_re_080102.text was created: 8/8/2021 8:57:40 PM
+Filesize is: 928 bytes
+
+Tut_win
+Group 0
+train_title - 課題２：<yellow>武器アクションとフォトンブレードを成功させる
+tut_title - デュアルブレードの武器アクション
+text100 - ・移動しながら<%WeaponAction>を押す
+text100_3b - ・移動しながら<%MainPaletteC>を押す
+
+Group 1
+train_title - Training 2: <yellow>Successfully perform a Weapon Action and launch Photon Blades
+tut_title - Soaring Blades' Weapon Action
+text100 - -Press <%WeaponAction> while moving
+text100_3b - -Press <%MainPaletteC> while moving
+
+

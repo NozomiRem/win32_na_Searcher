@@ -1,0 +1,11 @@
+cm_048411.text was created: 8/8/2021 8:57:59 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 制限時間終了ー。<br>訓練終了ですー。<br>帰還用エリアに転送しますねー。
+
+Group 1
+
+

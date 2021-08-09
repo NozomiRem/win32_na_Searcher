@@ -1,0 +1,15 @@
+ac06040503.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 704 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「愛用品の属性強化を！」を達成報告
+Explanation - ジャンのクライアントオーダー<br>「愛用品の属性強化を！」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Boost Elements on Your Favorite Gear!"
+Explanation - Complete Jan's Client Order "Boost Elements on Your Favorite Gear!"
+
+

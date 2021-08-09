@@ -1,0 +1,13 @@
+co_040101.text was created: 8/8/2021 8:59:20 PM
+Filesize is: 688 bytes
+
+Skit
+Group 0
+text00 - 『クライアントオーダー』について
+text01 - ミミに<br>クライアントオーダーが発生しました。<br><br>ミミは<br>ゲートエリア・西クエストカウンター<br>にいます。
+
+Group 1
+text00 - Client Orders
+text01 - Client Order Issuance Notice:<br><br>See Mimi at the West Quest Counter in the Gate Area<br>for more information.
+
+

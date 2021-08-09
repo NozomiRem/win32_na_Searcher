@@ -1,0 +1,13 @@
+cm_060115.text was created: 8/8/2021 9:01:39 PM
+Filesize is: 480 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - これは…！<br>大量のミサイル反応です！<br>包囲されています！
+
+Group 1
+name01 - Xiera
+text01 - What...!<br>Large missiles detected!<br>We're under siege!
+
+

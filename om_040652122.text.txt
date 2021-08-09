@@ -1,0 +1,11 @@
+om_040652122.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text01 - よろしく頼むでござる。
+
+Group 1
+text01 - I'm putting my faith in you.
+
+

@@ -1,0 +1,13 @@
+cm_038205_1.text was created: 8/8/2021 9:00:01 PM
+Filesize is: 608 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - 敵を倒すとテレポーターが出現します。<br>テレポーターを使って<br>次の関門に進んで下さい。
+
+Group 1
+name01 - Inanna
+text01 - A Teleporter will appear once you've eliminated<br>all targets. Use it to continue on to your next<br>trial.
+
+

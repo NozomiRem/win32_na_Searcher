@@ -1,0 +1,13 @@
+co_022111.text was created: 8/8/2021 8:55:54 PM
+Filesize is: 384 bytes
+
+Skit
+Group 0
+skit01 - Altar
+skit02 - 惑星アムドゥスキア　龍祭壇
+
+Group 1
+skit01 - The Altar
+skit02 - Amduskia - The Dragon Altar
+
+

@@ -1,0 +1,13 @@
+cm_048604.text was created: 8/8/2021 9:01:52 PM
+Filesize is: 560 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 目標の撃破、確認！　すごいです！<br>それでは次のエリアへどうぞー！
+
+Group 1
+name01 - Melita
+text01 - Confirmed that the target has been eliminated!<br>Great job! You can now proceed to the<br>next area!
+
+

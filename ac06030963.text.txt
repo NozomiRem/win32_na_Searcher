@@ -1,0 +1,14 @@
+ac06030963.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - ブラックニャックで１回勝利する
+Explanation - カジノエリアのブラックニャックで<br>ニャウに１回勝利しよう！
+
+Group 1
+Title - Debug Order: Grant EXP
+Explanation - 5 Monomates, Thank You Kindly
+
+

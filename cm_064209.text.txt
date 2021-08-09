@@ -1,0 +1,11 @@
+cm_064209.text was created: 8/8/2021 9:01:17 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+name01 - スクナヒメ
+text01 - ￥残り１体こやつで最後じゃ！
+
+Group 1
+
+

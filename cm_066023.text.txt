@@ -1,0 +1,11 @@
+cm_066023.text was created: 8/8/2021 8:57:20 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+text02 - 共振対象エネミーが解放された！
+
+Group 1
+text02 - Resonant target enemies released!
+
+

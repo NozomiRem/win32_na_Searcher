@@ -1,0 +1,15 @@
+ac06040601.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - ピエトロに話しかける
+Explanation - ゲートエリア１Ｆのクラスカウンター付近にいる<br>サモナークラスの提唱者であるピエトロに<br>話しかけてみよう！
+
+Group 1
+Title - Main Mission
+Goal - Speak to Pietro
+Explanation - Speak to Summoner Advocate Pietro at<br>the Class Counter in Shopping Plaza 1F!
+
+

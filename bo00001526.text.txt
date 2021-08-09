@@ -1,0 +1,13 @@
+bo00001526.text was created: 8/8/2021 8:59:44 PM
+Filesize is: 672 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - フリードリンクスタンドにアクセスする<br><br>※フリードリンクスタンドは<br>カジノエリアの外周通路に<br>設置されています。
+
+Group 1
+Title - Bingo Order 99
+Explanation - Access the Free Drink Stand.<br><br>Note: The Free Drink Stand can be found in the <br>Casino's Outer Ring.
+
+

@@ -1,0 +1,11 @@
+cm_069420.text was created: 8/8/2021 8:49:37 PM
+Filesize is: 400 bytes
+
+Skit00
+Group 0
+mes00 - 敵性反応消滅、フォトンキャノン追加配置！
+
+Group 1
+mes00 - Enemy presence eliminated.<br>Sending an additional Photon Cannon!
+
+

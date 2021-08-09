@@ -1,0 +1,13 @@
+bo00002069.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 576 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【エネミー撃破】<br>皇国突撃魔人兵<br><br>【対象レベル】<br>Lv.61以上
+
+Group 1
+Title - Bingo Order 99
+Explanation - [Enemy Extermination]<br>Imperial Fiendlancer<br><br>[Level Requirement]<br>Level 61+
+
+

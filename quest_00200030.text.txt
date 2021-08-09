@@ -1,0 +1,24 @@
+quest_00200030.text was created: 8/8/2021 8:53:15 PM
+Filesize is: 432 bytes
+
+Basic
+Group 0
+Title - test002
+Explanation - ****
+
+Group 1
+
+
+QuestTarget
+Group 0
+SimpleExplanation - ****
+
+Group 1
+
+
+AcceptCondition
+Group 0
+
+Group 1
+
+

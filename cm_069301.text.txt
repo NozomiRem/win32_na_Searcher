@@ -1,0 +1,11 @@
+cm_069301.text was created: 8/8/2021 8:47:07 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+Title - エネミー残り3体！
+
+Group 1
+Title - 3 enemies left!
+
+

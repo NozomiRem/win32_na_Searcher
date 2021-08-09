@@ -1,0 +1,14 @@
+ac06050702.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・７－２
+Goal - 緑色のコンテナを１０個破壊
+Explanation - 緑色のコンテナを１０個破壊しよう！
+
+Group 1
+Goal - Destroy 10 Green Containers
+Explanation - Destroy a total of 10 green containers!
+
+

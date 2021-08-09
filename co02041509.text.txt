@@ -1,0 +1,13 @@
+co02041509.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 800 bytes
+
+Info
+Group 0
+Title - 採掘場跡を堪能してきなさいよ！
+Explanation - <%me>には<br>前の課題はすこしカンタンすぎたかしら。<br>じゃあ、次はこんな課題どう？<br>シンプルな撃破任務だけど<br>今のアンタの実力を測るにはうってつけね。<br>でも雑に暴れ回ったって評価対象外だから。<br>華麗にＳランククリアしてきなさい！<br><br><yellow>※ベリーハード以上、Ｓランククリア<c>
+
+Group 1
+Title - Know the Abandoned Mine!
+Explanation - <yellow>Clear with an S Rank on Very Hard or above.<c>
+
+

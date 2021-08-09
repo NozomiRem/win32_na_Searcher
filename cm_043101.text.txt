@@ -1,0 +1,19 @@
+cm_043101.text was created: 8/8/2021 9:01:46 PM
+Filesize is: 608 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - 高台を渡って進みましょう。<br>下に落ちてしまうと、エネミーが現れて<br>道をふさがれてしまいますよ。
+
+Group 1
+skit01 - Cross the plateau. If you fall, enemies will<br>appear and block your path.
+
+

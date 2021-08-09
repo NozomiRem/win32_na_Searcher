@@ -1,0 +1,11 @@
+co_013312.text was created: 8/8/2021 8:53:31 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+linewindow - <br>デ・マルモスを討伐せよ!!<br>
+
+Group 1
+linewindow - <br>Defeat the De Marmoth!<br>
+
+

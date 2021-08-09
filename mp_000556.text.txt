@@ -1,0 +1,18 @@
+mp_000556.text was created: 8/8/2021 8:47:07 PM
+Filesize is: 368 bytes
+
+CharaName
+Group 0
+name01 - メッセージパック
+
+Group 1
+name01 - Datapod
+
+
+Event1
+Group 0
+text01 - 演習を終了するスイッチです。
+
+Group 1
+
+

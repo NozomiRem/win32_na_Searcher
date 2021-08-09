@@ -1,0 +1,11 @@
+cm_048409.text was created: 8/8/2021 8:49:38 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 訓練のご褒美を受け取ったら<br>帰還してください！<br>お疲れ様でしたー。
+
+Group 1
+
+

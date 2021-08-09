@@ -1,0 +1,15 @@
+ac06040817.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 880 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「滄海の底に、震える」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE2」を進めることでプレイ可能になる<br>「滄海の底に、震える」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Quaking Beneath Blue Waters"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "Quaking Beneath Blue Waters" unlocked <br>by progressing through Episode 2!
+
+

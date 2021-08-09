@@ -1,0 +1,11 @@
+co_050042.text was created: 8/8/2021 8:47:50 PM
+Filesize is: 400 bytes
+
+system_message
+Group 0
+linewindow001 - メルフォンシーナをパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Melfonseana as your Partner.
+
+

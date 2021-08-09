@@ -1,0 +1,15 @@
+co03032008.text was created: 8/8/2021 8:54:04 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - ファイターの極致を追求・Ⅲ
+Explanation - 変わらず活躍しているようだな。<br>ファイターとしてのお前を誇りに思う。<br>だが極みに達するには、道のりは遠い。<br>スキルアップを図りたいなら<br>またオレにお前の功績を示してくれ。<br><br><yellow>※Ｆｉエクスキューブ×３の納品<c>
+Errand - ファイターのスキルポイント＋１
+
+Group 1
+Title - The Path to Furious Fighterdom III
+Explanation - <yellow>Deliver Fighter EX-Cube x3.<c>
+Errand - +1 Fighter Skill Point
+
+

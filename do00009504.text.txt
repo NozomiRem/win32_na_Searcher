@@ -1,0 +1,13 @@
+do00009504.text was created: 8/8/2021 8:56:25 PM
+Filesize is: 400 bytes
+
+Info
+Group 0
+Title - デイリーオーダーテスト4
+Explanation - モノメイトを集めています。
+
+Group 1
+Title - Daily Order Test 4
+Explanation - Collecting Monomates.
+
+

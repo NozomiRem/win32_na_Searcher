@@ -1,0 +1,11 @@
+cm_069300.text was created: 8/8/2021 8:55:39 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+Title - エネミー残り70体！
+
+Group 1
+Title - 70 enemies left!
+
+

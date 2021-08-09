@@ -1,0 +1,11 @@
+mb_010090.text was created: 8/8/2021 8:59:20 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+linewindow001 - マターの捜索が完了しました。
+linewindow002 - ストーリークエスト【EP1】『最初の決別』が解放されました。
+
+Group 1
+
+

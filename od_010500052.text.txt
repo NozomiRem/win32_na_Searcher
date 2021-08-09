@@ -1,0 +1,19 @@
+od_010500052.text was created: 8/8/2021 8:59:26 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - シー
+
+Group 1
+
+
+Event1
+Group 0
+11_voice_NPC_5061_100 - 依頼、受けてくれてありがとね！<br>それじゃしっかり<br>モニタリングさせてもらうから！
+text02 - 貴方は気にせずに<br>いつもどーり任務をこなすつもりで！
+text03 - それじゃ、よろしくねー！
+
+Group 1
+
+

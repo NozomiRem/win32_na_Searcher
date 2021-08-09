@@ -1,0 +1,11 @@
+cm_064110.text was created: 8/8/2021 9:01:53 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 強力な部隊が現れました！<br>何とか！<br>しのぎ切ってください！
+
+Group 1
+
+

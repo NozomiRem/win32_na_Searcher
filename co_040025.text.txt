@@ -1,0 +1,13 @@
+co_040025.text was created: 8/8/2021 8:49:40 PM
+Filesize is: 432 bytes
+
+TutorialText
+Group 0
+Title - 『ペットラボの場所』について
+text01 - 『ペットラボの場所』について1
+
+Group 1
+Title - Location of the Pet Lab
+text01 - Location of the Pet Lab (1)
+
+

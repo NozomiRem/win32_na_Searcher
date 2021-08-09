@@ -1,0 +1,11 @@
+cm_060906.text was created: 8/8/2021 8:55:50 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+name01 - マトイ
+text01 - ￥無事でよかった。<br>……おかえりなさい。
+
+Group 1
+
+

@@ -1,0 +1,13 @@
+do00009503.text was created: 8/8/2021 8:56:25 PM
+Filesize is: 432 bytes
+
+Info
+Group 0
+Title - デイリーオーダーテスト3
+Explanation - 惑星アムドゥスキアの<br>ダガン限定です。
+
+Group 1
+Title - Daily Order Test 3
+Explanation - Amduskian Dagans<br>only.
+
+

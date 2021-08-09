@@ -1,0 +1,14 @@
+ac06030961.text was created: 8/8/2021 9:01:29 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - コーデカタログで「いいね！」を送る
+Explanation - コーデカタログから、好きなコーデに<br>「いいね！」を送ってみよう！<br><yellow><br>※コーデカタログの「みんなのコーデを見る」から<br>　好きなコーデを選択し「いいね！」を送信で達成<c>
+
+Group 1
+Title - Debug Order: Grant EXP
+Explanation - 5 Monomates, Thank You Kindly
+
+

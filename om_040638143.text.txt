@@ -1,0 +1,11 @@
+om_040638143.text was created: 8/8/2021 9:00:11 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text01 - よーし、お仕事終了ーっ。
+
+Group 1
+text01 - Boom. Mission complete.
+
+

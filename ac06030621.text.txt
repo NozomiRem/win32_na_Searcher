@@ -1,0 +1,15 @@
+ac06030621.text was created: 8/8/2021 9:01:29 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 世壊種（AM）を７０体撃破
+Explanation - 世壊種（AM）を７０体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<c>
+
+Group 1
+Title - Event Mission
+Goal - Destroy 70 Tainted Draconians
+Explanation - Defeat 70 Tainted Draconian!<br><br><yellow>Note: Enemies must be Lv. 1 or above.<c>
+
+

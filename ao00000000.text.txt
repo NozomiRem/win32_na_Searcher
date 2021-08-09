@@ -1,0 +1,13 @@
+ao00000000.text was created: 8/8/2021 8:56:50 PM
+Filesize is: 320 bytes
+
+Info
+Group 0
+Title - タイトル
+Explanation - 説明
+
+Group 1
+Title - Title
+Explanation - Explanation
+
+

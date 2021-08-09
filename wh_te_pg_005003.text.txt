@@ -1,0 +1,17 @@
+wh_te_pg_005003.text was created: 8/8/2021 9:00:43 PM
+Filesize is: 400 bytes
+
+Title
+Group 0
+name01 - 特別なアイテムや特殊能力をゲット！
+
+Group 1
+name01 - Get Some Special Items and Augments!
+
+
+mess
+Group 0
+
+Group 1
+
+

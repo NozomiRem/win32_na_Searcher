@@ -1,0 +1,11 @@
+cm_069609.text was created: 8/8/2021 8:59:04 PM
+Filesize is: 304 bytes
+
+Skit00
+Group 0
+mes00 - ボーナスエネミーを撃破！
+
+Group 1
+mes00 - Destroy the Bonus Enemy!
+
+

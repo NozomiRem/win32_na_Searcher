@@ -1,0 +1,13 @@
+cm_048613.text was created: 8/8/2021 9:00:46 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 制限時間、終了！<br>今回はここまでとなります。<br>帰還エリアに転送しますね。
+
+Group 1
+name01 - Xiera
+text01 - Time's up!<br>That's it for this time.<br>I'm sending you to the return area.
+
+

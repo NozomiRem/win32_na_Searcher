@@ -1,0 +1,14 @@
+ac06050611.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - スターミッション・６－１１
+Goal - 黒ノ領域で１５回「採取」をする
+Explanation - 黒ノ領域のフリーフィールドで<br>１５回「採取」をしよう！
+
+Group 1
+Goal - Harvest 15 times in the Nightfall Province
+Explanation - Go on an Expedition to the Nightfall Province and harvest 15 times!
+
+

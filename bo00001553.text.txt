@@ -1,0 +1,13 @@
+bo00001553.text was created: 8/8/2021 8:59:45 PM
+Filesize is: 640 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 任意のドリンクを飲む<br><br>※ドリンクは<br>メディカルセンターおよび<br>キャンプシップの端末で<br>飲むことができます。
+
+Group 1
+Title - Bingo Order 99
+Explanation - Have a Drink<br><br>Drinks can be purchased at the Medical Bay <br>or Gateway Ship Terminal.
+
+

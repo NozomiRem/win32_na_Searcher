@@ -1,0 +1,11 @@
+om_050668022.text was created: 8/8/2021 8:48:52 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+text01 - クエスト開始時テキスト
+
+Group 1
+text01 - Quest Start Text
+
+

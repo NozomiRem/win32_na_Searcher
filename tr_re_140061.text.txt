@@ -1,0 +1,17 @@
+tr_re_140061.text was created: 8/8/2021 8:57:48 PM
+Filesize is: 912 bytes
+
+Tut_win
+Group 0
+train_title - 課題１：<yellow>ＰＡをエネミーに使用する<c>
+tut_title - フォトンアーツについて
+text100 - ・<%WeaponAction>と<%PhotonArts>でフォトンアーツを発動
+text100_3b - ・<%PhotonArts>でフォトンアーツを発動
+
+Group 1
+train_title - Training 1: <yellow>Use a Photon Art on the enemy<c>
+tut_title - Photon Arts
+text100 - -Unleash a Photon Art with <%WeaponAction> and <%PhotonArts>
+text100_3b - -Unleash a Photon Art with <%PhotonArts>
+
+

@@ -1,0 +1,13 @@
+om_040640023.text was created: 8/8/2021 8:58:49 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+text02 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+text02 - ＊＊＊
+
+

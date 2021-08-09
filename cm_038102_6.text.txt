@@ -1,0 +1,13 @@
+cm_038102_6.text was created: 8/8/2021 9:01:17 PM
+Filesize is: 544 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - ベイゼが<c bb0000>残り３０秒で爆発<c>します。<br>お急ぎを。
+
+Group 1
+name01 - Inanna
+text01 - Only <c bb0000>30 seconds left until the Bayze explodes<c>.<br>Speed is of the essence.
+
+

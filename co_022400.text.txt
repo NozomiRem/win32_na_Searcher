@@ -1,0 +1,13 @@
+co_022400.text was created: 8/8/2021 8:58:44 PM
+Filesize is: 288 bytes
+
+Skit
+Group 0
+skit01 - Oracle
+skit02 - オラクル
+
+Group 1
+skit01 - Oracle
+skit02 - Oracle
+
+

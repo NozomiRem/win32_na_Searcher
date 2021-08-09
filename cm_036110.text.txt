@@ -1,0 +1,11 @@
+cm_036110.text was created: 8/8/2021 8:55:04 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - お疲れ様です！　今のが最後……って<br>え……ら、ラッピー？　なんで！？<br>と、とにかくやっつけてくださいー！
+
+Group 1
+
+

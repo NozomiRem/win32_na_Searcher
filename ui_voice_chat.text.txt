@@ -1,0 +1,17 @@
+ui_voice_chat.text was created: 8/8/2021 8:57:13 PM
+Filesize is: 704 bytes
+
+Toast
+Group 0
+VoiceChatOn - ボイスチャットはONになっています。
+VoiceChatOff - ボイスチャットはOFFになっています。
+MicrophoneMuteOn - マイクをミュートにしました。
+MicrophoneMuteOff - マイクのミュートを解除しました。
+
+Group 1
+VoiceChatOn - Voice chat is now on.
+VoiceChatOff - Voice chat is now off.
+MicrophoneMuteOn - Mic has been muted.
+MicrophoneMuteOff - Mic has been unmuted.
+
+

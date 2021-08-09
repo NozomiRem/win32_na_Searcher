@@ -1,0 +1,13 @@
+cm_057061.text was created: 8/8/2021 8:48:21 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - フォトンパニッシャーを転送します。<br>残る敵性存在の撃破を。
+
+Group 1
+name01 - Inanna
+text01 - Teleporting a Photon Punisher over.<br>Eliminate the remaining enemy presence.
+
+

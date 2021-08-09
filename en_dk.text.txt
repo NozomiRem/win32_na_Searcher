@@ -1,0 +1,23 @@
+en_dk.text was created: 8/8/2021 8:48:25 PM
+Filesize is: 480 bytes
+
+Word
+Group 0
+Appear - ＊＊＊
+Dead - ＊＊＊
+Shot1 - ＊＊＊
+Shot2 - ＊＊＊
+SlashFBegin - ＊＊＊
+SlashFEnd - ＊＊＊
+Escape - ＊＊＊
+
+Group 1
+Appear - ＊＊＊
+Dead - ＊＊＊
+Shot1 - ＊＊＊
+Shot2 - ＊＊＊
+SlashFBegin - ＊＊＊
+SlashFEnd - ＊＊＊
+Escape - ＊＊＊
+
+

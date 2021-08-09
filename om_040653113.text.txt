@@ -1,0 +1,11 @@
+om_040653113.text was created: 8/8/2021 9:01:22 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - さすがニャン！<br>あっという間に終わったニャン！
+
+Group 1
+text01 - That was quick! You really are the cat's meow!
+
+

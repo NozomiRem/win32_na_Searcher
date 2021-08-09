@@ -1,0 +1,13 @@
+cm_056320.text was created: 8/8/2021 8:47:54 PM
+Filesize is: 560 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu062 - あれがダークファルス・アプレンティスの<br>真の姿……<br>あんなのが都市部に行ったら……
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu062 - Dark Falz Apprentice's true form... If that<br>thing makes its way to the city...
+
+

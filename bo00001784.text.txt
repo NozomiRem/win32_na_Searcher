@@ -1,0 +1,13 @@
+bo00001784.text was created: 8/8/2021 8:59:49 PM
+Filesize is: 608 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【クエストクリア】<br>トリックオアトリート２０１７！<br><br>【クエスト難易度】<br>ノーマル以上
+
+Group 1
+Title - Bingo Order 99
+Explanation - [Quest Completion]<br>Trick or Treat 2017!<br><br>[Quest Difficulty]<br>Normal or above
+
+

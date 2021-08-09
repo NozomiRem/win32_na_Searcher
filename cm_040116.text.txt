@@ -1,0 +1,11 @@
+cm_040116.text was created: 8/8/2021 8:53:28 PM
+Filesize is: 368 bytes
+
+TutorialText
+Group 0
+Title - マガツ接近！　A.I.Sを駆使して撃退しろ！
+
+Group 1
+Title - Magatsu approaching! Fend him off in your AIS!
+
+

@@ -1,0 +1,13 @@
+cm_056306.text was created: 8/8/2021 8:47:06 PM
+Filesize is: 560 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu049 - 敵性反応を確認！<br>防衛対象に攻撃させないよう<br>注意してください！
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu049 - Enemy presence confirmed! Take care<br>the cannon you're protecting <br>doesn't get attacked!
+
+

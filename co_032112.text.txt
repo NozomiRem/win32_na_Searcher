@@ -1,0 +1,23 @@
+co_032112.text was created: 8/8/2021 8:58:01 PM
+Filesize is: 512 bytes
+
+CharaName
+Group 0
+name01 - ？？？
+name02 - ？？？
+
+Group 1
+name01 - ???
+name02 - ???
+
+
+endcall
+Group 0
+skit01 - Quest Title
+skit02 - 1章 クエストタイトル
+
+Group 1
+skit01 - Quest Title
+skit02 - Chapter 1: Quest Title
+
+

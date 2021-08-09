@@ -1,0 +1,15 @@
+ac06041014.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「フローの願い」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE5」を進めることでプレイ可能になる<br>「フローの願い」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Florent's Request"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "Florent's Request" unlocked by<br>progressing through Episode 5!
+
+

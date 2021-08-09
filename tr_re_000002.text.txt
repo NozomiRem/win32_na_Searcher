@@ -1,0 +1,17 @@
+tr_re_000002.text was created: 8/8/2021 8:55:16 PM
+Filesize is: 688 bytes
+
+Tut_win
+Group 0
+train_title - 課題２：<yellow>[ライジングエッジ]を使用する
+tut_title - フォトンアーツの使用
+text100 - ・<%PhotonArts>でフォトンアーツを使用する
+text100_3b - ・<%PhotonArts>でフォトンアーツを使用する
+
+Group 1
+train_title - Training 2: <yellow>Use Rising Edge
+tut_title - Using Photon Arts
+text100 - -Unleash a Photon Art using <%PhotonArts>!
+text100_3b - -Unleash a Photon Art using <%PhotonArts>!
+
+

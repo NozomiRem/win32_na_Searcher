@@ -1,0 +1,10 @@
+cm_048200.text was created: 8/8/2021 8:57:40 PM
+Filesize is: 240 bytes
+
+Event1
+Group 0
+line01 - フェンスが開いた！　先に進め！
+
+Group 1
+
+

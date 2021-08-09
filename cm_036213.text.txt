@@ -1,0 +1,13 @@
+cm_036213.text was created: 8/8/2021 8:49:38 PM
+Filesize is: 672 bytes
+
+Event1
+Group 0
+name01 - シャオ
+text01 - これが【深遠なる闇】……<br>なんて強大な……でも、君たちなら<br>きっとやれる。ぼくは、信じてる。
+
+Group 1
+name01 - Xiao
+text01 - So this is the Profound Darkness... A force of<br>wanton destruction beyond all measure. Yet I<br>know you all can prevail. I believe in you.
+
+

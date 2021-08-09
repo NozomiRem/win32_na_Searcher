@@ -1,0 +1,13 @@
+co_032410.text was created: 8/8/2021 8:58:02 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+skit01 - Digging Base 
+skit02 - 惑星リリーパ　採掘基地
+
+Group 1
+skit01 - Digging Base 
+skit02 - Lillipa - Mining Base
+
+

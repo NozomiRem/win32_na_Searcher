@@ -1,0 +1,19 @@
+cm_060221.text was created: 8/8/2021 8:47:55 PM
+Filesize is: 512 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - エリア目標が出現しました！<br>撃破してください！
+
+Group 1
+skit01 - This area's target has appeared! Please defeat them.
+
+

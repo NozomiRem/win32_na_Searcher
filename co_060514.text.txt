@@ -1,0 +1,11 @@
+co_060514.text was created: 8/8/2021 8:46:11 PM
+Filesize is: 432 bytes
+
+Skit
+Group 0
+linewindow001 - おすすめクエスト、ボーナスクエストが受注出来るようになりました。
+
+Group 1
+linewindow001 - You now have access to "Recommended Quests" and<br>"Bonus Quests".
+
+

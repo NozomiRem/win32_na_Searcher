@@ -1,0 +1,19 @@
+co_012902.text was created: 8/8/2021 9:01:54 PM
+Filesize is: 544 bytes
+
+Skit
+Group 0
+skit01 - 障壁が開放されたみたいですね
+
+Group 1
+skit01 - It looks like the barrier is open.
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 1 障壁が開放されたみたいですね
+
+Group 1
+skit01 - /ci1 1 It looks like the barrier is open.
+
+

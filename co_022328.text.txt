@@ -1,0 +1,27 @@
+co_022328.text was created: 8/8/2021 8:54:13 PM
+Filesize is: 816 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 1 相棒、そっちじゃないぜ。<br>たぶん……こっちだ。
+
+Group 1
+skit01 - /ci1 1 Not that way, mate. I'm pretty sure...<br>it's over here.
+
+
+Skit
+Group 0
+skit01 - 相棒、そっちじゃないぜ。<br>たぶん……こっちだ。
+
+Group 1
+skit01 - Not that way, mate. I'm pretty sure...<br>it's over here.
+
+

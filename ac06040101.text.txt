@@ -1,0 +1,15 @@
+ac06040101.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「武器の持ち替え再確認！」を達成報告
+Explanation - ゲートエリアにいるアフィンのクライアントオーダー<br>「武器の持ち替え再確認！」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Weapon Swapping is Key!"
+Explanation - Complete Afin's Client Order "Weapon Swapping is Key!"<br>Afin can be found in the Gate Area.
+
+

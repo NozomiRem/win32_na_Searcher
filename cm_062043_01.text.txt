@@ -1,0 +1,19 @@
+cm_062043_01.text was created: 8/8/2021 8:59:44 PM
+Filesize is: 496 bytes
+
+CharaName
+Group 0
+name01 - ヒルダ
+
+Group 1
+name01 - Hilda
+
+
+Skit00
+Group 0
+cu_090010_0140 - 仮想標的を追加する。<br>すべて破壊しろ。
+
+Group 1
+cu_090010_0140 - Adding virtual targets.<br>Destroy them all.
+
+

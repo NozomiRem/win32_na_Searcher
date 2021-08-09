@@ -1,0 +1,13 @@
+om_040651013.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 608 bytes
+
+Event1
+Group 0
+text01 - ふーっ、これで終わりかな？<br>いい運動になったなぁ。
+text02 - とと、これは遊びじゃないんだった。<br>しっかり気を引き締めないと。
+
+Group 1
+text01 - Phew, is that it? That was a good workout.
+text02 - Er, I mean. We're not here for funsies!<br>Gotta stay focused!
+
+

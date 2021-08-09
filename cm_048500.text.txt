@@ -1,0 +1,11 @@
+cm_048500.text was created: 8/8/2021 8:47:35 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 訓練開始です。<br>すべてのエネミーを撃破してください。
+
+Group 1
+
+

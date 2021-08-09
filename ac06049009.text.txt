@@ -1,0 +1,14 @@
+ac06049009.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - タイムアタッククエストをクリア
+Explanation - 任意のタイムアタッククエストを１回クリアしよう！<br><br><yellow>※難度ハード以上で達成<c>
+
+Group 1
+Goal - Clear a Time Attack Quest
+Explanation - Clear a Time Attack Quest!<br><br><yellow>Quest must be completed on Hard or higher to count for completion.<c>
+
+

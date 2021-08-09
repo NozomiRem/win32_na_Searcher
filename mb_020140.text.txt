@@ -1,0 +1,12 @@
+mb_020140.text was created: 8/8/2021 8:55:16 PM
+Filesize is: 496 bytes
+
+Skit
+Group 0
+linewindow001 - マターの捜索が完了しました。
+linewindow002 - ストーリークエスト【EP2】『不意の邂逅』が解放されました。
+linewindow003 - あなたの行動により、新たな可能性が生まれました。<br>ストーリークエスト【EP2】『不意の邂逅』を確認してください。
+
+Group 1
+
+

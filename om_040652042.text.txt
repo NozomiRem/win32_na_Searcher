@@ -1,0 +1,11 @@
+om_040652042.text was created: 8/8/2021 8:47:33 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+text01 - さあ、世界を蝕む邪悪へと<br>皆で挑もうではないかッ！
+
+Group 1
+text01 - Come, and together we shall challenge the evil<br>that gnaws away at this world!
+
+

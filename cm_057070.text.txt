@@ -1,0 +1,13 @@
+cm_057070.text was created: 8/8/2021 8:57:49 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_008 - すべての人型エネミーを撃破し<br>先を目指してください。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_008 - Defeat all the human enemies as you advance.
+
+

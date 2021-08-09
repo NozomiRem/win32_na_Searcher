@@ -1,0 +1,13 @@
+cm_056330.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 560 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu073 - 目標を確認。<br>すでに完全体になり、<br>以前よりも力を増しています。
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu073 - Target detected. Its transformation is<br>complete, and it's more powerful<br>than before.
+
+

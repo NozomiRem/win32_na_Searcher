@@ -1,0 +1,19 @@
+od_040640037.text was created: 8/8/2021 8:58:20 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+11_voice_NPC_5443_101 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+11_voice_NPC_5443_100 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+11_voice_NPC_5443_101 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+11_voice_NPC_5443_100 - ＊＊＊
+
+

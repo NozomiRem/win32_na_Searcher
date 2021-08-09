@@ -1,0 +1,13 @@
+cm_060503.text was created: 8/8/2021 9:00:49 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - ヘンリエッタ
+text01 - 索敵完了。周辺のエネミー反応無し。<br>お疲れさまでした。帰還を許可します。<br>……メリークリスマス。
+
+Group 1
+name01 - Henrietta
+text01 - Search completed. No enemies detected. Good work out there. You have permission to return. Merry Christmas.
+
+

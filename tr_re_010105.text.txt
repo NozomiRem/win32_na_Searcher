@@ -1,0 +1,17 @@
+tr_re_010105.text was created: 8/8/2021 8:53:10 PM
+Filesize is: 1488 bytes
+
+Tut_win
+Group 0
+train_title - 課題５：<yellow>ギアを１段階以上ためてフォトンアーツ発動
+tut_title - パルチザンギアについて
+text100 - ・<%WeaponAction>や通常攻撃後の<br>　「舞」でギア１段階以上ためる<br>・<%PhotonArts>でフォトンアーツを発動
+text100_3b - ・<%MainPaletteC>や通常攻撃後の<br>　「舞」でギア１段階以上ためる<br>・<%PhotonArts>でフォトンアーツを発動
+
+Group 1
+train_title - Training 5: <yellow>Raise your Focus to one or higher and use a Photon Art
+tut_title - Partisan Focus
+text100 - -Use a Flourish after a <%WeaponAction> or Normal<br>Attack and raise your Focus to one or higher<br>-Fire off a Photon Art with <%PhotonArts>
+text100_3b - -Use a Flourish after a <%MainPaletteC> or Normal<br>Attack and raise your Focus to one or higher<br>-Fire off a Photon Art with <%PhotonArts>
+
+

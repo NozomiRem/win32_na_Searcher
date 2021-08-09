@@ -1,0 +1,23 @@
+co_0511102.text was created: 8/8/2021 8:59:43 PM
+Filesize is: 608 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+name02 - シエラ
+name03 - シエラ
+
+Group 1
+name01 - Xiera
+name02 - Xiera
+name03 - Xiera
+
+
+Skit00
+Group 0
+text00 - ダークファルス・アプレンティスの<br>反応が強くなっています！
+
+Group 1
+text00 - Dark Falz Apprentice's signal is getting<br>stronger!
+
+

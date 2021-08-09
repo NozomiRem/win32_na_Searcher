@@ -1,0 +1,27 @@
+co_012108.text was created: 8/8/2021 8:47:54 PM
+Filesize is: 752 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit
+Group 0
+skit01 - 早く帰ろうぜ相棒……<br>おれ、疲れたよ……
+
+Group 1
+skit01 - Let's get back, mate...<br>Man, I'm beat...
+
+
+Skit_ci
+Group 0
+skit01 - /ci4 2 早く帰ろうぜ相棒……<br>おれ、疲れたよ……
+
+Group 1
+skit01 - /ci4 2 Let's get back, mate...<br>Man, I'm beat...
+
+

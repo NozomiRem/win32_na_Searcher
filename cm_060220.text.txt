@@ -1,0 +1,19 @@
+cm_060220.text was created: 8/8/2021 8:54:58 PM
+Filesize is: 608 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - このエリアの目標は<br>特定エネミーの撃破です。<br>注意して進んでくださいね！
+
+Group 1
+skit01 - The objective here is to defeat certain enemies. Please be cautious as you proceed!
+
+

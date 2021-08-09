@@ -1,0 +1,11 @@
+cm_058201.text was created: 8/8/2021 8:58:00 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+name01 - アークマ
+11_voice_NPC_5104_01_11 - おや？　コンテナが想定外の形状だ。<br>キュートな余り破壊し難い心情であると<br>忖度するが、遠慮なく受領されたい。
+
+Group 1
+
+

@@ -1,0 +1,25 @@
+quest_00010010.text was created: 8/8/2021 8:53:14 PM
+Filesize is: 496 bytes
+
+Basic
+Group 0
+Title - ずっとこの日を待っていた
+
+Group 1
+
+
+QuestTarget
+Group 0
+SimpleExplanation - ？？？
+
+Group 1
+
+
+AcceptCondition
+Group 0
+a1 - 特定のクライアントオーダーのクリア
+a2 - 特定のクライアントオーダーのクリア
+
+Group 1
+
+

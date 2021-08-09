@@ -1,0 +1,14 @@
+ac06051006.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 768 bytes
+
+Info
+Group 0
+Title - スターミッション・１０－６
+Goal - Ｈ：弱点攻撃でエネミーを１０体撃破
+Explanation - 弱点を攻撃してエネミーを１０体撃破しよう！<br><br><yellow>※Lv.21～のエネミーが対象<c>
+
+Group 1
+Goal - H: Defeat 10 Enemies with Weak Point Attacks
+Explanation - Defeat a total of 10 enemies with weak point attacks!<br><br><yellow>Note: Enemies must be Lv. 21 or above.<c>
+
+

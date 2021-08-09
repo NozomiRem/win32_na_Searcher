@@ -1,0 +1,24 @@
+tr_140160.text was created: 8/8/2021 9:01:41 PM
+Filesize is: 688 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_train_04006 - ￥オミットになるかも枠
+text02 - ￥オミットになるかも枠２
+text03 - ￥オミットになるかも枠３
+text101 - ￥課題９：オミットになるかも枠
+
+Group 1
+
+
+Tut_win
+Group 0
+train_title - ￥課題９：オミットになるかも枠
+tut_title - チュートリアル動画タイトル
+text100 - チュートリアル動画文1
+text100_3b - チュートリアル動画文2
+
+Group 1
+
+

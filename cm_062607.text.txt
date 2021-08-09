@@ -1,0 +1,26 @@
+cm_062607.text was created: 8/8/2021 8:59:41 PM
+Filesize is: 608 bytes
+
+CharaName
+Group 0
+name01 - マトイ
+
+Group 1
+
+
+Skit00
+Group 0
+text00 - あの向こうが中枢……
+
+Group 1
+text00 - The core is over there...
+
+
+Skit00_ci
+Group 0
+text00_ci - /ci1 3 あの向こうが中枢……
+
+Group 1
+text00_ci - /ci1 3 The core is over there...
+
+

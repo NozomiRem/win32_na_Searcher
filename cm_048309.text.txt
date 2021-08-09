@@ -1,0 +1,11 @@
+cm_048309.text was created: 8/8/2021 8:59:01 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 当訓練の最終目標の撃破、確認！<br>帰還エリアに転送します！
+
+Group 1
+
+

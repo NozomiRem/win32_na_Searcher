@@ -1,0 +1,10 @@
+cm_064310.text was created: 8/8/2021 9:00:53 PM
+Filesize is: 224 bytes
+
+Skit00
+Group 0
+mes00 - エネルギータンク出現！
+
+Group 1
+
+

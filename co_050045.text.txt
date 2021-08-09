@@ -1,0 +1,11 @@
+co_050045.text was created: 8/8/2021 8:58:13 PM
+Filesize is: 384 bytes
+
+system_message
+Group 0
+linewindow001 - メルランディアをパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Melrandia as your Partner.
+
+

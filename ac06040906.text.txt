@@ -1,0 +1,15 @@
+ac06040906.text was created: 8/8/2021 9:01:35 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「地球の導き手」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE4」を進めることでプレイ可能になる<br>「地球の導き手」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "A Guide for Earth"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "A Guide for Earth" unlocked by<br>progressing through Episode 4!
+
+

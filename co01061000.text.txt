@@ -1,0 +1,17 @@
+co01061000.text was created: 8/8/2021 8:57:03 PM
+Filesize is: 352 bytes
+
+Info
+Group 0
+Title - ＊＊＊
+Explanation - ＊＊＊
+Errand - ＊＊＊
+Errand2 - ＊＊＊
+
+Group 1
+Title - ＊＊＊
+Explanation - ＊＊＊
+Errand - ＊＊＊
+Errand2 - ＊＊＊
+
+

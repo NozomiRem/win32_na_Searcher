@@ -1,0 +1,14 @@
+ac06031742.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 896 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - スペシャルギフトを５回獲得
+Explanation - おすすめクエストを評価Ａランク以上でクリア後に<br>キャンプシップに出現するプレゼントボックスから<br>「スペシャルギフト」を５回獲得しよう！
+
+Group 1
+Goal - Acquire 5 Special Presents
+Explanation - Clear 5 Recommended Quests with an A Rank or<br>better to obtain a gift box on the Gateway Ship,<br>and then open the box to receive a Special Present<br>each time, for a total of 5!
+
+

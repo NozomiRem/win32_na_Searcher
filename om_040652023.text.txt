@@ -1,0 +1,11 @@
+om_040652023.text was created: 8/8/2021 9:01:12 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text01 - ま、こんなもんでしょ。
+
+Group 1
+text01 - Yeah, that's what I thought.
+
+

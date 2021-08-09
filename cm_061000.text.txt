@@ -1,0 +1,27 @@
+cm_061000.text was created: 8/8/2021 8:53:15 PM
+Filesize is: 448 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit_ci00
+Group 0
+skit01 - ***
+
+Group 1
+skit01 - ***
+
+
+Skit00
+Group 0
+skit01 - ***
+
+Group 1
+skit01 - ***
+
+

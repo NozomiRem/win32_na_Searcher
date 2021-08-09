@@ -1,0 +1,13 @@
+bo00001665.text was created: 8/8/2021 8:59:48 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - リングを強化する<br><br>※リングの強化は、ショップエリアにいる<br>アイテムラボ店員ドゥドゥまたはモニカから<br>行うことができます。
+
+Group 1
+Title - Bingo Order 99
+Explanation - Enhance a Ring<br><br>To enhance an item, go see Item Scientists <br>Dudu or Monica in the Shopping Plaza.
+
+

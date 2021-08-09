@@ -1,0 +1,15 @@
+ac06050509.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・５－９
+Goal - 原生種撃破（Lv.41～）×２０
+Explanation - 仮　ac06050509
+
+Group 1
+Title - ac06050509 Title
+Goal - ac06050509 Goal
+Explanation - ac06050509 Explanation
+
+

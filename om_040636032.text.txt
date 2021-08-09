@@ -1,0 +1,11 @@
+om_040636032.text was created: 8/8/2021 8:50:13 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+text01 - よーっし、張り切っていこー！
+
+Group 1
+text01 - All right, time to get moving!
+
+

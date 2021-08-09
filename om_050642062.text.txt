@@ -1,0 +1,11 @@
+om_050642062.text was created: 8/8/2021 8:59:44 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - ちゃちゃっと<br>スクラップにしてやろうぜ！
+
+Group 1
+text01 - Let's send these bastards to the scrapheap!
+
+

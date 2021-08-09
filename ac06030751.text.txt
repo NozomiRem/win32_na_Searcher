@@ -1,0 +1,15 @@
+ac06030751.text was created: 8/8/2021 9:01:29 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 「トリック・オア・ディフィート？」の達成報告
+Explanation - ショップエリアにいるシー（ハロウィン２０１９）の<br>クライアントオーダー「トリック・オア・ディフィート？」を<br>達成報告しよう！
+
+Group 1
+Title - Event Mission
+Goal - Complete “Trick or Defeat?”
+Explanation - Complete Xia’s (Halloween 2019)<br>Client Order “Trick or Defeat?”!<br>Xia can be found in the Shopping Plaza.
+
+

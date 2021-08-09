@@ -1,0 +1,15 @@
+ac06040401.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「森林探索」をクリア
+Explanation - フリーフィールド「森林探索」をクリアし<br>火山洞窟エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Forest Exploration"
+Explanation - Clear the Expedition "Forest Exploration" and<br>unlock the Volcanic Caves!
+
+

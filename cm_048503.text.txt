@@ -1,0 +1,11 @@
+cm_048503.text was created: 8/8/2021 8:53:11 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 全エネミーの撃破を確認。<br>次のエリアへ進んで下さい。
+
+Group 1
+
+

@@ -1,0 +1,13 @@
+cm_063022.text was created: 8/8/2021 8:56:57 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09_armada_028 - 妨害装置のバリア消滅！<br>今です！　破壊してください！
+
+Group 1
+name01 - Xiera
+11_voice_navi09_armada_028 - The shields on the disruptors are down! This is your chance! Take them out!
+
+

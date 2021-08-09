@@ -1,0 +1,15 @@
+ii_ssn_apc_ev_nyau.text was created: 8/8/2021 8:54:03 PM
+Filesize is: 512 bytes
+
+common
+Group 0
+IncidentName - ニャウと勝負せよ！
+TrialBeginMsg - パートナー達と共闘してニャウに勝て！
+TrialAbstract - パートナー達と共闘してニャウに勝て！
+
+Group 1
+IncidentName - Scrap with Nyau!
+TrialBeginMsg - Join forces with your allies to beat Nyau!
+TrialAbstract - Join forces with your allies to beat Nyau!
+
+

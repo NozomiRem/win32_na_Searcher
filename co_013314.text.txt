@@ -1,0 +1,11 @@
+co_013314.text was created: 8/8/2021 9:01:31 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+linewindow - <br>グワナーダを討伐せよ!!<br>
+
+Group 1
+linewindow - <br>Neutralize the Gwanada!<br>
+
+

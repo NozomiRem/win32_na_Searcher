@@ -1,0 +1,11 @@
+om_050642072.text was created: 8/8/2021 8:56:11 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - さぁ……<br>みんなでイイコトしましょ。
+
+Group 1
+text01 - Let's make this as pleasurable as possible.
+
+

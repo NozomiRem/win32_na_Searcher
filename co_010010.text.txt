@@ -1,0 +1,11 @@
+co_010010.text was created: 8/8/2021 8:57:40 PM
+Filesize is: 480 bytes
+
+Event1
+Group 0
+text100 - 対象のマターは捜索済みです。<br>クライアントオーダーの目標を達成しました。
+
+Group 1
+text100 - The target Flux Points have been found.<br>You have completed your Client Order objective.
+
+

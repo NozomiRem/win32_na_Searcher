@@ -1,0 +1,21 @@
+cm_066041.text was created: 8/8/2021 8:50:13 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 次が最後のエリアです！<br>踏破目指して頑張ってください！
+
+Group 1
+name01 - Xiera
+text01 - Next is the final area!<br>Do your best to break through!
+
+

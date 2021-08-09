@@ -1,0 +1,13 @@
+cm_057008.text was created: 8/8/2021 8:59:53 PM
+Filesize is: 480 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_017 - 中央にエネミー出現。<br>全て撃破してください。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_017 - Enemies have spawned in the central area.<br>Defeat them all.
+
+

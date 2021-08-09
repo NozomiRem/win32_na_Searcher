@@ -1,0 +1,11 @@
+om_060643072.text was created: 8/8/2021 8:59:39 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - すべて……俺の刃のサビとなれ！
+text02 - やれやれ……<br>アギトの動向にも注意しつつ<br>進むとしよう。
+
+Group 1
+
+

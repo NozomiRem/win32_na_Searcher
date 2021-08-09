@@ -1,0 +1,14 @@
+ac06031831.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - エネミーを３００体撃破
+Explanation - 任意のエネミーを合計で３００体撃破しよう！<br><br><yellow>※Lv.80～のエネミーが対象<c>
+
+Group 1
+Goal - Defeat 300 Enemies
+Explanation - Defeat a total of 300 enemies!<br><br><yellow>Note: Enemies must be Lv. 80 or above.<c>
+
+

@@ -1,0 +1,11 @@
+cm_048507.text was created: 8/8/2021 8:58:16 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - エリア中央にエネミー出現。<br>全て撃破してください。
+
+Group 1
+
+

@@ -1,0 +1,17 @@
+wh_te_pg_004007.text was created: 8/8/2021 8:59:03 PM
+Filesize is: 416 bytes
+
+Title
+Group 0
+name01 - 特殊能力で装備品の性能をアップ！
+
+Group 1
+name01 - Feeling Weak? Augment Your Way to Victory!
+
+
+mess
+Group 0
+
+Group 1
+
+

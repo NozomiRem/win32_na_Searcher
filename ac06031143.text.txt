@@ -1,0 +1,15 @@
+ac06031143.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 「安寧を破りし超急の魔笛」を１０回クリア
+Explanation - 期間限定クエスト「安寧を破りし超急の魔笛」を<br>難度ハード以上で１０回クリアしよう！
+
+Group 1
+Title - Event Mission
+Goal - Clear “Disturbing Whistle of Chaos” 10 times
+Explanation - Clear Limited-Time Quest “Disturbing Whistle of Chaos”<br>10 times on Hard or above!
+
+

@@ -1,0 +1,11 @@
+cm_036102.text was created: 8/8/2021 8:54:14 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - B-1に転送装置を送りました！<br>それを使って先に進んでくださーい！
+
+Group 1
+
+

@@ -1,0 +1,15 @@
+ii_ssn_apc_ev_boss.text was created: 8/8/2021 8:54:03 PM
+Filesize is: 608 bytes
+
+common
+Group 0
+IncidentName - $(0)撃破
+TrialBeginMsg - パートナー達と共闘して乱入してきた<br>$(0)を撃破せよ！
+TrialAbstract - パートナー達と共闘して乱入してきた<br>$(0)を撃破せよ！
+
+Group 1
+IncidentName - Exterminate the $(0) Presence
+TrialBeginMsg - Join forces with your allies to destroy<br>the invading $(0) presence!
+TrialAbstract - Join forces with your allies to destroy<br>the invading $(0) presence!
+
+

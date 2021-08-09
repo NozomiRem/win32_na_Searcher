@@ -1,0 +1,13 @@
+cp_022704.text was created: 8/8/2021 8:56:49 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シャオ
+text01 - <%me>。<br>彼女の反応はそっちじゃない。<br>ここからすぐ北に、あるよ。
+
+Group 1
+name01 - Xiao
+text01 - <%me>.<br>Her signal isn't coming from there.<br>Its due north from here.
+
+

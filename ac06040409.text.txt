@@ -1,0 +1,15 @@
+ac06040409.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 768 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「白ノ領域探索」をクリア
+Explanation - フリーフィールド「白ノ領域探索」をクリアし<br>浮上施設エリア・東京エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Daybreak Province Exploration"
+Explanation - Clear the Expedition "Daybreak Province Exploration" and<br>unlock the Floating Facility and the Tokyo area!
+
+

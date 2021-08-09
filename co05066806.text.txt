@@ -1,0 +1,13 @@
+co05066806.text was created: 8/8/2021 8:47:53 PM
+Filesize is: 704 bytes
+
+Info
+Group 0
+Title - ユクちゃんとチョコ
+Explanation - 幻創ユクちゃんのチョコ、完成したのよ。<br>これでイベントも完璧……って時に<br>会場にたくさんのエネミーが出たみたいね。<br>アナタも幻創ユクちゃんも<br>会場を守りに出撃するのよね。<br>二人とも頑張ってるわけだし、アタシも……<br><br><yellow>※ノーマル以上でクリア<c>
+
+Group 1
+Title - Euclyta and Chocolate
+Explanation - <yellow>Clear on Normal or above.<c>
+
+

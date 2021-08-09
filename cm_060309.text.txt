@@ -1,0 +1,19 @@
+cm_060309.text was created: 8/8/2021 8:56:56 PM
+Filesize is: 704 bytes
+
+CharaName
+Group 0
+name01 - スクナヒメ
+
+Group 1
+name01 - Sukunahime
+
+
+Skit00
+Group 0
+text01 - いかん、この波動は危険じゃ！<br>わらわが結界を施した神岩を送る！<br>直ちに、その影に隠れよ！
+
+Group 1
+text01 - These energy waves are far too dangerous!<br>I'll send out a shielded spirit stone!<br>Quickly, hide in its shadow!
+
+

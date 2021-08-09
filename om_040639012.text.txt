@@ -1,0 +1,11 @@
+om_040639012.text was created: 8/8/2021 8:47:08 PM
+Filesize is: 544 bytes
+
+Event1
+Group 0
+text01 - ほー、ここが砂漠の惑星リリーパ。<br>なるほど、確かに砂漠って感じだ。<br>進んでみようじゃないか。
+
+Group 1
+text01 - So, this is Lillipa, the Desert Planet.<br>Lives up to its reputation, I suppose.<br>Let's see what's here.
+
+

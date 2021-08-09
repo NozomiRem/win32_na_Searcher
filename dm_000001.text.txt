@@ -1,0 +1,11 @@
+dm_000001.text was created: 8/8/2021 8:59:58 PM
+Filesize is: 464 bytes
+
+DirectMovie
+Group 0
+input - 操作説明 チャット：<pict Sign_SELECT> 終了：<pict Sign_CROSS>
+
+Group 1
+input - Controls Overview Chart: <pict Sign_SELECT> Close: <pict Sign_CROSS>
+
+

@@ -1,0 +1,11 @@
+cm_066003.text was created: 8/8/2021 8:58:42 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+line01 - 突発任務成功！　北へ進め！
+
+Group 1
+line01 - Impromptu mission completed! Head north!
+
+

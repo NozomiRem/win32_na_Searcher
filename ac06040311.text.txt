@@ -1,0 +1,15 @@
+ac06040311.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 736 bytes
+
+Info
+Group 0
+Title - チュートリアルタスク・３－１１
+Goal - エキスパートになろう
+Explanation - <yellow>※現在、目標が仮の状態です。<br>任意のエネミー10体撃破で達成可能です。<c>
+
+Group 1
+Title - Tutorial Task 3-11
+Goal - Become an Expert
+Explanation - <yellow>Note: Objective is currently provisional.<br>Can be completed by defeating 10 enemies.<c>
+
+

@@ -1,0 +1,13 @@
+cm_054005.text was created: 8/8/2021 8:47:08 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 前方にハリエットさんの痕跡を確認！<br>敵襲に注意して進んでください！
+
+Group 1
+name01 - Xiera
+text01 - Hariette's presence detected up ahead!<br>Please proceed, but be wary of an enemy raid!
+
+

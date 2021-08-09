@@ -1,0 +1,23 @@
+cm_0511103.text was created: 8/8/2021 8:58:44 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+name02 - シエラ
+name03 - シエラ
+
+Group 1
+name01 - Xiera
+name02 - Xiera
+name03 - Xiera
+
+
+Skit00
+Group 0
+text00 - オメガ・アプレジナの反応を確認！<br>撃破してください！
+
+Group 1
+text00 - Omega Appregina detected! Destroy her!
+
+

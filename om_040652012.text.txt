@@ -1,0 +1,11 @@
+om_040652012.text was created: 8/8/2021 8:54:23 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - いざ行かん！<br>無限の冒険へ！
+
+Group 1
+text01 - On we march toward limitless adventure!
+
+

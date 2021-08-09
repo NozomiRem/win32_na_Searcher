@@ -1,0 +1,13 @@
+cm_056310.text was created: 8/8/2021 8:47:32 PM
+Filesize is: 464 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - サポート用の兵器を転送！<br>活用してください！
+
+Group 1
+name01 - Xiera
+text01 - Teleporting a support weapon over! <br>Please make good use of it!
+
+

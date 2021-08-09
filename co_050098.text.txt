@@ -1,0 +1,19 @@
+co_050098.text was created: 8/8/2021 8:57:32 PM
+Filesize is: 416 bytes
+
+TutorialText
+Group 0
+Title - ＊＊＊
+text0001 - ＊＊＊
+text0002 - ＊＊＊
+text0003 - ＊＊＊
+text0004 - ＊＊＊
+
+Group 1
+Title - ＊＊＊
+text0001 - ＊＊＊
+text0002 - ＊＊＊
+text0003 - ＊＊＊
+text0004 - ＊＊＊
+
+

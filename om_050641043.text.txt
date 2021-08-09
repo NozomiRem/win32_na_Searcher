@@ -1,0 +1,11 @@
+om_050641043.text was created: 8/8/2021 9:00:12 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - 見事なり。<br>……それ以上の言葉は<br>無粋というものだな。
+
+Group 1
+text01 - Most excellent. Indeed, most excellent...
+
+

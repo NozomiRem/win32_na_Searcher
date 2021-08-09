@@ -1,0 +1,13 @@
+co03072003.text was created: 8/8/2021 8:54:04 PM
+Filesize is: 736 bytes
+
+Info
+Group 0
+Title - デュアルブレード訓練・Ⅲ
+Explanation - お待ちしていましたわ。<br>ご活躍していらっしゃいますのね！<br>バウンサーの認知度も上がる一方ですわね。<br>それでは、恒例の訓練メニューですわ。<br>今回はダーカーの討伐を行ってもらいます。<br>２０体を討伐すればクリア。<br>是非試してもらえませんか？<br><br><yellow>※バウンサー限定<c>
+
+Group 1
+Title - Soaring Blades Boot Camp III
+Explanation - <yellow>Bouncers only.<c>
+
+

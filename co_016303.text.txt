@@ -1,0 +1,19 @@
+co_016303.text was created: 8/8/2021 8:48:28 PM
+Filesize is: 496 bytes
+
+CharaName
+Group 0
+name01 - メリッタ
+
+Group 1
+name01 - Melita
+
+
+Skit
+Group 0
+skit01 - あのー…<br>南側の障壁が消えたようですー！
+
+Group 1
+skit01 - Um... The barrier on the south side is gone!
+
+

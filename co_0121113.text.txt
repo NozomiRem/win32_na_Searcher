@@ -1,0 +1,11 @@
+co_0121113.text was created: 8/8/2021 8:46:17 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+linewindow - <br>キングイエーデが逃げ出そうとしている！<br>
+
+Group 1
+linewindow - <br>King Yedi is trying to escape!<br>
+
+

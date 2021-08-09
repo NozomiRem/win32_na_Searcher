@@ -1,0 +1,15 @@
+ac06031421.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 閃機種を５０体撃破<pict repeat>
+Explanation - 閃機種を合計で５０体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<c>
+
+Group 1
+Title - Main Mission
+Goal - Defeat 50 Luminmechs<pict repeat>
+Explanation - Defeat a total of 50 luminmechs!<br><br><yellow>Note: Enemies must be Lv. 1 or above.<c>
+
+

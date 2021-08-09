@@ -1,0 +1,15 @@
+ii_annihilation_spd.text was created: 8/8/2021 8:54:02 PM
+Filesize is: 560 bytes
+
+common
+Group 0
+IncidentName - 時間経過まで生存
+TrialBeginMsg - エネミーの攻撃をしのぎ、時間経過まで生存せよ！
+TrialAbstract - エネミーの攻撃をしのぎ、時間経過まで生存せよ！
+
+Group 1
+IncidentName - Stay Alive Till Time Expires
+TrialBeginMsg - Endure the enemy attacks and survive till time expires!
+TrialAbstract - Endure the enemy attacks and survive till time expires!
+
+

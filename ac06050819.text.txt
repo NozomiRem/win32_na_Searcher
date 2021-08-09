@@ -1,0 +1,14 @@
+ac06050819.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - スターミッション・８－１９
+Goal - バスタークエストで３回勝利する
+Explanation - バスタークエストで３回勝利しよう！
+
+Group 1
+Goal - Win at Buster Quest 3 Times
+Explanation - Win at Buster Quest 3 times!
+
+

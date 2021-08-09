@@ -1,0 +1,11 @@
+om_050661023.text was created: 8/8/2021 8:59:28 PM
+Filesize is: 560 bytes
+
+Event1
+Group 0
+text01 - ふぅ、なんとか目標達成だね！<br>なんだか、あなたと一緒に戦うのって<br>初めてじゃない気がする……
+
+Group 1
+text01 - Looks like we managed to pull it off!<br>You know, for some reason, I feel like<br>we've done this together before...
+
+

@@ -1,0 +1,13 @@
+go02007002.text was created: 8/8/2021 8:59:39 PM
+Filesize is: 896 bytes
+
+Info
+Group 0
+Title - 海岸：ブルメッタ討伐
+Explanation - アークスより、登録チームに対し<br>発布された討伐依頼です。<br><br>討伐目標：ブルメッタ<br>場所：海岸<br><br><yellow>※Lv.51以上のエネミーが対象<c>
+
+Group 1
+Title - Coast: Bloometta Suppression
+Explanation - A suppression request has been issued<br>for all registered ARKS alliances.<br><br>Suppression target: Bloomettas<br>Location: Coast<br><br><yellow>Level 51 enemies or above<c>
+
+

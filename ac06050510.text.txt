@@ -1,0 +1,15 @@
+ac06050510.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・５－１０
+Goal - 龍族撃破（Lv.41～）×２０
+Explanation - 仮　ac06050510
+
+Group 1
+Title - ac06050510 Title
+Goal - ac06050510 Goal
+Explanation - ac06050510 Explanation
+
+

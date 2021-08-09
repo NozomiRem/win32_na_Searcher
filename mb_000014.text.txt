@@ -1,0 +1,11 @@
+mb_000014.text was created: 8/8/2021 8:49:40 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+text100 - 『クーナのいる場所』について
+text101 - クーナはショップエリア・3階空中広場にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

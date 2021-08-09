@@ -1,0 +1,13 @@
+do00009501.text was created: 8/8/2021 8:56:25 PM
+Filesize is: 464 bytes
+
+Info
+Group 0
+Title - デイリーオーダーテスト1
+Explanation - ブーストレベル1以上の<br>ウーダンが対象です。
+
+Group 1
+Title - Daily Order Test 1
+Explanation - Target: Boost Level 1<br>or higher Udans.
+
+

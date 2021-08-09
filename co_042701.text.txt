@@ -1,0 +1,27 @@
+co_042701.text was created: 8/8/2021 9:00:24 PM
+Filesize is: 848 bytes
+
+CharaName
+Group 0
+name01 - コオリ
+
+Group 1
+name01 - Kohri
+
+
+Skit_ci00
+Group 0
+skit01 - /ci4 2 t3 ここまで来たら<br>もう後戻り出来ないですよね……
+
+Group 1
+skit01 - /ci4 2 t3 After coming this far, there's no way we<br>could turn back...
+
+
+Skit00
+Group 0
+skit01 - ここまで来たら<br>もう後戻り出来ないですよね……
+
+Group 1
+skit01 - After coming this far, there's no way we<br>could turn back...
+
+

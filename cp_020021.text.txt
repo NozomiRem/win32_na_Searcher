@@ -1,0 +1,11 @@
+cp_020021.text was created: 8/8/2021 8:47:32 PM
+Filesize is: 304 bytes
+
+Skit
+Group 0
+line01 - 残り20体！
+
+Group 1
+line01 - There are 20 enemies remaining!
+
+

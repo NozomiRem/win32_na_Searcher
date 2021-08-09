@@ -1,0 +1,13 @@
+co02038722.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 944 bytes
+
+Info
+Group 0
+Title - 地下坑道で特訓しちゃうよ！
+Explanation - ほいっ！　待ってたよー！<br>じゃあ<%me><br>今日は地下坑道、行ってみようか。<br>閉鎖された空間内での実戦に興味あるんだ。<br>この際だから一緒に体験しとこうよ！<br>ベリーハードでササッとＳランククリアで<br>手際よくパパッと終わらせちゃおう！<br><br><yellow>※アザナミのみ同行、ブレイバー限定<br>ベリーハード以上、Ｓランククリア<c>
+
+Group 1
+Title - Boot Camp: Underground Shafts
+Explanation - <yellow>Braver only. With Azanami as your only partner, <br>clear with an S Rank on Very Hard or above.<c>
+
+

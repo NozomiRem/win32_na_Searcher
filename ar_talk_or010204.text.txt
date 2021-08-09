@@ -1,0 +1,13 @@
+ar_talk_or010204.text was created: 8/8/2021 8:55:22 PM
+Filesize is: 464 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+text01 - 現在の貴方の目標は……
+11_voice_shop_414 - クエストカウンターにて受注可能な<br><c bb0000>「森林探索」<c>を<br>クリアすることです。
+text03 - それでは、頑張って下さい。
+
+Group 1
+
+

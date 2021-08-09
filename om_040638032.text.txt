@@ -1,0 +1,11 @@
+om_040638032.text was created: 8/8/2021 8:56:58 PM
+Filesize is: 256 bytes
+
+Event1
+Group 0
+text01 - はじめましょう……
+
+Group 1
+text01 - Shall we?
+
+

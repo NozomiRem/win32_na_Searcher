@@ -1,0 +1,19 @@
+mp_000392.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 704 bytes
+
+CharaName
+Group 0
+name01 - メッセージパック
+
+Group 1
+name01 - Datapod
+
+
+Event1
+Group 0
+text01 - ガウ・オガキバルは闇を司り<br>銃剣による射撃を得意とする。<br>武器を攻撃し破壊しろ。
+
+Group 1
+text01 - The Gau Ogakibar controls darkness and has an<br>aptitude for the gunblade. Destroy its weapon<br>to gain the upper hand.
+
+

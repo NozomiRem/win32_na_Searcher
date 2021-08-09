@@ -1,0 +1,11 @@
+cm_046204.text was created: 8/8/2021 8:54:20 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 右ルート２つめ、終わりましたね！<br>左ルートの皆さんも頑張って！
+
+Group 1
+
+

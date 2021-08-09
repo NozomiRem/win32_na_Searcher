@@ -1,0 +1,15 @@
+ac06050109.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・１－９
+Goal - 任意のエネミー撃破（Lv.1～）×５０
+Explanation - 仮　ac06050109
+
+Group 1
+Title - ac06050109 Title
+Goal - ac06050109 Goal
+Explanation - ac06050109 Explanation
+
+

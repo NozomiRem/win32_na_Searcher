@@ -1,0 +1,19 @@
+co_016305.text was created: 8/8/2021 8:59:03 PM
+Filesize is: 592 bytes
+
+CharaName
+Group 0
+name01 - メリッタ
+
+Group 1
+name01 - Melita
+
+
+Skit
+Group 0
+skit01 - あーっ！<br>北側のエリアから救難信号が！<br>そこから北へ進んじゃってくださいー！
+
+Group 1
+skit01 - Aaagh! Rescue signals are coming <br>from the north! Go north from there!
+
+

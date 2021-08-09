@@ -1,0 +1,12 @@
+ui_movieviewer.text was created: 8/8/2021 10:40:22 PM
+Filesize is: 416 bytes
+
+MovieViewer
+Group 0
+KeyGuide_suspend - <%MovieShortCutP>：停止
+KeyGuide_resume - <%MovieShortCutP>：再開
+KeyGuide_play - <%MovieShortCutP>：再生
+
+Group 1
+
+

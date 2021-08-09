@@ -1,0 +1,11 @@
+en_chr08_marlu.text was created: 8/8/2021 8:59:56 PM
+Filesize is: 304 bytes
+
+Word
+Group 0
+Dead - こんなの……いやだ……
+
+Group 1
+Dead - Please... not like this...
+
+

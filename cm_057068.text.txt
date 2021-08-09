@@ -1,0 +1,13 @@
+cm_057068.text was created: 8/8/2021 9:01:42 PM
+Filesize is: 592 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_008 - すべてのエネミーを撃破してください。<br>エネミーの出現には法則があります。<br>ご注意ください。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_008 - Defeat all the enemies. There is a pattern to<br>the enemy's spawning, so pay close attention.
+
+

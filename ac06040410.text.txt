@@ -1,0 +1,15 @@
+ac06040410.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「浮上施設探索」をクリア
+Explanation - フリーフィールド「浮上施設探索」をクリアし<br>黒ノ領域エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Floating Facility Exploration"
+Explanation - Clear the Expedition "Floating Facility Exploration" and<br>unlock the Nightfall Province!
+
+

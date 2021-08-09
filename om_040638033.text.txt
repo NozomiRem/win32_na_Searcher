@@ -1,0 +1,11 @@
+om_040638033.text was created: 8/8/2021 8:58:00 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - ふう……<br>こんなところかしら。
+
+Group 1
+text01 - Phew. That should be the end of that.
+
+

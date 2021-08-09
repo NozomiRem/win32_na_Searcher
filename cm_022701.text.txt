@@ -1,0 +1,13 @@
+cm_022701.text was created: 8/8/2021 9:01:21 PM
+Filesize is: 432 bytes
+
+Event1
+Group 0
+name01 - シャオ
+text01 - ……<%me>。<br>気をつけて、まだ来るよ。
+
+Group 1
+name01 - Xiao
+text01 - Heads-up, <%me>. <br>You've got more incoming.
+
+

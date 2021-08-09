@@ -1,0 +1,27 @@
+co_022505.text was created: 8/8/2021 9:01:12 PM
+Filesize is: 976 bytes
+
+CharaName
+Group 0
+name01 - ブリギッタ
+
+Group 1
+name01 - Brigitta
+
+
+Skit
+Group 0
+skit01 - 大型のダーカーですね……<br>立ちはだかるのなら、倒さなければ。
+
+Group 1
+skit01 - What a huge Falspawn. If it's going to stand<br>in our way, we'll have to take it down.
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 2 大型のダーカーですね……<br>立ちはだかるのなら、倒さなければ。
+
+Group 1
+skit01 - /ci1 2 What a huge Falspawn. If it's going to stand<br>in our way, we'll have to take it down.
+
+

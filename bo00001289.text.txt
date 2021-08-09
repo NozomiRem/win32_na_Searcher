@@ -1,0 +1,11 @@
+bo00001289.text was created: 8/8/2021 8:59:42 PM
+Filesize is: 432 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - プリンに話しかける<br><br>【対象キャラクター】<br>装備管理官<br>プリン<br><br>※対象キャラクターは<br>ゲートエリア・東クエストカウンターにいます。
+
+Group 1
+
+

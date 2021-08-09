@@ -1,0 +1,17 @@
+np_012399.text was created: 8/8/2021 8:54:14 PM
+Filesize is: 544 bytes
+
+SelectWindow
+Group 0
+text40 - EP4モードに変更する
+text50 - EP5モードに変更する
+text10 - エピソードを変更する
+text11 - 変更しない
+
+Group 1
+text40 - Change to EP4
+text50 - Change to EP5
+text10 - Change Episode
+text11 - Don't Change
+
+

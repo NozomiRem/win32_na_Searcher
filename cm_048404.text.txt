@@ -1,0 +1,11 @@
+cm_048404.text was created: 8/8/2021 8:57:05 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - うわ、真っ暗ですねー。<br>中央のスイッチを押すと<br>明るくなりますよー。
+
+Group 1
+
+

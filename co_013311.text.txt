@@ -1,0 +1,11 @@
+co_013311.text was created: 8/8/2021 8:47:50 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+linewindow - <br>ロックベアを討伐せよ!!<br>
+
+Group 1
+linewindow - <br>Subdue the Rockbear!<br>
+
+

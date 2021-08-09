@@ -1,0 +1,11 @@
+cm_048308.text was created: 8/8/2021 9:01:28 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - お疲れ様でした、帰還してください！<br>報酬を回収するのも忘れずに！
+
+Group 1
+
+

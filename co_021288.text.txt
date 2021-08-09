@@ -1,0 +1,13 @@
+co_021288.text was created: 8/8/2021 8:47:50 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text00 - 『クライアントオーダー』について
+text01 - ＊＊＊
+
+Group 1
+text00 - Client Orders
+text01 - ＊＊＊
+
+

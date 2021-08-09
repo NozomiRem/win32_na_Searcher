@@ -1,0 +1,11 @@
+cm_048205.text was created: 8/8/2021 8:47:34 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+name01 - ヘンリエッタ
+text01 - 訓練開始。<br>配置されている武装を有効利用し<br>全エネミーを撃破してください。
+
+Group 1
+
+

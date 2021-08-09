@@ -1,0 +1,11 @@
+cm_048501.text was created: 8/8/2021 8:55:22 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 本エリアでの撃破完了を確認。<br>次のエリアへ進んで下さい。
+
+Group 1
+
+

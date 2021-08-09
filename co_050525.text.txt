@@ -1,0 +1,20 @@
+co_050525.text was created: 8/8/2021 9:00:29 PM
+Filesize is: 416 bytes
+
+Skit
+Group 0
+name01 - シエラ
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+

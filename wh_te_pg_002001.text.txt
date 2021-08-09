@@ -1,0 +1,17 @@
+wh_te_pg_002001.text was created: 8/8/2021 8:48:15 PM
+Filesize is: 416 bytes
+
+Title
+Group 0
+name01 - マイショップで売ろう！
+
+Group 1
+name01 - From "What're Ya Buyin'?" to "What're Ya Sellin'?"
+
+
+mess
+Group 0
+
+Group 1
+
+

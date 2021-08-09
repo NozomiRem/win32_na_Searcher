@@ -1,0 +1,11 @@
+en_chr12_regias.text was created: 8/8/2021 8:47:51 PM
+Filesize is: 304 bytes
+
+Word
+Group 0
+Dead - 示しがつかんな……
+
+Group 1
+Dead - I've... set a bad example...
+
+

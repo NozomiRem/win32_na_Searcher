@@ -1,0 +1,11 @@
+mb_000011.text was created: 8/8/2021 8:48:25 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+text100 - 『ライトのいる場所』について
+text101 - ライトはショップエリア・南外周通路にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

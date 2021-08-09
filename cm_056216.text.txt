@@ -1,0 +1,13 @@
+cm_056216.text was created: 8/8/2021 8:56:31 PM
+Filesize is: 496 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - フォトンキャノンを転送します！<br>スイッチで起動し、使用してください！
+
+Group 1
+name01 - Xiera
+text01 - Teleporting a Photon Cannon over!<br>Activate the switch and use it!
+
+

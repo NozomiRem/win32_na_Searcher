@@ -1,0 +1,20 @@
+cm_069101.text was created: 8/8/2021 8:48:50 PM
+Filesize is: 528 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 多数の敵性反応です！<br>敵をすべて撃破しましょう！
+
+Group 1
+name01 - Xiera
+text01 - I'm detecting multiple enemy readings! Take them all out!
+
+

@@ -1,0 +1,11 @@
+bo00001423.text was created: 8/8/2021 8:59:43 PM
+Filesize is: 416 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - スキルリングを強化する<br><br>※スキルリングの強化は、ショップエリアの<br>アイテムラボ店員ドゥドゥまたはモニカから<br>行うことができます。
+
+Group 1
+
+

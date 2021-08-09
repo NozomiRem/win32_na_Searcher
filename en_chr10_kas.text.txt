@@ -1,0 +1,11 @@
+en_chr10_kas.text was created: 8/8/2021 8:54:42 PM
+Filesize is: 288 bytes
+
+Word
+Group 0
+Dead - ……しくじりましたね
+
+Group 1
+Dead - I've... failed you...
+
+

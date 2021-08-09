@@ -1,0 +1,13 @@
+od_020500011.text was created: 8/8/2021 8:50:12 PM
+Filesize is: 496 bytes
+
+Event1
+Group 0
+text01 - もうわかるよね？<br>お願いっ！
+text02 - セグレズンをやっつけて<br>取って来ちゃって！
+11_voice_NPC_5099_104 - 用意しておかないと、遊びに来る<br>みんなが日焼けしちゃうよ～！
+text04 - ぜひぜひっ！<br>お願いっ、このとーりっ！
+
+Group 1
+
+

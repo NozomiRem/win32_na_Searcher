@@ -1,0 +1,21 @@
+cm_069010.text was created: 8/8/2021 8:54:24 PM
+Filesize is: 592 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - この区域は制圧しました！<br>もうひとつの区域に向かいましょう！
+
+Group 1
+name01 - Xiera
+text01 - This area is now under our control!<br>Let's head for the other area!
+
+

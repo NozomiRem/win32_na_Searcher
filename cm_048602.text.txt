@@ -1,0 +1,13 @@
+cm_048602.text was created: 8/8/2021 8:56:23 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - このエリアは、特定のエネミーを<br>撃破することで先に進めますよー。<br>まあ、まだいないんですけどねー！
+
+Group 1
+name01 - Melita
+text01 - In this area, you can proceed by eliminating<br>a specific type of enemy. ...They haven't<br>appeared yet though!
+
+

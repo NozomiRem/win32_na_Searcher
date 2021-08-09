@@ -1,0 +1,19 @@
+cm_060227.text was created: 8/8/2021 8:49:37 PM
+Filesize is: 544 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - 最深部を目指しながら<br>すべてのエネミーを撃破してください！
+
+Group 1
+skit01 - Please defeat all the enemies as you head to the final area!
+
+

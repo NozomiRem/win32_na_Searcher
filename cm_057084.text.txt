@@ -1,0 +1,13 @@
+cm_057084.text was created: 8/8/2021 8:55:19 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - 防壁の破壊を確認。<br>先に進んでください。
+
+Group 1
+name01 - Inanna
+text01 - Destruction of the bulwark confirmed.<br>Please proceed.
+
+

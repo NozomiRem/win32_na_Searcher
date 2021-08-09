@@ -1,0 +1,15 @@
+ac06041501.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 1040 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 称号「まだ見ぬ境地へ」を取得
+Explanation - 称号「まだ見ぬ境地へ」を取得しよう！<br><yellow><br>※いずれか２つのクラスレベルを75以上にすると<br>　称号カウンター係員ラケシスから取得可<c>
+
+Group 1
+Title - Main Mission
+Goal - Acquire the Title "Positively Insatiable"
+Explanation - Acquire the Title "Positively Insatiable"!<br><br><yellow>Note: This Title can be obtained by<br>reaching Class Level 75 with any two Classes and then<br>speaking to Lachesis at the Title Counter.<c>
+
+

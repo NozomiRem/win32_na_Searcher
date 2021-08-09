@@ -1,0 +1,11 @@
+om_040639023.text was created: 8/8/2021 8:47:52 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - ま、こんなところだね。<br>そろそろ戻るとしよう。
+
+Group 1
+text01 - I've gotten all I need. Time to head back.
+
+

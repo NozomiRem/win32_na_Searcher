@@ -1,0 +1,17 @@
+od_030610001.text was created: 8/8/2021 9:00:19 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+11_voice_NPC_5069_100 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+11_voice_NPC_5069_100 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+
+

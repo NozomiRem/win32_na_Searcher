@@ -1,0 +1,11 @@
+cm_046202.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 右ルート１つめのエネミー<br>片付きました！
+
+Group 1
+
+

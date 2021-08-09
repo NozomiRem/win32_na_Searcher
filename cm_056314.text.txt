@@ -1,0 +1,13 @@
+cm_056314.text was created: 8/8/2021 8:54:37 PM
+Filesize is: 432 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu056 - 近くに強大なエネルギー反応！<br>警戒を！
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu056 - Strong energy readings nearby!<br>Stay alert!
+
+

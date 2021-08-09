@@ -1,0 +1,11 @@
+om_040653033.text was created: 8/8/2021 8:57:39 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+text01 - 終わったな！<br>やっぱ三人だと早いな！
+
+Group 1
+text01 - It's over already? Guess that's what happens<br>when there's three of us!
+
+

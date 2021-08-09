@@ -1,0 +1,13 @@
+cm_046410.text was created: 8/8/2021 8:50:16 PM
+Filesize is: 464 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09_491 - 高エネルギー反応、消失しました！<br>今がチャンスです！
+
+Group 1
+name01 - Xiera
+11_voice_navi09_491 - High energy readings eliminated!<br>Now's your chance!
+
+

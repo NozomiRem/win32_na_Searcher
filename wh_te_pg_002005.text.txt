@@ -1,0 +1,17 @@
+wh_te_pg_002005.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 336 bytes
+
+Title
+Group 0
+name01 - ギャザリングで！
+
+Group 1
+name01 - Gathering Time!
+
+
+mess
+Group 0
+
+Group 1
+
+

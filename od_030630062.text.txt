@@ -1,0 +1,12 @@
+od_030630062.text was created: 8/8/2021 8:49:58 PM
+Filesize is: 432 bytes
+
+Event1
+Group 0
+text01 - さあ、行くとしよう。<br>どんな場所であれ、油断は禁物だ。
+text02 - 私も手を抜かず<br>持てる力を出したいと思っている。
+text03 - どんなエネミーと戦えるのか楽しみだ。<br>それでは、向かおう。
+
+Group 1
+
+

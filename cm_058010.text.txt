@@ -1,0 +1,19 @@
+cm_058010.text was created: 8/8/2021 8:50:14 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+name02 - アラトロン
+
+Group 1
+
+
+Event1
+Group 0
+Text01 - あれが、例のニセモノですね！<br>アラトロンさんのためにも<br>ささっと倒してしまいましょう！
+Text02 - そこにおったか、このまがい物め！<br>すまんが、懲らしめてやってくれ。<br>頼んだぞ！
+
+Group 1
+
+

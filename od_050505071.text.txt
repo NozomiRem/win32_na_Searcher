@@ -1,0 +1,19 @@
+od_050505071.text was created: 8/8/2021 8:55:22 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+

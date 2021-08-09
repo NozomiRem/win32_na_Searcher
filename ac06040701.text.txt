@@ -1,0 +1,15 @@
+ac06040701.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「マグライセンス授与申請試練」を達成報告
+Explanation - 管理官コフィーのクライアントオーダー<br>「マグライセンス授与申請試練」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Mag License Trial"
+Explanation - Complete Cofy's Client Order "Mag License Trial"!
+
+

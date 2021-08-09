@@ -1,0 +1,12 @@
+bo00000746.text was created: 8/8/2021 8:59:40 PM
+Filesize is: 576 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - メセタンシューターで<br>キングメセタンを撃破する<br><br>※メセタンシューターは<br>カジノでプレイすることができます。
+
+Group 1
+Explanation - Defeat King Mesetan in Mesetan Shooter<br><br>Mesetan Shooter can be played at the Casino.
+
+

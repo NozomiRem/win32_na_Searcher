@@ -1,0 +1,27 @@
+co_022320.text was created: 8/8/2021 8:54:58 PM
+Filesize is: 800 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 1 あっちは機甲種。<br>そっちはダーカー……か。
+
+Group 1
+skit01 - /ci1 1 There are automata that way and<br>Falspawn over there...
+
+
+Skit
+Group 0
+skit01 - あっちは機甲種。<br>そっちはダーカー……か。
+
+Group 1
+skit01 - There are automata that way and<br>Falspawn over there...
+
+

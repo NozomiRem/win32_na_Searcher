@@ -1,0 +1,11 @@
+cm_069426.text was created: 8/8/2021 8:57:09 PM
+Filesize is: 336 bytes
+
+Skit00
+Group 0
+mes00 - 第二区画の砲台、全て撃破！
+
+Group 1
+mes00 - All gun batteries in sector two destroyed!
+
+

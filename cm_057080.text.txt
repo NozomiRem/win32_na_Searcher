@@ -1,0 +1,11 @@
+cm_057080.text was created: 8/8/2021 9:01:16 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+line01 - ダーク・ビブラス・ユガの撃破で進行可能
+
+Group 1
+line01 - You will be permitted to advance once<br>Fal Vibras Yuga is destroyed!
+
+

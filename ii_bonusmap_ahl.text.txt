@@ -1,0 +1,15 @@
+ii_bonusmap_ahl.text was created: 8/8/2021 8:54:02 PM
+Filesize is: 432 bytes
+
+common
+Group 0
+IncidentName - $(0)討伐
+TrialBeginMsg - 全ての$(0)を倒せ！
+TrialAbstract - 全ての$(0)を倒せ！
+
+Group 1
+IncidentName - Suppress $(0)
+TrialBeginMsg - Defeat every $(0)!
+TrialAbstract - Defeat every $(0)!
+
+

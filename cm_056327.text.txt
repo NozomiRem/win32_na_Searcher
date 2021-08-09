@@ -1,0 +1,13 @@
+cm_056327.text was created: 8/8/2021 8:55:05 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu069 - だ、大丈夫ですか！？
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu069 - A-Are you okay!?
+
+

@@ -1,0 +1,13 @@
+cm_056201.text was created: 8/8/2021 8:57:31 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 左ルート１つめのエネミー<br>片付きました！
+
+Group 1
+name01 - Xiera
+text01 - The first enemy on the left route's <br>been defeated!
+
+

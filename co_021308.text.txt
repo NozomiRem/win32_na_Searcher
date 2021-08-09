@@ -1,0 +1,13 @@
+co_021308.text was created: 8/8/2021 8:53:32 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+text00 - 『クライアントオーダー』について
+text01 - アザナミにクライアントオーダーが発生しました。<br><br>アザナミはゲートエリア・中央ホールにいます。
+
+Group 1
+text00 - Client Orders
+text01 - Client Order Issuance Notice:<br><br>See Azanami at Gate Area: Central Hall for more information.
+
+

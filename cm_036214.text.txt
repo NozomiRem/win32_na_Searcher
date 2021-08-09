@@ -1,0 +1,13 @@
+cm_036214.text was created: 8/8/2021 8:59:01 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - シャオ
+text01 - 本当に、お疲れさま。<br>君が無事で……本当によかったよ。
+
+Group 1
+name01 - Xiao
+text01 - You've done well. I'm truly glad that you're<br>safe.
+
+

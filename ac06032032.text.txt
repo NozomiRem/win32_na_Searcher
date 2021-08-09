@@ -1,0 +1,14 @@
+ac06032032.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - アルティメットクエストを３回クリア
+Explanation - 任意のアルティメットクエストを<br>Aランク以上で３回クリアしよう！
+
+Group 1
+Goal - Clear 3 Ultimate Quests
+Explanation - Clear 3 Ultimate Quests with an A Rank or better!
+
+

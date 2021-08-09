@@ -1,0 +1,11 @@
+mb_000010.text was created: 8/8/2021 8:59:09 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+text100 - 『フーリエのいる場所』について
+text101 - フーリエはショップエリア・階段前広場3階にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

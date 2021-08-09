@@ -1,0 +1,15 @@
+ac06040307.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 848 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 難度エクストラハードを解放
+Explanation - 難度エクストラハードを解放しよう！<br><yellow><br>※いずれかのクラスレベルを70以上にすると解放<c>
+
+Group 1
+Title - Main Mission
+Goal - Unlock Extremely Hard  Difficulty
+Explanation - Unlock Extremely Hard difficulty!<br><br><yellow>Note: You can unlock this difficulty mode <br>by reaching Class Level 70 with any Class.<c>
+
+

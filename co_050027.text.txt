@@ -1,0 +1,13 @@
+co_050027.text was created: 8/8/2021 8:53:28 PM
+Filesize is: 560 bytes
+
+system_message
+Group 0
+linewindow001 - アキをパートナーとして呼べるようになりました。
+linewindow002 - ライトをパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Aki as your Partner.
+linewindow002 - You can now invite Wright as your Partner.
+
+

@@ -1,0 +1,15 @@
+cm_038202_9.text was created: 8/8/2021 8:58:11 PM
+Filesize is: 832 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - 道中に仕掛けられていた<br>針の以外にも様々なギミックが<br>仕掛けられているようです。
+text02 - 敵を殲滅しながら<br>注意して北側に向かってください。
+
+Group 1
+name01 - Inanna
+text01 - Those spikes along the path are not the only<br>contraptions you have to worry about here.
+text02 - Keep your wits about you, take down these<br>enemies, and continue heading north.
+
+

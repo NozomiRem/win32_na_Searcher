@@ -1,0 +1,11 @@
+co_050003.text was created: 8/8/2021 9:00:47 PM
+Filesize is: 624 bytes
+
+TutorialText
+Group 0
+Title - 『EPISODE変更』について
+text0001 - 【EP5とEP4の変更のしかた】<br><br><c 00ffff>EP5モード、EP4モードの変更は<br>艦橋のシエラから行う事ができます。<c><br><br><c ffff00>※EP5モードとEP4モードでは<br>ロビーにいるNPCが異なるため会話や、<br>クライアントオーダーの受注が<br>行えない場合があります。<c>
+
+Group 1
+
+

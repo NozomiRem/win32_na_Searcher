@@ -1,0 +1,11 @@
+cm_048615.text was created: 8/8/2021 8:55:11 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+line01 - A.I.S.を駆使して全エネミーを撃破しろ！
+
+Group 1
+line01 - Utilize AIS and eliminate all enemies!
+
+

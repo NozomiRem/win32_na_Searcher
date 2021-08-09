@@ -1,0 +1,14 @@
+ac06051010.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 784 bytes
+
+Info
+Group 0
+Title - スターミッション・１０－１０
+Goal - Ｈ：侵食核付きエネミーを５体撃破
+Explanation - 侵食核の付いたエネミーを合計で５体撃破しよう！<br><br><yellow>※Lv.21～のエネミーが対象<c>
+
+Group 1
+Goal - H: Defeat 5 Enemies That Have Corrupted Cores
+Explanation - Defeat a total of 5 enemies that have Corrupted Cores!<br><br><yellow>Note: Enemies must be Lv. 21 or above.<c>
+
+

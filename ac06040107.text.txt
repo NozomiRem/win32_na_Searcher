@@ -1,0 +1,15 @@
+ac06040107.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「パーティー演習・Ⅰ」を達成報告
+Explanation - イオのクライアントオーダー<br>「パーティー演習・Ⅰ」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Party Maneuvers I"
+Explanation - Complete Io's Client Order "Party Maneuvers I"!
+
+

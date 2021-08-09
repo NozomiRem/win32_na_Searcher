@@ -1,0 +1,13 @@
+do00000001.text was created: 8/8/2021 8:56:24 PM
+Filesize is: 400 bytes
+
+Info
+Group 0
+Title - デイリーオーダー１
+Explanation - デイリーオーダー１に関する説明
+
+Group 1
+Title - Daily Order 1
+Explanation - Daily Order 1 Instructions
+
+

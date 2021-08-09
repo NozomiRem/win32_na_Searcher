@@ -1,0 +1,13 @@
+cm_050002.text was created: 8/8/2021 8:57:13 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+name01 - シャオ
+text01 - <%me>。<br>マトイ。君達に全てを託す。<br>しっかり頼むよ、守護輝士。
+
+Group 1
+name01 - Xiao
+text01 - <%me> and Matoi,<br>I leave everything to you. I am<br>counting on you, Guardians.
+
+

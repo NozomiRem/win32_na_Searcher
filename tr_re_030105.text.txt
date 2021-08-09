@@ -1,0 +1,11 @@
+tr_re_030105.text was created: 8/8/2021 8:53:30 PM
+Filesize is: 352 bytes
+
+Tut_win
+Group 0
+train_title - 課題５：<yellow>エネミーを全て討伐せよ！
+
+Group 1
+train_title - Training 5: <yellow>Defeat all enemies!
+
+

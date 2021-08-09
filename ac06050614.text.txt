@@ -1,0 +1,14 @@
+ac06050614.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - スターミッション・６－１４
+Goal - 東京で１５回「釣り」をする
+Explanation - 東京のフリーフィールドで<br>１５回「釣り」をしよう！
+
+Group 1
+Goal - Fish 15 times in Tokyo
+Explanation - Go on an Expedition to Tokyo and fish 15 times!
+
+

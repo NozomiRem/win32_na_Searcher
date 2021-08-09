@@ -1,0 +1,17 @@
+cm_060224.text was created: 8/8/2021 8:59:49 PM
+Filesize is: 416 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Skit00
+Group 0
+skit01 - 【仮面】の影響でしょうか、<br>エネミーが強化されているようなので<br>気をつけて進んで下さい！
+
+Group 1
+
+

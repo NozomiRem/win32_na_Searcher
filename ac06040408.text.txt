@@ -1,0 +1,15 @@
+ac06040408.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「採掘場跡探索」をクリア
+Explanation - フリーフィールド「採掘場跡探索」をクリアし<br>海底エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Abandoned Mine Exploration"
+Explanation - Clear the Expedition "Abandoned Mine Exploration" and<br>unlock the Seabed!
+
+

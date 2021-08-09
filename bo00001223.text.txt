@@ -1,0 +1,11 @@
+bo00001223.text was created: 8/8/2021 8:59:42 PM
+Filesize is: 400 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - リングを強化する<br><br>※リングの強化は、ショップエリアにいる<br>アイテムラボ店員ドゥドゥまたはモニカから<br>行うことができます。
+
+Group 1
+
+

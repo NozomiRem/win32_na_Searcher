@@ -1,0 +1,11 @@
+mb00000969.text was created: 8/8/2021 9:00:51 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - アークスシップ内での交流
+Explanation - <c 6fa8f8>【139-B】　「アーデムの雰囲気」<c><br>人類の進歩は停滞しており<br>次のステージへと押し上げなければならない……<br>そう、自らの思想と理想を語るアーデム。<br>彼の態度を見て、コオリは感じ取るものがあった。<br><c f0df60>※<%Decide><c f0df60>でイベントを見る（艦橋内のみ）<c>
+
+Group 1
+
+

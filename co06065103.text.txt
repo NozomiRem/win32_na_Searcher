@@ -1,0 +1,13 @@
+co06065103.text was created: 8/8/2021 9:00:10 PM
+Filesize is: 704 bytes
+
+Info
+Group 0
+Title - おいしくなあれ<pict cute_icon>
+Explanation - わたし、作ってみたい料理があって<br>レシピを調べてみたんだけど<br>足りないものがあって……<br>このふたつの材料を揃えるのを<br>手伝ってもらえないかな？<br><br><yellow>※目標アイテムはギャザリングで入手可能<c>
+Reward - マトイ（サマー）のＰＣ<br>※好感度上昇によるプレゼントはありません
+
+Group 1
+Title - In Search of Flavor<pict cute_icon>
+
+

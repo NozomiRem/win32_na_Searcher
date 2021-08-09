@@ -1,0 +1,11 @@
+en_chr07_risa.text was created: 8/8/2021 8:53:29 PM
+Filesize is: 304 bytes
+
+Word
+Group 0
+Dead - ……悪くない……ですねぇ
+
+Group 1
+Dead - It... could've been worse...
+
+

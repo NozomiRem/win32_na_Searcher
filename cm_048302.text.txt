@@ -1,0 +1,11 @@
+cm_048302.text was created: 8/8/2021 8:55:12 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - カタパルト起動！<br>それを使って移動してください！
+
+Group 1
+
+

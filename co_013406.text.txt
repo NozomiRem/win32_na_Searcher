@@ -1,0 +1,11 @@
+co_013406.text was created: 8/8/2021 8:57:58 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+linewindow - <br>北側からキャタドラン出現!!<br>
+
+Group 1
+linewindow - <br>Catredran detected at the north side!<br>
+
+

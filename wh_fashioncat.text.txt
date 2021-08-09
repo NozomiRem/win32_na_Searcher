@@ -1,0 +1,18 @@
+wh_fashioncat.text was created: 8/8/2021 8:55:39 PM
+Filesize is: 1072 bytes
+
+Title
+Group 0
+name01 - コーデカタログについて
+
+Group 1
+name01 - Lookbook
+
+
+whelp_fashioncat
+Group 0
+whelp_fashioncat01 - <yellow>【コーデカタログについて】<c><br><br>みんなが登録したファッションコーディネートをカタログ形式で<br>見られる機能です。あなたも自分のファッションを公開すれば、<br>他のプレイヤーから「<pict like_icon>いいね！」がもらえるかも……！？<br><br>気に入ったコーデには「<pict like_icon>いいね！」を送りましょう！<br>「ブックマーク」すると、マイファッションに保存もできます。<br><br><yellow>■みんなのコーデを見る<c><br>・他のプレイヤーが登録したファッションを見ることができます。<br><br><yellow>■みんなのコーデから検索<c><br>・特定のジャンル・種族・タイプや、タグを入力して検索できます。
+
+Group 1
+
+

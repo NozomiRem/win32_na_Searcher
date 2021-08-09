@@ -1,0 +1,14 @@
+ac06050705.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - スターミッション・７－５
+Goal - 赤色のコンテナを５個破壊
+Explanation - 赤色のコンテナを５個破壊しよう！
+
+Group 1
+Goal - Destroy 5 Red Containers
+Explanation - Destroy a total of 5 red containers!
+
+

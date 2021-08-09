@@ -1,0 +1,11 @@
+cm_036111.text was created: 8/8/2021 8:59:22 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 最後の最後で拍子抜けしちゃいましたが<br>とにかく！　今度こそお疲れ様でした！<br>皆さん、帰還してください！
+
+Group 1
+
+

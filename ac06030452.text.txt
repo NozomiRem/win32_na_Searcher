@@ -1,0 +1,15 @@
+ac06030452.text was created: 8/8/2021 9:01:28 PM
+Filesize is: 640 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - リリーパ族の落書きにアクセスする
+Explanation - カジノエリアのどこかにある<br>リリーパ族の落書きにアクセスしよう！
+
+Group 1
+Title - Event Mission
+Goal - Access the Lillipan's Graffiti.
+Explanation - Access the Lillipan Graffiti<br>somewhere in the Casino!
+
+

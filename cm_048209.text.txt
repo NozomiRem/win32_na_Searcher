@@ -1,0 +1,11 @@
+cm_048209.text was created: 8/8/2021 8:58:01 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ヘンリエッタ
+text01 - 最終エリアです。<br>時間にも気を配り、目標達成を。
+
+Group 1
+
+

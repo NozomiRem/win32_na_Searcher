@@ -1,0 +1,11 @@
+cm_048510.text was created: 8/8/2021 8:47:31 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 訓練の全工程完了を確認。<br>お見事です。<br>帰還用エリアに転送します。
+
+Group 1
+
+

@@ -1,0 +1,12 @@
+bo00000742.text was created: 8/8/2021 8:59:40 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【エマージェンシートライアルクリア】<br>ベイゼ破壊<br><br>【クエスト難易度】<br>ノーマル以上
+
+Group 1
+Explanation - [Emergency Trial Completion]<br>Destroy the Bayze<br><br>[Quest Difficulty]<br>Normal or above
+
+

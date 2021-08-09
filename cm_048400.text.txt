@@ -1,0 +1,11 @@
+cm_048400.text was created: 8/8/2021 8:48:20 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - この先で敵さんがいっぱい出現するので<br>ぜーんぶ倒しちゃってください。<br>お残しはゆるしませんよー。
+
+Group 1
+
+

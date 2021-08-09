@@ -1,0 +1,19 @@
+od_060657087.text was created: 8/8/2021 8:57:37 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+name01 - ＊＊＊
+text01 - ＊＊＊
+11_voice_NPC_5665_100 - ＊＊＊
+text03 - ＊＊＊
+11_voice_NPC_5664_103 - ＊＊＊
+
+Group 1
+name01 - ＊＊＊
+text01 - ＊＊＊
+11_voice_NPC_5665_100 - ＊＊＊
+text03 - ＊＊＊
+11_voice_NPC_5664_103 - ＊＊＊
+
+

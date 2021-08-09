@@ -1,0 +1,14 @@
+ac06049005.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - チュートリアルタスク・９０－５
+Goal - グループチャットを確認する
+Explanation - グループチャットを確認しよう！<br><yellow><br>※メインメニューの<br>　「システム」→「チャット設定」を開くと達成<c>
+
+Group 1
+Goal - Check Out a Group Chat
+Explanation - Check out a Group Chat!<br><yellow>To complete, go to [System]<br>under the Main Menu and open [Chat Settings]<c>
+
+

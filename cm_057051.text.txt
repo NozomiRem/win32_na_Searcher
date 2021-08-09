@@ -1,0 +1,15 @@
+cm_057051.text was created: 8/8/2021 9:01:35 PM
+Filesize is: 848 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_017 - オメガ・ヒューナルの撃破を。<br>ミッションの達成で<br>インターバルエリアに進行できます。
+line01 - オメガ・ヒューナルの撃破で進行可能！
+
+Group 1
+name01 - Inanna
+11_voice_navi07_017 - Destroy Omega Hyunal. You will be permitted <br>to advance to the Interval Zone upon <br>completion of this mission.
+line01 - You will be permitted to advance once<br>Omega Hyunal is destroyed!
+
+

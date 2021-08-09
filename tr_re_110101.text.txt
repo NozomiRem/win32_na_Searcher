@@ -1,0 +1,11 @@
+tr_re_110101.text was created: 8/8/2021 8:53:15 PM
+Filesize is: 352 bytes
+
+Tut_win
+Group 0
+train_title - 課題６：<yellow>エネミーを全て討伐せよ！
+
+Group 1
+train_title - Training 6: <yellow>Defeat all enemies!
+
+

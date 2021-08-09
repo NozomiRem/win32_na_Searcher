@@ -1,0 +1,11 @@
+om_040635013.text was created: 8/8/2021 8:54:43 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+text01 - よし、これで終わりだな！<br>協力、ありがとうな。
+
+Group 1
+text01 - That's about the end of that.<br>Thanks for the help!
+
+

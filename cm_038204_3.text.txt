@@ -1,0 +1,13 @@
+cm_038204_3.text was created: 8/8/2021 8:59:28 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+linewindow - レーザーフェンス閉鎖まで残り６０秒。
+
+Group 1
+name01 - Inanna
+linewindow - 60 seconds remain until the fence closes.
+
+

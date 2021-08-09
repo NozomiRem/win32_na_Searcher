@@ -1,0 +1,10 @@
+om_060641032.text was created: 8/8/2021 8:59:23 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+text01 - 海岸探索に出発よぉー！<br>貝殻を見つけたら、教えてねぇん。
+
+Group 1
+
+

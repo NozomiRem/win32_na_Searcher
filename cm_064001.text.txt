@@ -1,0 +1,11 @@
+cm_064001.text was created: 8/8/2021 8:59:36 PM
+Filesize is: 432 bytes
+
+Skit00
+Group 0
+line01 - 警戒レベル上昇、および敵防衛兵器出現！
+
+Group 1
+line01 - Alert level has been increased and enemy defensive ordnances have been deployed!
+
+

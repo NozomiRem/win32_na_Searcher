@@ -1,0 +1,11 @@
+om_050646072.text was created: 8/8/2021 8:56:31 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - アフタルさんのために<br>一緒にがんばりましょう！
+
+Group 1
+text01 - Let's do this together! For Aphtal!
+
+

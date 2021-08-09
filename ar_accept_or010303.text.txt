@@ -1,0 +1,14 @@
+ar_accept_or010303.text was created: 8/8/2021 9:01:47 PM
+Filesize is: 544 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+text01 - 押印完了しました。<br>お疲れ様でした。
+11_voice_shop_414 - 次の課題は、ジャンさんの<br>クライアントオーダーです。
+text03 - <c bb0000>「垂涎！ＡＣショップの陳列！」<c>の<br>受注と達成が目的となります。
+text04 - それでは、頑張って下さい。
+
+Group 1
+
+

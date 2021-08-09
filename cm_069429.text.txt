@@ -1,0 +1,11 @@
+cm_069429.text was created: 8/8/2021 8:54:00 PM
+Filesize is: 320 bytes
+
+Skit00
+Group 0
+mes00 - ターゲットスイッチ、全て起動！
+
+Group 1
+mes00 - All target switches activated!
+
+

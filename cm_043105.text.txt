@@ -1,0 +1,19 @@
+cm_043105.text was created: 8/8/2021 8:59:00 PM
+Filesize is: 496 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - フェンスが開放されました。<br>先へ進んでください。
+
+Group 1
+skit01 - The fence has been opened. You can move on now.
+
+

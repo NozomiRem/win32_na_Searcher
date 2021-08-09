@@ -1,0 +1,11 @@
+cm_064004.text was created: 8/8/2021 8:55:04 PM
+Filesize is: 320 bytes
+
+Skit00
+Group 0
+line01 - 隔壁のロック、<yellow>残り２つ！<c>
+
+Group 1
+line01 - <yellow>Two<c> locks left!
+
+

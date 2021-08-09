@@ -1,0 +1,15 @@
+ac06050212.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - スターミッション・２－１２
+Goal - 「釣り」をする×５
+Explanation - 仮　ac06050212
+
+Group 1
+Title - ac06050212 Title
+Goal - ac06050212 Goal
+Explanation - ac06050212 Explanation
+
+

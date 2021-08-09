@@ -1,0 +1,11 @@
+od_010308001.text was created: 8/8/2021 9:01:54 PM
+Filesize is: 288 bytes
+
+Skit
+Group 0
+11_voice_NPC_5008_150 - お願いします！
+
+Group 1
+11_voice_NPC_5008_150 - I appreciate it!
+
+

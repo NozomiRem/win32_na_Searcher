@@ -1,0 +1,27 @@
+cm_032370.text was created: 8/8/2021 8:59:39 PM
+Filesize is: 912 bytes
+
+CharaName
+Group 0
+name01 - サラ
+
+Group 1
+name01 - Sarah
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 1 この端末は……残念、ハズレね。<br>ダーカーが守っているやつかしら。
+
+Group 1
+skit01 - /ci1 1 This terminal's probably a dud.<br>Is it the one the Falspawn are guarding?
+
+
+Skit
+Group 0
+skit01 - この端末は……残念、ハズレね。<br>ダーカーが守っているやつかしら。
+
+Group 1
+skit01 - This terminal's probably a dud.<br>Is it the one the Falspawn are guarding?
+
+

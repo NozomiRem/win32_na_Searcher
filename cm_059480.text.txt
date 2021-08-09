@@ -1,0 +1,27 @@
+cm_059480.text was created: 8/8/2021 9:01:39 PM
+Filesize is: 512 bytes
+
+CharaName
+Group 0
+name01 - イナンナ
+
+Group 1
+name01 - Inanna
+
+
+Skit_ci00
+Group 0
+skit01 - 何も使わない
+
+Group 1
+skit01 - Don't use anything.
+
+
+Skit00
+Group 0
+skit01 - 何も使わない
+
+Group 1
+skit01 - Don't use anything.
+
+

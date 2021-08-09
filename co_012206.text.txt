@@ -1,0 +1,19 @@
+co_012206.text was created: 8/8/2021 8:57:58 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - ロジオ
+
+Group 1
+name01 - Rojio
+
+
+Skit
+Group 0
+skit01 - 先程のダーカーの動向……<br>追求したほうがいいと思います。
+
+Group 1
+skit01 - I think we should track the movements<br>of those Falspawn from earlier.
+
+

@@ -1,0 +1,14 @@
+ac06050619.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 528 bytes
+
+Info
+Group 0
+Title - スターミッション・６－１９
+Goal - １５回「釣り」をする
+Explanation - 任意のフリーフィールドで<br>１５回「釣り」をしよう！
+
+Group 1
+Goal - Fish 15 times
+Explanation - Go on an Expedition to any area and fish 15 times!
+
+

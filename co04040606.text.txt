@@ -1,0 +1,13 @@
+co04040606.text was created: 8/8/2021 8:58:30 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - 赤角の希少なる幻創種
+Explanation - 惑星・地球の新たなエリア<br>ラスベガスの探索が始まったそうだね。<br>ここも東京という場所と同じく<br>幻創種の出現が確認されているが<br>新たなエネミーのなかには<br>どうやら希少種が<br>存在しているようなのだ！<br>スカルバファローというエネミーの<br>希少種の情報提供をお願いしたい！<br><yellow>※Lv.41以上のバファローヘッドが対象<c>
+
+Group 1
+Title - Phantasmal Crimson Horns
+Explanation - <yellow>Buffalo Head must be Level 41 or above.<c>
+
+

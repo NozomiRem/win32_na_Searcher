@@ -1,0 +1,11 @@
+co_010009.text was created: 8/8/2021 8:55:06 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+text100 - 通信中です……
+
+Group 1
+text100 - Communicating...
+
+

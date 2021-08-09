@@ -1,0 +1,15 @@
+ac06010304.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - デイリーミッション
+Goal - ギャザリングフィーバーを発生
+Explanation - フリーフィールドでギャザリングを何度か行い、<br>ギャザリングフィーバーを１回発生させよう！
+
+Group 1
+Title - Daily Mission
+Goal - Activate Gathering Fever
+Explanation - Gather several times during an Expedition and<br>activate Gathering Fever once!
+
+

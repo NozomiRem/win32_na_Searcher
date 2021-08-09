@@ -1,0 +1,14 @@
+ac06030971.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 736 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 緊急クエストを１回クリア<pict repeat>
+Explanation - 任意の緊急クエストを１回クリアしよう！<br><yellow>※緊急クエストは、突発的または予告イベントで発生し<br>　一定時間のみ受注可。発生時刻はプレイヤーズサイトの<br>　「ブースト＆予告イベント情報」で確認可<br>※トリガークエストは対象外となります。<c>
+
+Group 1
+Title - Debug Order: Grant EXP
+Explanation - 5 Monomates, Thank You Kindly
+
+

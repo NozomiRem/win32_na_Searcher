@@ -1,0 +1,11 @@
+om_050661053.text was created: 8/8/2021 8:54:32 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+text01 - やった、クリアだよ！<br><%me>の<br>おかげだね。ありがとう！
+
+Group 1
+text01 - We did it! Well, you did it, mostly!<br>Thank you, <%me>!
+
+

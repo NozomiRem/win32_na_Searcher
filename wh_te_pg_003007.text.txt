@@ -1,0 +1,17 @@
+wh_te_pg_003007.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 400 bytes
+
+Title
+Group 0
+name01 - 称号で強力な★12防具をゲット！
+
+Group 1
+name01 - Use Your Title to Get 12★ Armor!
+
+
+mess
+Group 0
+
+Group 1
+
+

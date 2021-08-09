@@ -1,0 +1,11 @@
+om_060643033.text was created: 8/8/2021 8:58:33 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - お、終わったぁ……<br>私の戦い、どうでしたか？
+text02 - 力は尽くした。<br>それで十分であろう。
+
+Group 1
+
+

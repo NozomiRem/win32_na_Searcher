@@ -1,0 +1,17 @@
+od_020403281.text was created: 8/8/2021 9:00:01 PM
+Filesize is: 992 bytes
+
+Event1
+Group 0
+11_voice_NPC_5052_100 - おたくなら、きっと<br>受けてくれると信じてたぜ……
+text02 - 相談した甲斐があるってモンだ。<br>この厚意はぜってー無駄にしねえよ！
+text03 - 海王種と聞いてビビってねーで<br>ガン飛ばしてやるぜ！
+text04 - モニター越しだけどな。
+
+Group 1
+11_voice_NPC_5052_100 - I had a feeling you'd take me up on this.
+text02 - Good thing I asked ya. Don't worry, I won't let<br>your kindness go to waste!
+text03 - I'm ready to give those Oceanids my best<br>come-at-me glare!
+text04 - Through the monitor, that is.
+
+

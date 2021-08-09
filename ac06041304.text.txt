@@ -1,0 +1,15 @@
+ac06041304.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「リングを強化してみましょー」を達成報告
+Explanation - ギャザリング説明員ソフィアのクライアントオーダー<br>「リングを強化してみましょー」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Try Enhancing a Ring"
+Explanation - Complete Gathering Clerk Sophia's Client Order<br>"Try Enhancing a Ring"!
+
+

@@ -1,0 +1,14 @@
+ac06031712.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 944 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - デイリーオーダーを３０回報告
+Explanation - デイリーオーダー管理官ファイナ（またはアグネス）から<br>任意のデイリーオーダーを受注し<br>３０回達成報告しよう！<br><br><yellow>※デイリーオーダーは事前に受注したものでも可<c>
+
+Group 1
+Goal - Complete 30 Daily Orders
+Explanation - Accept 30 Daily Orders from Daily Order Officer<br>Fina or Agnes and complete them!<br><br><yellow>Note: Previously-accepted Daily Orders are also<br>eligible for completion.<c>
+
+

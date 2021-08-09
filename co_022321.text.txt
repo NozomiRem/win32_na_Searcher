@@ -1,0 +1,27 @@
+co_022321.text was created: 8/8/2021 8:47:11 PM
+Filesize is: 736 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 4 閉じ込められた？<br>くそ、こっちが罠か！
+
+Group 1
+skit01 - /ci1 4 Are we locked in? Dammit, this was a trap!
+
+
+Skit
+Group 0
+skit01 - 閉じ込められた？<br>くそ、こっちが罠か！
+
+Group 1
+skit01 - Are we locked in? Dammit, this was a trap!
+
+

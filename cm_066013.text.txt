@@ -1,0 +1,13 @@
+cm_066013.text was created: 8/8/2021 8:58:30 PM
+Filesize is: 496 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 本エリアの制圧を確認！<br>最終エリアに移動してください！
+
+Group 1
+name01 - Xiera
+text01 - You've gained control of this area!<br>Please proceed to the final area!
+
+

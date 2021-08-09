@@ -1,0 +1,13 @@
+cm_064107.text was created: 8/8/2021 8:59:34 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 敵性反応の出現を複数、確認！<br>迎撃をお願いします！
+
+Group 1
+name01 - Xiera　
+text01 - Detecting multiple enemy readings! Move to intercept!
+
+

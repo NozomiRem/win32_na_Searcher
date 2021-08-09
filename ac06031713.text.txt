@@ -1,0 +1,14 @@
+ac06031713.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - クライアントオーダーを５０回報告
+Explanation - 任意のクライアントオーダーを受注し<br>５０回達成報告しよう！<br><br><yellow>※クライアントオーダーは事前に受注したものでも可<c>
+
+Group 1
+Goal - Complete 50 Client Orders
+Explanation - Accept and complete 50 Client Orders!<br><br><yellow>Note: Previously-accepted Client Orders are also<br>eligible for completion.<c>
+
+

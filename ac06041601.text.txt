@@ -1,0 +1,15 @@
+ac06041601.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 848 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 称号報酬で「クラスブースト」を取得
+Explanation - 「クラスブースト」を取得しよう！<br><yellow><br>※いずれかのクラスレベル75到達時に<br>　称号報酬として、称号カウンターで取得可能<c>
+
+Group 1
+Title - Main Mission
+Goal - Obtain the Class Boost Title Reward
+Explanation - Obtain a Class Boost!<br><yellow><br>Available as a Title Reward at the Title<br>Counter upon reaching Lv. 75.<c>
+
+

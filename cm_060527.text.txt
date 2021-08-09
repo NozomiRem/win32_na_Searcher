@@ -1,0 +1,15 @@
+cm_060527.text was created: 8/8/2021 8:55:46 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - さすがです！<br>支援を行います！
+text02 - 防御力が上昇！
+
+Group 1
+name01 - Xiera
+text01 - I knew you could do it!<br>Here's some help!
+text02 - Defense is boosted!
+
+

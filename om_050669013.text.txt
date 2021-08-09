@@ -1,0 +1,11 @@
+om_050669013.text was created: 8/8/2021 8:47:32 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+text01 - ……姉ちゃんのこと、思い出したよ。<br>いつか会えると信じて、諦めたくなくて<br>ここでずっと、探してたんだね。
+
+Group 1
+text01 - Or someone? Right, I DO have a sister. I came<br>out here determined to find her, didn't I?
+
+

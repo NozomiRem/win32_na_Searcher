@@ -1,0 +1,11 @@
+co_050084.text was created: 8/8/2021 8:49:54 PM
+Filesize is: 304 bytes
+
+system_message
+Group 0
+linewindow001 - EP5モードになりました
+
+Group 1
+linewindow001 - Ep. 5 Mode enabled.
+
+

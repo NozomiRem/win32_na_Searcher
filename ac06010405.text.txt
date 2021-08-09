@@ -1,0 +1,15 @@
+ac06010405.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 976 bytes
+
+Info
+Group 0
+Title - デイリーミッション
+Goal - コーデカタログで「いいね！」を送る
+Explanation - コーデカタログを閲覧し、ほかのプレイヤーに<br>「いいね！」を１回送ろう！<br><br><yellow>※「いいね！」「かわいいね！」「かっこいいね！」<br>　「おもしろいね！」のどれでも可<c>
+
+Group 1
+Title - Daily Mission
+Goal - "Like" a Look
+Explanation - Peruse the Lookbook and "Like" another player's look!<br><br><yellow>Note: Selecting any reaction ("Like," "Cute," "Cool," or "Interesting")<br>will fulfill this requirement.<c>
+
+

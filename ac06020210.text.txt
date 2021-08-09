@@ -1,0 +1,15 @@
+ac06020210.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - ウィークリーミッション
+Goal - アルティメットクエストをクリア
+Explanation - 任意のアルティメットクエストを１回クリアしよう！
+
+Group 1
+Title - Weekly Mission
+Goal - Clear an Ultimate Quest
+Explanation - Clear an Ultimate Quest!
+
+

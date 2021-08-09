@@ -1,0 +1,11 @@
+cm_040105.text was created: 8/8/2021 8:53:58 PM
+Filesize is: 304 bytes
+
+TutorialText
+Group 0
+Title - エネミー残り1体！
+
+Group 1
+Title - There is 1 enemy remaining!
+
+

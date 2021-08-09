@@ -1,0 +1,27 @@
+co_022323.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 1136 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 2 今度は左右共に機甲種だな。<br>……ん、でもあっちのには<br>侵食核がささってるのか？
+
+Group 1
+skit01 - /ci1 2 This time, there are automata to the left<br>and the right. Hmm, there's a Corrupted Core<br>stuck over there though.
+
+
+Skit
+Group 0
+skit01 - 今度は左右共に機甲種だな。<br>……ん、でもあっちのには<br>侵食核がささってるのか？
+
+Group 1
+skit01 - This time, there are automata to the left<br>and the right. Hmm, there's a Corrupted Core<br>stuck over there though.
+
+

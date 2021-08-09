@@ -1,0 +1,11 @@
+om_050665053.text was created: 8/8/2021 8:57:17 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+text01 - よし、オレたちが組めば余裕だな！<br>ふはははははははっ！
+
+Group 1
+text01 - Nothing can stop the likes of us!<br>Bah-ha-ha-ha!
+
+

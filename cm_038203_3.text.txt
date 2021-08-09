@@ -1,0 +1,13 @@
+cm_038203_3.text was created: 8/8/2021 8:54:00 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_006 - お見事、Ｅトライアル成功です。<br>チャレンジマイルを回収後<br>引き続きミッションを遂行してください。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_006 - Great work completing that E Trial.<br>Go collect your Challenge Miles and continue on<br>with the mission.
+
+

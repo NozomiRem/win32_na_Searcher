@@ -1,0 +1,11 @@
+om_040652133.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - ……見事！<br>文句のつけようがないでござるな！
+
+Group 1
+text01 - Magnificent! A performance beyond reproach!
+
+

@@ -1,0 +1,11 @@
+co_013313.text was created: 8/8/2021 8:57:07 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+linewindow - <br>ウォルガーダを討伐せよ!!<br>
+
+Group 1
+linewindow - <br>Suppress the Wolguarda!<br>
+
+

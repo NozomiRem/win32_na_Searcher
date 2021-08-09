@@ -1,0 +1,19 @@
+od_010600027.text was created: 8/8/2021 9:01:53 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+11_voice_NPC_5068_101 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+11_voice_NPC_5068_101 - ＊＊＊
+text03 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+

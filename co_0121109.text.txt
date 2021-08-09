@@ -1,0 +1,11 @@
+co_0121109.text was created: 8/8/2021 8:54:17 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+linewindow - <br>ダーカーが逃げ出そうとしている！<br>
+
+Group 1
+linewindow - <br>Falspawn are getting away!<br>
+
+

@@ -1,0 +1,26 @@
+cm_062608.text was created: 8/8/2021 8:54:04 PM
+Filesize is: 720 bytes
+
+CharaName
+Group 0
+name01 - マトイ
+
+Group 1
+
+
+Skit00
+Group 0
+text00 - 新手！？<br>シバは目の前なのに……！
+
+Group 1
+text00 - More of them!?<br>But Shiva's right there...!
+
+
+Skit00_ci
+Group 0
+text00_ci - /ci3 1 新手！？<br>シバは目の前なのに……！
+
+Group 1
+text00_ci - /ci3 1 More of them!?<br>But Shiva's right there...!
+
+

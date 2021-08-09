@@ -1,0 +1,15 @@
+ac06040704.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 1040 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - サポートパートナーを配置
+Explanation - マイルームに移動し、サポートパートナーを配置しよう！<br><yellow><br>※獲得済のルームグッズ「パートナーコンソール」を<br>　マイルームに設置するとサポートパートナーを配置可。<br>　コンソールはマイルームショップでも追加購入可<c>
+
+Group 1
+Title - Main Mission
+Goal - Place an Auxiliary
+Explanation - Travel to your Personal Quarters and place an Auxiliary!<br><br><yellow>Note: You can customize Auxiliaries by furnishing<br>your Personal Quarters with an Auxiliary Console.<c>
+
+

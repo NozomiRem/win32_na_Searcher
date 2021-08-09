@@ -1,0 +1,15 @@
+tr_040070.text was created: 8/8/2021 8:48:49 PM
+Filesize is: 576 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - できましたね！<br>次はワイズスタンスについて<br>訓練しましょう！
+text101 - 課題達成！
+
+Group 1
+name01 - Xiera
+text01 - You did it! Next, we'll try using<br>Wise Stance some more!
+text101 - Objective complete!
+
+

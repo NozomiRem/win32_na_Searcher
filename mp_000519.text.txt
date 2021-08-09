@@ -1,0 +1,13 @@
+mp_000519.text was created: 8/8/2021 8:58:34 PM
+Filesize is: 896 bytes
+
+TutorialText
+Group 0
+Title - このクエストについて
+text0001 - このクエストでは<br><red>クエストをクリアするまで<br>エネミーからドロップするアイテムを<br>獲得できません。<c><br><br>クエストクリア時、エリア最深部にて<br>獲得できます。
+
+Group 1
+Title - About This Quest
+text0001 - In this quest, <red>you cannot acquire dropped items <br>from enemies until you meet the clear conditions.<c><br><br>Items will then drop in the final area once you clear the quest.
+
+

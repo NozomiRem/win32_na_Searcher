@@ -1,0 +1,15 @@
+ac06041401.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - ノエミに話しかける
+Explanation - ショップエリア２Ｆの東側にいる<br>エステ店員ノエミに話しかけよう！
+
+Group 1
+Title - Main Mission
+Goal - Speak to Noemi
+Explanation - Speak to Esthetician Noemi<br>in the eastern section of Shopping Plaza 2F!
+
+

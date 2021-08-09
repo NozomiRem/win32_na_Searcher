@@ -1,0 +1,11 @@
+om_040651053.text was created: 8/8/2021 8:54:36 PM
+Filesize is: 496 bytes
+
+Event1
+Group 0
+text01 - これで終わりっと！<br>さくさくっと行きましたね。<br>さあ、帰りましょうか。
+
+Group 1
+text01 - Stick a fork in this mission, 'cause it is DONE.<br>We made it look easy, too. Ready to get back?
+
+

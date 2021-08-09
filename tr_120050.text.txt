@@ -1,0 +1,15 @@
+tr_120050.text was created: 8/8/2021 8:59:56 PM
+Filesize is: 768 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - ファントムは<red>基本ＰＡとシフトＰＡを<br>使い分ける<c>ことで、より多彩な攻撃が<br>可能になります！
+text101 - 課題達成！
+
+Group 1
+name01 - Xiera
+text01 - Phantoms can use <red>both standard <br>Photon Arts and Shift Photon Arts<c>, <br>so they can perform an even wider <br>variety of attacks!
+text101 - Objective complete!
+
+

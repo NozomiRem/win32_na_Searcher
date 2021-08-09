@@ -1,0 +1,14 @@
+ac06050605.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - スターミッション・６－５
+Goal - 白ノ領域で１５回「採取」をする
+Explanation - 白ノ領域のフリーフィールドで<br>１５回「採取」をしよう！
+
+Group 1
+Goal - Harvest 15 times in the Daybreak Province
+Explanation - Go on an Expedition to the Daybreak Province and harvest 15 times!
+
+

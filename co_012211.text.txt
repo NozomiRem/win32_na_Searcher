@@ -1,0 +1,27 @@
+co_012211.text was created: 8/8/2021 8:59:21 PM
+Filesize is: 640 bytes
+
+CharaName
+Group 0
+name01 - ゼノ
+
+Group 1
+name01 - Zeno
+
+
+Skit
+Group 0
+skit01 - /toge させるかよッ！
+
+Group 1
+skit01 - /toge You're gonna get it!
+
+
+Skit_ci
+Group 0
+skit01 - /ci3 2 /toge させるかよッ！
+
+Group 1
+skit01 - /ci3 2 /toge You're gonna get it!
+
+

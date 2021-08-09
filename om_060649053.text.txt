@@ -1,0 +1,10 @@
+om_060649053.text was created: 8/8/2021 8:59:50 PM
+Filesize is: 224 bytes
+
+Event1
+Group 0
+text01 - クエストクリア時テキスト
+
+Group 1
+
+

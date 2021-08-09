@@ -1,0 +1,15 @@
+ac06041004.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「骸の兵士」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE5」を進めることでプレイ可能になる<br>「骸の兵士」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Army of Corpses"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "Army of Corpses" unlocked by<br>progressing through Episode 5!
+
+

@@ -1,0 +1,11 @@
+cm_048300.text was created: 8/8/2021 9:00:25 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 最深部まで進みながら<br>全てのエネミーを撃破してください！
+
+Group 1
+
+

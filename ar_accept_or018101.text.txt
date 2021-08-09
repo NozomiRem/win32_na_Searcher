@@ -1,0 +1,13 @@
+ar_accept_or018101.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+text01 - 押印完了しました。<br>お疲れ様でした。
+11_voice_shop_414 - 次の課題は……<br>ショップエリアにいる、<c bb0000>シオンという<br>方との面会<c>、だそうです。
+text03 - この課題の詳細は私にも不明ですが……<br>よろしくお願いします。
+
+Group 1
+
+

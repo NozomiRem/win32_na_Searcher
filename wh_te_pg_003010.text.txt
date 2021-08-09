@@ -1,0 +1,17 @@
+wh_te_pg_003010.text was created: 8/8/2021 8:57:35 PM
+Filesize is: 384 bytes
+
+Title
+Group 0
+name01 - スキルリングをゲット！
+
+Group 1
+name01 - Like It? Put a Skill Ring on It!
+
+
+mess
+Group 0
+
+Group 1
+
+

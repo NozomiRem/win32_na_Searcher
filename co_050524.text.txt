@@ -1,0 +1,16 @@
+co_050524.text was created: 8/8/2021 9:00:43 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+name01 - シエラ
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+
+

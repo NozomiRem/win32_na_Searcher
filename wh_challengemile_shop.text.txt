@@ -1,0 +1,19 @@
+wh_challengemile_shop.text was created: 8/8/2021 8:59:49 PM
+Filesize is: 1808 bytes
+
+Title
+Group 0
+name01 - チャレンジマイル交換ショップについて
+
+Group 1
+name01 - Challenge Mile Exchange Shop
+
+
+whelp_challengemile_shop
+Group 0
+whelp_challengemile_shop01 - <yellow>【チャレンジマイル交換ショップについて】<c><br><br>　チャレンジクエストのクリア時に獲得できる<br>　チャレンジマイルを消費して、アイテムを購入することができます。<br><br>　商品リストでは、上下でカーソル移動、左右で個数変更し、<br>　「購入」ボタンを選ぶことで、購入できます。<br><br>　【オンラインマニュアル説明ページURL】<br>　<&URL pso2_players_manual_preparations_arkslobby_shoparea>
+
+Group 1
+whelp_challengemile_shop01 - <yellow>[Challenge Miles]<c><br><br>Here you can exchange the Challenge Miles you earn from completing<br>Challenge Quests for items.<br><br>Use up and down to scroll through the item list, press left and right to<br>increase or decrease the number you wish to exchange for, and select<br>the "Purchase" button to confirm the exchange.<br>[Online Manual URL]<br><&URL pso2_players_manual_preparations_arkslobby_shoparea>
+
+

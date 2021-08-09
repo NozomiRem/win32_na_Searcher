@@ -1,0 +1,13 @@
+bo00002649.text was created: 8/8/2021 8:59:53 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 任意のおすすめクエストをクリアし<br>スペシャルギフトを入手する
+
+Group 1
+Title - Bingo Order 99
+Explanation - Clear Any Recommended Quest <br>to Get a Special Present
+
+

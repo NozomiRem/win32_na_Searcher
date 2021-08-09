@@ -1,0 +1,13 @@
+cm_057023.text was created: 8/8/2021 8:56:15 PM
+Filesize is: 544 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_019 - 最終ミッションとなります。<br>最後まで諦めずにミッションの<br>達成を目指してください。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_019 - This is the final mission. Try to complete it<br>fully. Never give up.
+
+

@@ -1,0 +1,17 @@
+wh_te_pg_002003.text was created: 8/8/2021 9:01:13 PM
+Filesize is: 352 bytes
+
+Title
+Group 0
+name01 - アイテムを売ろう！
+
+Group 1
+name01 - Let's Sell Some Items!
+
+
+mess
+Group 0
+
+Group 1
+
+

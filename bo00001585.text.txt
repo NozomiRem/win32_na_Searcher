@@ -1,0 +1,13 @@
+bo00001585.text was created: 8/8/2021 8:59:45 PM
+Filesize is: 464 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - ストーリークエスト<br>4章「地球の導き手」クリア
+
+Group 1
+Title - Bingo Order 99
+Explanation - Clear Story Quest Chapter 4 "Earth's Shepherd"
+
+

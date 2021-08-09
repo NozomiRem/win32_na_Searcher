@@ -1,0 +1,15 @@
+ac06040813.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「最後のさよなら」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE1」を進めることでプレイ可能になる<br>「最後のさよなら」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "The Final Farewell"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "The Final Farewell" unlocked by<br>progressing through Episode 1!
+
+

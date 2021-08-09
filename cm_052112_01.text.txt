@@ -1,0 +1,19 @@
+cm_052112_01.text was created: 8/8/2021 8:56:03 PM
+Filesize is: 576 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+11_voice_navi09_war_053 - 破界鎚を召喚するにはマナが必要です！<br>まずはマナを回収しましょう！
+
+Group 1
+11_voice_navi09_war_053 - We need mana to summon a Buster Ram!<br>Focus on collecting mana first!
+
+

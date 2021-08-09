@@ -1,0 +1,11 @@
+mb00000971.text was created: 8/8/2021 9:00:51 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - アークスシップ内での交流
+Explanation - <c 6fa8f8>【139-D】　「二人のクラリスクレイス」<c><br>先代クラリスクレイスであるマトイを相手に<br>訓練に励むクラリスクレイス。<br>しかしクラリスクレイスは、ひょんなことから<br>マトイから手加減をされていたと知ってしまう。<br><c f0df60>※<%Decide><c f0df60>でイベントを見る（艦橋内のみ）<c>
+
+Group 1
+
+

@@ -1,0 +1,11 @@
+mb00000825.text was created: 8/8/2021 9:00:51 PM
+Filesize is: 576 bytes
+
+Info
+Group 0
+Title - アークスシップ内での交流
+Explanation - <c 6fa8f8>【049-D】　「マザー・クラスタとは」<c><br>ヒツギが所属していた、マザー・クラスタ。<br>その詳細について、情報部はどれだけの情報を<br>掴んでいるのか……<br><br><c f0df60>※<%Decide><c f0df60>でイベントを見る（艦橋内のみ）<c>
+
+Group 1
+
+

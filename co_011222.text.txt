@@ -1,0 +1,15 @@
+co_011222.text was created: 8/8/2021 8:56:28 PM
+Filesize is: 1040 bytes
+
+Skit
+Group 0
+text00 - 『クライアントオーダー』について
+text01 - ロッティにクライアントオーダーが発生しました。<br><br>ロッティはショップエリア・南外周通路にいます。
+text02 - ルべルトにクライアントオーダーが発生しました。<br><br>ルべルトはショップエリア・南外周通路にいます。
+
+Group 1
+text00 - Client Orders
+text01 - Client Order Issuance Notice:<br><br>See Lottie at Outer Ring: South in the Shopping Plaza for more information.
+text02 - Client Order Issuance Notice:<br><br>See Rubert at Outer Ring: South in the Shopping Plaza for more information.
+
+

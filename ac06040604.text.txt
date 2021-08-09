@@ -1,0 +1,15 @@
+ac06040604.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「子供たちの成長を見守ろう！」を達成
+Explanation - ピエトロのクライアントオーダー<br>「子供たちの成長を見守ろう！」を達成しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "How Quickly They Grow"
+Explanation - Complete Pietro's Client Order "How Quickly They Grow"
+
+

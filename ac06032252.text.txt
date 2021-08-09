@@ -1,0 +1,12 @@
+ac06032252.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 352 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - アルティメットクエストを３回クリア
+Explanation - アルティメットクエストを３回クリアしよう！
+
+Group 1
+
+

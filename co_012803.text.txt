@@ -1,0 +1,19 @@
+co_012803.text was created: 8/8/2021 8:47:07 PM
+Filesize is: 640 bytes
+
+Skit
+Group 0
+skit01 - 先にそっちも探索したけど<br>何も無かったのよね
+
+Group 1
+skit01 - I also searched there but didn't find anything.
+
+
+Skit_ci
+Group 0
+skit01 - /ci3 2 先にそっちも探索したけど<br>何も無かったのよね
+
+Group 1
+skit01 - /ci3 2 I also searched there but didn't find<br>anything.
+
+

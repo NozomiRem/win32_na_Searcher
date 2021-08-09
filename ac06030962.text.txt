@@ -1,0 +1,14 @@
+ac06030962.text was created: 8/8/2021 9:01:29 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - ギャザリングフィーバーを発生
+Explanation - フリーフィールドでギャザリングを何度か行い、<br>ギャザリングフィーバーを１回発生させよう！
+
+Group 1
+Title - Debug Order: Grant EXP
+Explanation - 5 Monomates, Thank You Kindly
+
+

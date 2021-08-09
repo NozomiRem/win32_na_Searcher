@@ -1,0 +1,17 @@
+tr_120110.text was created: 8/8/2021 8:55:40 PM
+Filesize is: 464 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 成功です！
+text02 - ***
+text101 - 課題達成！
+
+Group 1
+name01 - Xiera
+text01 - Nicely done!
+text02 - ***
+text101 - Objective complete!
+
+

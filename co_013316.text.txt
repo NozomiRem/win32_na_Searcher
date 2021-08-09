@@ -1,0 +1,11 @@
+co_013316.text was created: 8/8/2021 8:57:40 PM
+Filesize is: 336 bytes
+
+Skit
+Group 0
+linewindow - <br>エネミーを殲滅せよ!!<br>
+
+Group 1
+linewindow - <br>Eradicate the Enemies!<br>
+
+

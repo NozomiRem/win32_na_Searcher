@@ -1,0 +1,11 @@
+om_040635012.text was created: 8/8/2021 8:57:16 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+text01 - よっし、それじゃ行くか。<br>よろしくな！
+
+Group 1
+text01 - You ready? Then let's go!
+
+

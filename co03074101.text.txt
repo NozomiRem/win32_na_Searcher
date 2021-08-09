@@ -1,0 +1,13 @@
+co03074101.text was created: 8/8/2021 8:54:04 PM
+Filesize is: 800 bytes
+
+Info
+Group 0
+Title - クラフト訓練・打撃武器Ⅰ
+Explanation - 何を為すにも<br>目的を定めて行うほうがよい。<br>それは訓練であっても同じこと。<br>まずは、基本の武装エクステンドの訓練。<br>打撃武器のクラフトを体験して<br>感覚を掴むことじゃ。<br><br><yellow>※打撃武器の<br>「武装エクステンド」実行で達成<c>
+
+Group 1
+Title - Crafting Workshop - MEL Weapons I
+Explanation - <yellow>Perform an equipment extension<br>on a melee weapon to complete.<c>
+
+

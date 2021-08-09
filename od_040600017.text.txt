@@ -1,0 +1,19 @@
+od_040600017.text was created: 8/8/2021 8:59:01 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+text01 - ＊＊＊
+text02 - ＊＊＊
+11_voice_NPC_5068_101 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+Group 1
+text01 - ＊＊＊
+text02 - ＊＊＊
+11_voice_NPC_5068_101 - ＊＊＊
+text04 - ＊＊＊
+text05 - ＊＊＊
+
+

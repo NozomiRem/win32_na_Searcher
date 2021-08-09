@@ -1,0 +1,21 @@
+cm_066027.text was created: 8/8/2021 8:55:43 PM
+Filesize is: 560 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 支援兵器を転送します！<br>向かいのエネミーを倒してください！
+
+Group 1
+name01 - Xiera
+text01 - Teleporting support weapons over!<br>Defeat the enemies!
+
+

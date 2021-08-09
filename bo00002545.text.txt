@@ -1,0 +1,12 @@
+bo00002545.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - アークスハンドブック<br>「S級特殊能力で装備品の性能を<br>さらにアップ！」を見る
+
+Group 1
+Explanation - ARKS Handbook<br>"View 'Trick Out Your Equipment with<br>S-Grade Augments!'"
+
+

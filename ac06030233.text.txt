@@ -1,0 +1,12 @@
+ac06030233.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 432 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 閃機種を３００体撃破
+Explanation - 閃機種を合計で３００体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<br>※「艦隊迎撃戦」クエスト推奨<c>
+
+Group 1
+
+

@@ -1,0 +1,11 @@
+cm_048204.text was created: 8/8/2021 8:57:02 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - ヘンリエッタ
+text01 - エリア目標の討伐を確認。<br>次のエリアに向かってください。
+
+Group 1
+
+

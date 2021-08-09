@@ -1,0 +1,17 @@
+wh_te_pg_002004.text was created: 8/8/2021 8:59:34 PM
+Filesize is: 384 bytes
+
+Title
+Group 0
+name01 - デイリーオーダーで！
+
+Group 1
+name01 - Give Us This Day Our Daily Orders
+
+
+mess
+Group 0
+
+Group 1
+
+

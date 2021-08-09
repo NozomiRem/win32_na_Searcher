@@ -1,0 +1,17 @@
+cm_056006.text was created: 8/8/2021 9:00:56 PM
+Filesize is: 352 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Event1
+Group 0
+Text01 - 左ルート１つめのエネミー<br>片付きました！
+
+Group 1
+
+

@@ -1,0 +1,13 @@
+cm_060501.text was created: 8/8/2021 8:48:20 PM
+Filesize is: 592 bytes
+
+Event1
+Group 0
+name01 - ヘンリエッタ
+text01 - エネミー反応がさらに増大。 <br>合わせて、例外エネミーの出現を検知。<br>警戒してください。
+
+Group 1
+name01 - Henrietta
+text01 - Enemy readings are increasing. I detect an atypical presence among them. Please remain vigilant.
+
+

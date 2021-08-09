@@ -1,0 +1,11 @@
+cm_040115.text was created: 8/8/2021 8:58:59 PM
+Filesize is: 320 bytes
+
+TutorialText
+Group 0
+Title - エネミー残り13体！
+
+Group 1
+Title - There are 13 enemies remaining!
+
+

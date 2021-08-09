@@ -1,0 +1,11 @@
+en_chr06_osa.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 304 bytes
+
+Word
+Group 0
+Dead - この……オレが……
+
+Group 1
+Dead - That's... all she wrote...
+
+

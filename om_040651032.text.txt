@@ -1,0 +1,11 @@
+om_040651032.text was created: 8/8/2021 9:01:14 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+text01 - このメンバーで戦えるとか<br>ほんっと楽しみだなぁ！<br>さあ、行きましょう！
+
+Group 1
+text01 - I'm so pumped to get to fight with y'all!<br>Let's rock!
+
+

@@ -1,0 +1,13 @@
+cm_054003.text was created: 8/8/2021 8:59:44 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 片側の敵、撃破を確認！<br>反対側の支援に向かってください！
+
+Group 1
+name01 - Xiera
+text01 - Enemies on one side defeated! Please head<br>to the opposite side to provide support!
+
+

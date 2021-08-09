@@ -1,0 +1,17 @@
+tr_re_040104.text was created: 8/8/2021 8:54:16 PM
+Filesize is: 704 bytes
+
+Tut_win
+Group 0
+train_title - 課題４：<yellow>ブレイブスタンスで敵を倒す
+tut_title - 『ブレイブスタンス』について
+text100 - ・エネミーを正面から攻撃して倒す
+text100_3b - ・エネミーを正面から攻撃して倒す
+
+Group 1
+train_title - Training 4: <yellow>Defeat enemies with Valiant Stance
+tut_title - Valiant Stance
+text100 - -Attack and defeat enemies from the front
+text100_3b - -Attack and defeat enemies from the front
+
+

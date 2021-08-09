@@ -1,0 +1,11 @@
+bo00001107.text was created: 8/8/2021 8:59:40 PM
+Filesize is: 416 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - アールチェに話しかける<br><br>【対象キャラクター】<br>アールチェ<br><br>※対象キャラクターは<br>フランカ’s カフェにいます。
+
+Group 1
+
+

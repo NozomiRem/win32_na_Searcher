@@ -1,0 +1,15 @@
+ac06050411.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - スターミッション・４－１１
+Goal - 任意のフリー/アークス/期間限定クエスト<br>クリア×５ハード以上
+Explanation - 仮　ac06050411
+
+Group 1
+Title - ac06050411 Title
+Goal - ac06050411 Goal
+Explanation - ac06050411 Explanation
+
+

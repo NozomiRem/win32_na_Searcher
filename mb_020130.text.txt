@@ -1,0 +1,12 @@
+mb_020130.text was created: 8/8/2021 8:58:42 PM
+Filesize is: 512 bytes
+
+Skit
+Group 0
+linewindow001 - マターの捜索が完了しました。
+linewindow002 - ストーリークエスト【EP2】『いままでと、これから』が解放されました。
+linewindow003 - あなたの行動により、新たな可能性が生まれました。<br>ストーリークエスト【EP2】『いままでと、これから』を確認してください。
+
+Group 1
+
+

@@ -1,0 +1,14 @@
+ac06050318.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 672 bytes
+
+Info
+Group 0
+Title - スターミッション・３－１８
+Goal - Ｎ：幻創種を１００体撃破
+Explanation - 幻創種を合計で１００体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<c>
+
+Group 1
+Goal - N: Defeat 100 Phantasms
+Explanation - Defeat a total of 100 Phantasms!<br><br><yellow>Note: Enemies must be Lv. 1 or above.<c>
+
+

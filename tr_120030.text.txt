@@ -1,0 +1,17 @@
+tr_120030.text was created: 8/8/2021 8:54:15 PM
+Filesize is: 960 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 「ステルステックチャージ」成功です！<br><red>発動時の無敵時間<c>で、攻撃をかわしつつ<br>上手に移動しちゃいましょう！
+text02 - 次の課題は<br>ファントムで使える武器についての<br>訓練になります。
+text101 - 課題達成！
+
+Group 1
+name01 - Xiera
+text01 - You did it! Use the <red>invulnerability period<c> when<br>you activate it to skillfully dodge attacks!
+text02 - Next, we'll cover the kinds of weapons <br>Phantoms can use.
+text101 - Objective complete!
+
+

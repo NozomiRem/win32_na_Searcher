@@ -1,0 +1,11 @@
+om_040652113.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - 無事終わったようで、なによりです。
+
+Group 1
+text01 - I'm glad we got through that in one piece.
+
+

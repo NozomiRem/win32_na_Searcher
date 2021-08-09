@@ -1,0 +1,13 @@
+oa_telepipe_poka.text was created: 8/8/2021 8:58:33 PM
+Filesize is: 384 bytes
+
+common
+Group 0
+WindowTitle - テレパイプ
+WindowMessage - バトルロビーに戻りますか？
+
+Group 1
+WindowTitle - Telepipe
+WindowMessage - Return to the Battle Lobby?
+
+

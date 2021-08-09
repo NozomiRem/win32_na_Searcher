@@ -1,0 +1,638 @@
+item_element_name_reb.text was created: 8/8/2021 8:55:54 PM
+Filesize is: 24816 bytes
+
+ABNORMAL
+Group 0
+0 - ダミー
+1 - ダミー
+2 - ダミー
+3 - ダミー
+4 - ダミー
+
+Group 1
+
+
+BOOSTER
+Group 0
+0 - スタミナⅠ
+1 - スタミナⅡ
+2 - スタミナⅢ
+3 - スタミナⅣ
+4 - スタミナⅤ
+5 - スピリタⅠ
+6 - スピリタⅡ
+7 - スピリタⅢ
+8 - スピリタⅣ
+9 - スピリタⅤ
+10 - パワーⅠ
+11 - パワーⅡ
+12 - パワーⅢ
+13 - パワーⅣ
+14 - パワーⅤ
+15 - シュートⅠ
+16 - シュートⅡ
+17 - シュートⅢ
+18 - シュートⅣ
+19 - シュートⅤ
+20 - テクニックⅠ
+21 - テクニックⅡ
+22 - テクニックⅢ
+23 - テクニックⅣ
+24 - テクニックⅤ
+25 - アームⅠ
+26 - アームⅡ
+27 - アームⅢ
+28 - アームⅣ
+29 - アームⅤ
+30 - ガードⅠ
+31 - ガードⅡ
+32 - ガードⅢ
+33 - ガードⅣ
+34 - ガードⅤ
+35 - アビリティⅠ
+36 - アビリティⅡ
+37 - アビリティⅢ
+38 - アビリティⅣ
+39 - アビリティⅤ
+40 - フォムズ・ソールⅠ
+41 - フォムズ・ソールⅡ
+42 - アルズ・ソールⅠ
+43 - アルズ・ソールⅡ
+44 - ドルズ・ソールⅠ
+45 - ドルズ・ソールⅡ
+46 - ダイダル・ソールⅠ
+47 - ダイダル・ソールⅡ
+48 - ペダス・ソールⅠ
+49 - ペダス・ソールⅡ
+50 - ネクス・ソールⅠ
+51 - ネクス・ソールⅡ
+52 - エアル・ノートＡ
+53 - エアル・ノートＢ
+54 - エアル・ノートＣ
+55 - エアル・ノートＤ
+56 - マグヌ・ノート
+57 - ラボラタ・ノート
+58 - レゾラ・ノート
+59 - ハルヴス・ノート
+60 - エアル・ドミナ
+61 - アディ・スタミナⅠ
+62 - アディ・スピリタⅠ
+63 - アディ・パワーⅠ
+64 - アディ・シュートⅠ
+65 - アディ・テクニックⅠ
+66 - アディ・アームⅠ
+67 - アディ・ガードⅠ
+68 - アディ・レジストⅠ
+69 - アルズ・セクレテⅠ
+70 - アルズ・セクレテⅡ
+71 - ギガス・パワーⅠ
+72 - ギガス・パワーⅡ
+73 - ギガス・シュートⅠ
+74 - ギガス・シュートⅡ
+75 - ギガス・テクニックⅠ
+76 - ギガス・テクニックⅡ
+77 - ドレド・キーパⅠ
+78 - ドレド・キーパⅡ
+79 - エスペリオⅠ
+80 - エスペリオⅡ
+81 - ダシャ・ディアブルⅠ
+82 - ダシャ・ディアブルⅡ
+83 - ダシャ・ディアブルⅢ
+84 - ダホウ・ディアブルⅠ
+85 - ダホウ・ディアブルⅡ
+86 - ダホウ・ディアブルⅢ
+87 - シャホウ・ディアブルⅠ
+88 - シャホウ・ディアブルⅡ
+89 - シャホウ・ディアブルⅢ
+90 - ラグラス・ソールⅠ
+91 - ラグラス・ソールⅡ
+92 - ラグラス・ソールⅢ
+93 - ドルズ・ソールⅢ
+
+Group 1
+0 - Stamina I
+1 - Stamina II
+2 - Stamina III
+3 - Stamina IV
+4 - Stamina V
+5 - Spirit I
+6 - Spirit II
+7 - Spirit III
+8 - Spirit IV
+9 - Spirit V
+10 - Might I
+11 - Might II
+12 - Might III
+13 - Might IV
+14 - Might V
+15 - Precision I
+16 - Precision II
+17 - Precision III
+18 - Precision IV
+19 - Precision V
+20 - Technique I
+21 - Technique II
+22 - Technique III
+23 - Technique IV
+24 - Technique V
+25 - Deftness I
+26 - Deftness II
+27 - Deftness III
+28 - Deftness IV
+29 - Deftness V
+30 - Guard I
+31 - Guard II
+32 - Guard III
+33 - Guard IV
+34 - Guard V
+35 - Mastery I
+36 - Mastery II
+37 - Mastery III
+38 - Mastery IV
+39 - Mastery V
+40 - Forms Soul I
+41 - Forms Soul II
+42 - Alts Soul I
+43 - Alts Soul II
+44 - Dolz Soul I
+45 - Dolz Soul II
+46 - Daityl Soul I
+47 - Daityl Soul II
+48 - Pettas Soul I
+49 - Pettas Soul II
+50 - Nex Soul I
+51 - Nex Soul II
+52 - Ael Note A
+53 - Ael Note B
+54 - Ael Note C
+55 - Ael Note D
+56 - Magnus Note
+57 - Lab Note
+58 - Resola Note
+59 - Halphis Note
+60 - Ael Domina
+61 - Addi Stamina I
+62 - Addi Spirit I
+63 - Addi Might I
+64 - Addi Precision I
+65 - Addi Technique I
+66 - Addi Deftness I
+67 - Addi Guard I
+68 - Addi Ward I
+69 - Alts Secreta I
+70 - Alts Secreta II
+71 - Gigas Might I
+72 - Gigas Might II
+73 - Gigas Precision I
+74 - Gigas Precision II
+75 - Gigas Technique I
+76 - Gigas Technique II
+77 - Dread Keeper I
+78 - Dread Keeper II
+79 - Esperio I
+80 - Esperio II
+81 - Melra Dualble I
+82 - Melra Dualble II
+83 - Melra Dualble III
+84 - Meltech Dualble I
+85 - Meltech Dualble II
+86 - Meltech Dualble III
+87 - Ratech Dualble I
+88 - Ratech Dualble II
+89 - Ratech Dualble III
+90 - Ragras Soul I
+91 - Ragras Soul II
+92 - Ragras Soul III
+93 - Dolz Soul III
+
+
+RESIST
+Group 0
+0 - バーンレジストⅠ
+1 - バーンレジストⅡ
+2 - バーンレジストⅢ
+3 - バーンレジストⅣ
+4 - バーンレジストⅤ
+5 - フリーズレジストⅠ
+6 - フリーズレジストⅡ
+7 - フリーズレジストⅢ
+8 - フリーズレジストⅣ
+9 - フリーズレジストⅤ
+10 - ショックレジストⅠ
+11 - ショックレジストⅡ
+12 - ショックレジストⅢ
+13 - ショックレジストⅣ
+14 - ショックレジストⅤ
+15 - ミラージュレジストⅠ
+16 - ミラージュレジストⅡ
+17 - ミラージュレジストⅢ
+18 - ミラージュレジストⅣ
+19 - ミラージュレジストⅤ
+20 - パニックレジストⅠ
+21 - パニックレジストⅡ
+22 - パニックレジストⅢ
+23 - パニックレジストⅣ
+24 - パニックレジストⅤ
+25 - ポイズンレジストⅠ
+26 - ポイズンレジストⅡ
+27 - ポイズンレジストⅢ
+28 - ポイズンレジストⅣ
+29 - ポイズンレジストⅤ
+30 - オールレジストⅠ
+31 - オールレジストⅡ
+32 - オールレジストⅢ
+33 - オールレジストⅣ
+34 - オールレジストⅤ
+35 - ペインレジストⅠ
+36 - ペインレジストⅡ
+37 - ペインレジストⅢ
+38 - ペインレジストⅣ
+39 - ペインレジストⅤ
+
+Group 1
+0 - Burn Ward I
+1 - Burn Ward II
+2 - Burn Ward III
+3 - Burn Ward IV
+4 - Burn Ward V
+5 - Freeze Ward I
+6 - Freeze Ward II
+7 - Freeze Ward III
+8 - Freeze Ward IV
+9 - Freeze Ward V
+10 - Shock Ward I
+11 - Shock Ward II
+12 - Shock Ward III
+13 - Shock Ward IV
+14 - Shock Ward V
+15 - Blind Ward I
+16 - Blind Ward II
+17 - Blind Ward III
+18 - Blind Ward IV
+19 - Blind Ward V
+20 - Panic Ward I
+21 - Panic Ward II
+22 - Panic Ward III
+23 - Panic Ward IV
+24 - Panic Ward V
+25 - Poison Ward I
+26 - Poison Ward II
+27 - Poison Ward III
+28 - Poison Ward IV
+29 - Poison Ward V
+30 - Sovereign Ward I
+31 - Sovereign Ward II
+32 - Sovereign Ward III
+33 - Sovereign Ward IV
+34 - Sovereign Ward V
+35 - Pain Ward I
+36 - Pain Ward II
+37 - Pain Ward III
+38 - Pain Ward IV
+39 - Pain Ward V
+
+
+SPECIAL
+Group 0
+0 - レガロ・ソールズⅠ
+1 - レガロ・ソールズⅡ
+2 - レガロ・スタミナヴァズⅠ
+3 - レガロ・スタミナヴァズⅡ
+4 - レガロ・スタミナヴァズⅢ
+5 - レガロ・スピリタヴァズⅠ
+6 - レガロ・スピリタヴァズⅡ
+7 - レガロ・アタックヴァズⅠ
+8 - レガロ・アタックヴァズⅡ
+9 - レガロ・アタックヴァズⅢ
+10 - レガロ・ガードヴァズ
+11 - レガロ・ミドルヴァズ
+12 - レガロ・フィーブス
+13 - レガロ・アルタフリクタ
+14 - レガロ・スティグム
+15 - レガロ・レッソアタックⅠ
+16 - レガロ・レッソアタックⅡ
+17 - レガロ・レッソアタックⅢ
+18 - レガロ・レヴリージⅠ
+19 - レガロ・レヴリージⅡ
+20 - レガロ・ファクタルスⅠ
+21 - レガロ・ファクタルスⅡ
+22 - レガロ・マークシス
+23 - レガロ・カタリスタ
+24 - レガロ・モデュレーナ
+25 - レガロ・スタミナⅠ
+26 - レガロ・スタミナⅡ
+27 - レガロ・スタミナⅢ
+28 - レガロ・スピリタⅠ
+29 - レガロ・スピリタⅡ
+30 - レガロ・スピリタⅢ
+31 - レガロ・アタックⅠ
+32 - レガロ・アタックⅡ
+33 - レガロ・アタックⅢ
+34 - レガロ・アームⅠ
+35 - レガロ・アームⅡ
+36 - レガロ・アームⅢ
+37 - レガロ・ガードⅠ
+38 - レガロ・ガードⅡ
+39 - レガロ・ガードⅢ
+40 - レガロ・レッソスタミナⅠ
+41 - レガロ・レッソスタミナⅡ
+42 - レガロ・レッソスタミナⅢ
+43 - レガロ・レッソスピリタⅠ
+44 - レガロ・レッソスピリタⅡ
+45 - レガロ・レッソスピリタⅢ
+46 - レガロ・リターナーⅠ
+47 - レガロ・リターナーⅡ
+48 - レガロ・リターナーⅢ
+49 - レガロ・アビリティⅠ
+50 - レガロ・アビリティⅡ
+51 - レガロ・アビリティⅢ
+52 - レガロ・ミューテス
+53 - レガロ・ドゥムブレイグ
+54 - レガロ・スピリタアルバ
+55 - レガロ・スマイロ
+56 - レガロ・オメガメモラ
+57 - レガロ・クラクスⅠ
+58 - レガロ・クラクスⅡ
+59 - レガロ・クラクスⅢ
+60 - レガロ・アレイⅠ
+61 - レガロ・アレイⅡ
+62 - レガロ・アレイⅢ
+63 - レガロ・フレイムレジナⅠ
+64 - レガロ・フレイムレジナⅡ
+65 - レガロ・フレイムレジナⅢ
+66 - レガロ・アイスレジナⅠ
+67 - レガロ・アイスレジナⅡ
+68 - レガロ・アイスレジナⅢ
+69 - レガロ・ショックレジナⅠ
+70 - レガロ・ショックレジナⅡ
+71 - レガロ・ショックレジナⅢ
+72 - レガロ・ウィンドレジナⅠ
+73 - レガロ・ウィンドレジナⅡ
+74 - レガロ・ウィンドレジナⅢ
+75 - レガロ・ライトレジナⅠ
+76 - レガロ・ライトレジナⅡ
+77 - レガロ・ライトレジナⅢ
+78 - レガロ・グルームレジナⅠ
+79 - レガロ・グルームレジナⅡ
+80 - レガロ・グルームレジナⅢ
+81 - レガロ・オールレジナⅠ
+82 - レガロ・オールレジナⅡ
+83 - レガロ・オールレジナⅢ
+84 - レガロ・バーンⅠ
+85 - レガロ・バーンⅡ
+86 - レガロ・バーンⅢ
+87 - レガロ・フリーズⅠ
+88 - レガロ・フリーズⅡ
+89 - レガロ・フリーズⅢ
+90 - レガロ・ショックⅠ
+91 - レガロ・ショックⅡ
+92 - レガロ・ショックⅢ
+93 - レガロ・ミラージュⅠ
+94 - レガロ・ミラージュⅡ
+95 - レガロ・ミラージュⅢ
+96 - レガロ・パニックⅠ
+97 - レガロ・パニックⅡ
+98 - レガロ・パニックⅢ
+99 - レガロ・ポイズンⅠ
+100 - レガロ・ポイズンⅡ
+101 - レガロ・ポイズンⅢ
+102 - レガロ・ディバイゾ
+103 - レガロ・グレアスⅠ
+104 - レガロ・グレアスⅡ
+105 - レガロ・レセプタン
+106 - レガロ・イクシス
+107 - レガロ・フレイザ
+108 - レガロ・バスターユ
+109 - レガロ・リーパス
+110 - レガロ・リーパス
+111 - レガロ・リーパス
+112 - レガロ・リーパス
+113 - レガロ・リーパス
+114 - レガロ・リーパス
+115 - レガロ・スレイジャ
+116 - レガロ・フォーチュナ
+117 - レガロ・センテンツォ
+118 - レガロ・テンプテータ
+119 - レガロ・ヒストーレ
+120 - レガロ・フレッシャザイ
+121 - レガロ・フォトンコレグ
+122 - レガロ・エンブレッソ
+123 - レガロ・ニューエヴァズⅠ
+124 - レガロ・ニューエヴァズⅡ
+125 - レガロ・エンペーリア
+126 - レガロ・スピリタヴァズⅢ
+
+Group 1
+0 - Legaro Souls I
+1 - Legaro Souls II
+2 - Legaro Stamina Vaz I
+3 - Legaro Stamina Vaz II
+4 - Legaro Stamina Vaz III
+5 - Legaro Spirit Vaz I
+6 - Legaro Spirit Vaz II
+7 - Legaro Attack Vaz I
+8 - Legaro Attack Vaz II
+9 - Legaro Attack Vaz III
+10 - Legaro Guard Vaz
+11 - Legaro Middle Vaz
+12 - Legaro Feves
+13 - Legaro Alterflicta
+14 - Legaro Stigmu
+15 - Legaro Lesso Attack I
+16 - Legaro Lesso Attack II
+17 - Legaro Lesso Attack III
+18 - Legaro Reverij I
+19 - Legaro Reverij II
+20 - Legaro Factalz I
+21 - Legaro Factalz II
+22 - Legaro Marksys
+23 - Legaro Catalysta
+24 - Legaro Modulena
+25 - Legaro Stamina I
+26 - Legaro Stamina II
+27 - Legaro Stamina III
+28 - Legaro Spirit I
+29 - Legaro Spirit II
+30 - Legaro Spirit III
+31 - Legaro Attack I
+32 - Legaro Attack II
+33 - Legaro Attack III
+34 - Legaro Deftness I
+35 - Legaro Deftness II
+36 - Legaro Deftness III
+37 - Legaro Guard I
+38 - Legaro Guard II
+39 - Legaro Guard III
+40 - Legaro Lesso Stamina I
+41 - Legaro Lesso Stamina II
+42 - Legaro Lesso Stamina III
+43 - Legaro Lesso Spirit I
+44 - Legaro Lesso Spirit II
+45 - Legaro Lesso Spirit III
+46 - Legaro Veteran's Resolve I
+47 - Legaro Veteran's Resolve II
+48 - Legaro Veteran's Resolve III
+49 - Legaro Mastery I
+50 - Legaro Mastery II
+51 - Legaro Mastery III
+52 - Legaro Mutess
+53 - Legaro Dom Breag
+54 - Legaro Spirit Alba
+55 - Legaro Smilo
+56 - Legaro Omega Memora
+57 - Legaro Crakus I
+58 - Legaro Crakus II
+59 - Legaro Crakus III
+60 - Legaro Arei I
+61 - Legaro Arei II
+62 - Legaro Arei III
+63 - Legaro Flame Regina I
+64 - Legaro Flame Regina II
+65 - Legaro Flame Regina III
+66 - Legaro Ice Regina I
+67 - Legaro Ice Regina II
+68 - Legaro Ice Regina III
+69 - Legaro Shock Regina I
+70 - Legaro Shock Regina II
+71 - Legaro Shock Regina III
+72 - Legaro Wind Regina I
+73 - Legaro Wind Regina II
+74 - Legaro Wind Regina III
+75 - Legaro Light Regina I
+76 - Legaro Light Regina II
+77 - Legaro Light Regina III
+78 - Legaro Gloom Regina I
+79 - Legaro Gloom Regina II
+80 - Legaro Gloom Regina III
+81 - Legaro All Regina I
+82 - Legaro All Regina II
+83 - Legaro All Regina III
+84 - Legaro Burn I
+85 - Legaro Burn II
+86 - Legaro Burn III
+87 - Legaro Freeze I
+88 - Legaro Freeze II
+89 - Legaro Freeze III
+90 - Legaro Shock I
+91 - Legaro Shock II
+92 - Legaro Shock III
+93 - Legaro Blind I
+94 - Legaro Blind II
+95 - Legaro Blind III
+96 - Legaro Panic I
+97 - Legaro Panic II
+98 - Legaro Panic III
+99 - Legaro Poison I
+100 - Legaro Poison II
+101 - Legaro Poison III
+102 - Legaro Diviso
+103 - Legaro Glarus I
+104 - Legaro Glarus II
+105 - Legaro Receptan
+106 - Legaro Excis
+107 - Legaro Phraza
+108 - Legaro Busteyu
+109 - Legaro Reapus
+110 - Legaro Reapus
+111 - Legaro Reapus
+112 - Legaro Reapus
+113 - Legaro Reapus
+114 - Legaro Reapus
+115 - Legaro Slayja
+116 - Legaro Fortuna
+117 - Legaro Sentenzo
+118 - Legaro Temptatia
+119 - Legaro Histore
+120 - Legaro Fresh Zai
+121 - Legaro Photon Coleg
+122 - Legaro Embresso
+123 - Legaro Newe Vaz I
+124 - Legaro Newe Vaz II
+125 - Legaro Emperia
+126 - Legaro Spirit Vaz III
+
+
+USERSKILL
+Group 0
+0 - サンダーウィーカーⅠ
+1 - アイスウィーカーⅠ
+
+Group 1
+0 - Lightning Exploit I
+1 - Ice Exploit I
+
+
+USERSKILL2
+Group 0
+0 - レガロ・ＳアタックⅠ
+1 - レガロ・ＳアタックⅠ
+2 - レガロ・ＳアタックⅠ
+3 - レガロ・ＳアタックⅠ
+4 - レガロ・ＳアタックⅠ
+5 - レガロ・ＳアタックⅠ
+6 - レガロ・ＳアタックⅠ
+7 - レガロ・ＳアタックⅠ
+8 - レガロ・Ｓガード
+9 - レガロ・Ｓガード
+10 - レガロ・Ｓガード
+11 - レガロ・Ｓガード
+12 - レガロ・Ｓガード
+13 - レガロ・Ｓガード
+14 - レガロ・Ｓガード
+15 - レガロ・Ｓガード
+16 - レガロ・Ｓパフォーマ
+17 - レガロ・Ｓパフォーマ
+18 - レガロ・Ｓパフォーマ
+19 - レガロ・Ｓパフォーマ
+20 - レガロ・Ｓパフォーマ
+21 - レガロ・Ｓパフォーマ
+22 - レガロ・Ｓパフォーマ
+23 - レガロ・Ｓパフォーマ
+24 - レガロ・Ｓレヴィート
+25 - レガロ・ＳアタックⅡ
+26 - レガロ・Ｓアペンダ
+27 - レガロ・ＳアタックⅡ
+28 - レガロ・Ｓコンヴェンテ
+29 - レガロ・Ｓコンヴェンテ
+30 - レガロ・Ｓエフィシェト
+31 - レガロ・Ｓエフィシェト
+32 - レガロ・Ｓエフィシェト
+33 - レガロ・Ｓコンヴェンテ
+
+Group 1
+0 - Legaro S Attack I
+1 - Legaro S Attack I
+2 - Legaro S Attack I
+3 - Legaro S Attack I
+4 - Legaro S Attack I
+5 - Legaro S Attack I
+6 - Legaro S Attack I
+7 - Legaro S Attack I
+8 - Legaro S Guard
+9 - Legaro S Guard
+10 - Legaro S Guard
+11 - Legaro S Guard
+12 - Legaro S Guard
+13 - Legaro S Guard
+14 - Legaro S Guard
+15 - Legaro S Guard
+16 - Legaro S Performa
+17 - Legaro S Performa
+18 - Legaro S Performa
+19 - Legaro S Performa
+20 - Legaro S Performa
+21 - Legaro S Performa
+22 - Legaro S Performa
+23 - Legaro S Performa
+24 - Legaro S Levit
+25 - Legaro S Attack II
+26 - Legaro S Appender
+27 - Legaro S Attack II
+28 - Legaro S Convente
+29 - Legaro S Convente
+30 - Legaro S Efficet
+31 - Legaro S Efficet
+32 - Legaro S Efficet
+33 - Legaro S Convente
+
+

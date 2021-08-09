@@ -1,0 +1,11 @@
+cm_069624.text was created: 8/8/2021 8:54:22 PM
+Filesize is: 336 bytes
+
+Skit00
+Group 0
+mes00 - スイッチ起動！ トラップが停止！
+
+Group 1
+mes00 - Activate the switch! Stop the trap!
+
+

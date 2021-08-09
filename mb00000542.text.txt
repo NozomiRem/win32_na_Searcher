@@ -1,0 +1,11 @@
+mb00000542.text was created: 8/8/2021 8:55:15 PM
+Filesize is: 368 bytes
+
+Info
+Group 0
+Title - 指定物品の回収
+Explanation - 指定されたエネミーを倒し、残留物を<br>回収することで、可能性は紡がれる。<br>それは、君にしかできないことだ。
+
+Group 1
+
+

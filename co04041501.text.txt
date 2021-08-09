@@ -1,0 +1,13 @@
+co04041501.text was created: 8/8/2021 8:58:30 PM
+Filesize is: 800 bytes
+
+Info
+Group 0
+Title - ちゃちゃっと東京エリア探索
+Explanation - あ、アンタ……！<br>地球っていう惑星が見つかったんでしょ？<br>ちゃんと探索に行ってるの？<br>その顔は行ってなさそうね……！<br>やっぱり、私が<br>見ててあげないとダメなんだから。<br>ウォーミングアップがてら<br>地球の東京エリア！<br>ちゃちゃっと行ってらっしゃい！<br><yellow>※ハード以上、Ｓランククリア<c>
+
+Group 1
+Title - Lickety-Split Tokyo Trip
+Explanation - <yellow>Clear with an S Rank on Hard or above.<c>
+
+

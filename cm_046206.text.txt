@@ -1,0 +1,11 @@
+cm_046206.text was created: 8/8/2021 8:49:40 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 右ルート３つめも終わりましたね！<br><c ff4f3f>テレポーターを用意しました！<br>反対側へ支援に向かってください！<c>
+
+Group 1
+
+

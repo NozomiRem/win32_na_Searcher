@@ -1,0 +1,15 @@
+cm_038103_2.text was created: 8/8/2021 8:55:22 PM
+Filesize is: 704 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+linewindow - レーザーフェンス閉鎖まで残り６０秒。
+text01 - <c bb0000>レーザーフェンス閉鎖まで残り６０秒<c>。<br>お急ぎください。
+
+Group 1
+name01 - Inanna
+linewindow - 60 seconds remain until the fence closes.
+text01 - <c bb0000>60 seconds remain until the fence closes<c>.<br>You'd best get moving.
+
+

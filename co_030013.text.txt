@@ -1,0 +1,11 @@
+co_030013.text was created: 8/8/2021 9:00:31 PM
+Filesize is: 304 bytes
+
+Skit
+Group 0
+text100 - エクストリームパスを受け取りました。
+
+Group 1
+text100 - Received Extreme Pass.
+
+

@@ -1,0 +1,13 @@
+om_060652072.text was created: 8/8/2021 8:59:33 PM
+Filesize is: 480 bytes
+
+Event1
+Group 0
+text01 - うおぉぉぉぉぉっ！<br>闘争こそが、余が活きる道なりっ！！
+text02 - 贖罪のために……
+
+Group 1
+text01 - Raaaaaah! Battle is where I truly come alive!
+text02 - In order to atone...
+
+

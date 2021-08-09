@@ -1,0 +1,15 @@
+ac06030451.text was created: 8/8/2021 9:01:28 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - ブラックニャックで１回勝利する
+Explanation - ブラックニャックで、ニャウに１回勝利しよう！
+
+Group 1
+Title - Event Mission
+Goal - Win at Blacknyack 1 Time
+Explanation - Play Blacknyack and beat Nyau 1 time!
+
+

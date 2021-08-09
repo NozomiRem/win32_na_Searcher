@@ -1,0 +1,15 @@
+od_020400301.text was created: 8/8/2021 9:00:55 PM
+Filesize is: 1168 bytes
+
+Event1
+Group 0
+11_voice_NPC_5051_104 - ……本当にいいの？<br>頼んでおいて言うのも何だけど<br>かなり無理なお願いだし……
+text02 - でも、これまでいつも<br>あなたはやってくれたものね！
+text03 - 今回も信じてるわ。<br>苦しいときは、プリップリの<br>おいしいお肉を思い出して頑張って！
+
+Group 1
+11_voice_NPC_5051_104 - Are you sure about this? I mean, I know <br>I'm the one who asked in the first place, but...
+text02 - Well, you've never had any problems before<br>though, right?
+text03 - I'm sure you can handle this, too. And if you<br>find yourself having a hard time, just think of<br>that nice, juicy meat that's waiting for you!
+
+

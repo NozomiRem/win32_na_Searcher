@@ -1,0 +1,13 @@
+cm_057073.text was created: 8/8/2021 8:54:59 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - ダッシュパネルを使用し<br>テレポーターまでたどり着きましょう。
+
+Group 1
+name01 - Inanna
+text01 - Use the Dash Panels to reach the Teleporter.
+
+

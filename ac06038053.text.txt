@@ -1,0 +1,16 @@
+ac06038053.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - メセタンシューターでキングメセタンを撃破<pict repeat>
+Explanation - カジノエリアのメセタンシューターで<br>キングメセタンを撃破しよう！
+
+Group 1
+Title - Debug Order: Grant EXP
+Goal - Defeat King Mesetan in Mesetan Shooter<pict repeat>
+Explanation - Play Mesetan Shooter at the Casino<br>and defeat King Mesetan!
+Errand - 5 Monomates, Thank You Kindly
+
+

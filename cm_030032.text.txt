@@ -1,0 +1,17 @@
+cm_030032.text was created: 8/8/2021 8:55:05 PM
+Filesize is: 416 bytes
+
+CharaName
+Group 0
+name01 - ブリギッタ
+
+Group 1
+
+
+Skit
+Group 0
+line01 - 全ての敵を撃破した！<br><yellow>矢印の方向に進みテレポーターにアクセスせよ！<c>
+
+Group 1
+
+

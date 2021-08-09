@@ -1,0 +1,13 @@
+cm_064150.text was created: 8/8/2021 8:54:10 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - そのルートは<br>塞がれてしまっています！<br>迂回して向かってください！
+
+Group 1
+name01 - Xiera
+text01 - That route is blocked! Please take a detour.
+
+

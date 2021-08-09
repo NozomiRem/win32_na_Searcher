@@ -1,0 +1,11 @@
+cm_066000.text was created: 8/8/2021 8:48:53 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 残る敵性反応はここだけです！<br>強力な反応をビンビン感じますが<br>まずは目の前の敵を排除して下さい！
+
+Group 1
+
+

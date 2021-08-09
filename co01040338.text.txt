@@ -1,0 +1,13 @@
+co01040338.text was created: 8/8/2021 8:56:51 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - 天を覆いし青き王
+Explanation - おいおいおい、冗談じゃねーぞ！<br>浮遊大陸のクォーツ・ドラゴンとかいうの！<br>ヴォル・ドラゴンみたいなもんかと思ったら<br>むちゃくちゃ強いじゃねーか！<br>つか、あいつ全身尖りすぎだろ！危ねえよ！<br>こうなったらもう、おたくに攻略法を<br>見つけてもらうっきゃねえ！<br>待ってるぜ！<br><br><yellow>※Lv.31～のエネミーが対象<c>
+
+Group 1
+Title - The Azure Overlord of the Skies
+Explanation - <yellow>Enemies must be Level 31 or above.<c>
+
+

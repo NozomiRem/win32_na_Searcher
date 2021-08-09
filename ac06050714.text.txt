@@ -1,0 +1,14 @@
+ac06050714.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・７－１４
+Goal - 橙色のコンテナを５個破壊
+Explanation - 橙色のコンテナを５個破壊しよう！
+
+Group 1
+Goal - Destroy 5 Orange Containers
+Explanation - Destroy a total of 5 orange containers!
+
+

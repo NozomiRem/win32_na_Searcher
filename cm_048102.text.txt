@@ -1,0 +1,11 @@
+cm_048102.text was created: 8/8/2021 8:58:59 PM
+Filesize is: 320 bytes
+
+TutorialText
+Group 0
+Title - エネミー残り10体！
+
+Group 1
+Title - There are 10 enemies remaining!
+
+

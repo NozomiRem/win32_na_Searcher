@@ -1,0 +1,11 @@
+om_040639043.text was created: 8/8/2021 9:00:26 PM
+Filesize is: 448 bytes
+
+Event1
+Group 0
+text01 - <%me>さん。<br>ありがとうございました。<br>データ収集は十分です、戻りましょう。
+
+Group 1
+text01 - Thank you, <%me>.<br>That's enough data for me. Let's get back.
+
+

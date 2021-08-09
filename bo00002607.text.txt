@@ -1,0 +1,11 @@
+bo00002607.text was created: 8/8/2021 8:59:53 PM
+Filesize is: 368 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【クエストクリア】<br>指定標本回収：浮遊大陸<br><br>【クエスト難易度】<br>ノーマル以上
+
+Group 1
+
+

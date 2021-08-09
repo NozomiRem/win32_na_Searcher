@@ -1,0 +1,11 @@
+co_050047.text was created: 8/8/2021 9:00:40 PM
+Filesize is: 368 bytes
+
+system_message
+Group 0
+linewindow001 - マトイをパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Matoi as your Partner.
+
+

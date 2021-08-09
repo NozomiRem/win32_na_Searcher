@@ -1,0 +1,15 @@
+ac06040801.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 768 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「シオンとの出会い」を閲覧
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE1」のイベント「シオンとの出会い」を<br>見よう！
+
+Group 1
+Title - Main Mission
+Goal - View "An Encounter with Xion"
+Explanation - Select Story Quests at the Quest Counter and<br>view the Episode 1 event "An Encounter with Xion"!
+
+

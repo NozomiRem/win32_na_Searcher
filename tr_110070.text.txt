@@ -1,0 +1,17 @@
+tr_110070.text was created: 8/8/2021 8:58:59 PM
+Filesize is: 592 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 素晴らしいです！
+text02 - 次は、「アルティメットインパクト」の<br>訓練に移りましょう！
+text101 - 課題達成！
+
+Group 1
+name01 - Xiera
+text01 - Wonderful!
+text02 - Next, we'll cover Ultimate Impact!
+text101 - Objective complete!
+
+

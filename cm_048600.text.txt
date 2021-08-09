@@ -1,0 +1,13 @@
+cm_048600.text was created: 8/8/2021 9:01:54 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - このエリアは、出現するエネミーの<br>全撃破が目標となります。
+
+Group 1
+name01 - Brigitta
+text01 - Your objective is to eliminate all the<br>enemies that appear in this area.
+
+

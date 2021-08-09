@@ -1,0 +1,13 @@
+cm_065164.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - テレポーターを転送しました！<br>敵性反応は、残りわずかです。<br>お気を付けて！
+
+Group 1
+name01 - Xiera
+text01 - I sent the Teleporter! Only a few more<br>enemies detected. Stay focused!
+
+

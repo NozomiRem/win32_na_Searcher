@@ -1,0 +1,11 @@
+co_030014.text was created: 8/8/2021 8:57:00 PM
+Filesize is: 496 bytes
+
+Skit
+Group 0
+text100 - EP3のマターボードを選択していない為、クライアントオーダーを受注できません。
+
+Group 1
+text100 - You cannot accept Client Orders because you have not selected a Divergence Matrix from Ep. 3.
+
+

@@ -1,0 +1,10 @@
+cm_069501.text was created: 8/8/2021 8:53:58 PM
+Filesize is: 256 bytes
+
+Skit00
+Group 0
+line01 - <yellow>希少エネミーの増援が出現！<c>
+
+Group 1
+
+

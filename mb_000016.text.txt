@@ -1,0 +1,11 @@
+mb_000016.text was created: 8/8/2021 8:57:21 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+text100 - 『ジグのいる場所』について
+text101 - ジグはショップエリア・西休憩広場にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

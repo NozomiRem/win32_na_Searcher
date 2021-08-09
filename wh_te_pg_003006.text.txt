@@ -1,0 +1,17 @@
+wh_te_pg_003006.text was created: 8/8/2021 8:55:39 PM
+Filesize is: 416 bytes
+
+Title
+Group 0
+name01 - ウェポンズバッヂで強い装備品をゲット！
+
+Group 1
+name01 - Enhance Your Arsenal with Weapon Badges!
+
+
+mess
+Group 0
+
+Group 1
+
+

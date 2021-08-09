@@ -1,0 +1,11 @@
+co_0121116.text was created: 8/8/2021 9:01:52 PM
+Filesize is: 384 bytes
+
+Skit
+Group 0
+linewindow - <br>エネミーの群れが逃げ出そうとしている！<br>
+
+Group 1
+linewindow - <br>The group of enemies is trying to escape!<br>
+
+

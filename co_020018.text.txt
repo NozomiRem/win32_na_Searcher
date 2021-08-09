@@ -1,0 +1,11 @@
+co_020018.text was created: 8/8/2021 8:59:02 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+line01 - ファルス・アーム以外のエネミーを殲滅せよ！
+
+Group 1
+line01 - Eradicate all enemies except Falz Arms!
+
+

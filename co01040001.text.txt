@@ -1,0 +1,13 @@
+co01040001.text was created: 8/8/2021 8:56:48 PM
+Filesize is: 832 bytes
+
+Info
+Group 0
+Title - アギニスの肉の調達
+Explanation - 調達してもらったウーダンの肉で<br>新しいレシピをいくつか考えてみたけど<br>なかなかうまくいかなくて……<br>人工の肉より質はいいんだけど<br>煮ても焼いても固くなっちゃうのよ。<br>そこで考えたんだけど、同じ原生種でも<br>鳥類ならきっとおいしく調理できるはずよ。<br>翼の大きなアギニスなんか、肉質もよくて<br>食材に適してると思うのよね。<br><yellow>※Lv.21～のアギニスが対象<c>
+
+Group 1
+Title - Procure Agnis Meat
+Explanation - <yellow>Agnis must be Level 21 or above.<c>
+
+

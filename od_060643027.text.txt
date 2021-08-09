@@ -1,0 +1,11 @@
+od_060643027.text was created: 8/8/2021 8:55:16 PM
+Filesize is: 384 bytes
+
+Event1
+Group 0
+text01 - このパートナーカードは<br>我からリーダーへの信頼の証でもある。
+text02 - それゆえの交換条件だ。<br>オロチアギトを見かけたら<br>必ず俺を呼べ。
+
+Group 1
+
+

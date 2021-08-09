@@ -1,0 +1,14 @@
+ac06050825.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 800 bytes
+
+Info
+Group 0
+Title - ティアミッション
+Goal - 「虚無より睨む原初の闇」をクリア
+Explanation - 緊急クエスト「虚無より睨む原初の闇」を<br>難度ハード以上で１回クリアしよう！<br><yellow><br>※トリガークエストでもクリア可能<c>
+
+Group 1
+Goal - Clear "The Face of the Abyss"
+Explanation - Clear Urgent Quest "The Face of the Abyss"<br> on Hard or above!<br><yellow><br>Note: Trigger Quests count toward the total.<c>
+
+

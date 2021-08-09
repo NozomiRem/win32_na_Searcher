@@ -1,0 +1,11 @@
+om_040651072.text was created: 8/8/2021 9:00:20 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text01 - よーし、頑張るぞ！
+
+Group 1
+text01 - You ready to roll? 'Cause I am!
+
+

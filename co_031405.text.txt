@@ -1,0 +1,13 @@
+co_031405.text was created: 8/8/2021 8:57:32 PM
+Filesize is: 640 bytes
+
+Skit
+Group 0
+text00 - 『クライアントオーダー』について
+text01 - クラリスクレイスに<br>クライアントオーダーが発生しました。<br><br>場所はゲートエリア２階にいます。
+
+Group 1
+text00 - Client Orders
+text01 - Client Order Issuance Notice:<br><br>See Klariskrays at Gate Area - 2nd Floor for more information.
+
+

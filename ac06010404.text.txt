@@ -1,0 +1,15 @@
+ac06010404.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - デイリーミッション
+Goal - マグにアイテムを与える
+Explanation - 任意のマグに１回「アイテムを与える」をしよう！
+
+Group 1
+Title - Daily Mission
+Goal - Feed a Mag
+Explanation - Feed an item to a Mag!
+
+

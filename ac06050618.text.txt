@@ -1,0 +1,14 @@
+ac06050618.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 544 bytes
+
+Info
+Group 0
+Title - スターミッション・６－１８
+Goal - １５回「採取」をする
+Explanation - 任意のフリーフィールドで<br>１５回「採取」をしよう！
+
+Group 1
+Goal - Harvest 15 times
+Explanation - Go on an Expedition to any area and harvest 15 times!
+
+

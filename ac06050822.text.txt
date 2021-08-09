@@ -1,0 +1,14 @@
+ac06050822.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - ティアミッション
+Goal - ディバイドクエストを１０ステップクリア
+Explanation - ディバイドクエストを１０ステップクリアしよう！
+
+Group 1
+Goal - Clear Divide Quest: Step 10
+Explanation - Clear Divide Quest: Step 10!
+
+

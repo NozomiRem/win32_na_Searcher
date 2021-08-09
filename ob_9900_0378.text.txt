@@ -1,0 +1,13 @@
+ob_9900_0378.text was created: 8/8/2021 8:56:18 PM
+Filesize is: 800 bytes
+
+ob_9900_0378
+Group 0
+GuidePad - <%LStick>で向き変更 <%Access>で照射 <%Jump>で終了
+GuideKeyboard - <%MoveLeft><%MoveRight>で向き変更 <%Access>で照射 <%Jump>で終了
+
+Group 1
+GuidePad - <%LStick> to change direction. <%Access> to illuminate. <%Jump> to exit.
+GuideKeyboard - <%MoveLeft><%MoveRight> to change direction. <%Access> to illuminate. <%Jump> to exit.
+
+

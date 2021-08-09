@@ -1,0 +1,15 @@
+oa_challenge_flag.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 400 bytes
+
+Message
+Group 0
+Name - $(0)
+Message - Lv.$(0)<br>$(1)<br>$(2)
+Guide - ＩＤネーム：$(0)
+
+Group 1
+Name - $(0)
+Message - Lv.$(0)<br>$(1)<br>$(2)
+Guide - ID Name: $(0)
+
+

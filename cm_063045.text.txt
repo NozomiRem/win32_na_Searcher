@@ -1,0 +1,15 @@
+cm_063045.text was created: 8/8/2021 9:01:14 PM
+Filesize is: 848 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09_armada_037 - 10時方向の敵護衛部隊を撃破！<br>敵艦のバリアが消滅しました。<br>艦橋機構を攻撃してください！
+line01 - 艦橋機構を破壊し、敵戦艦を撃破せよ！
+
+Group 1
+name01 - Xiera
+11_voice_navi09_armada_037 - The escort squad on our ten o'clock has been eliminated! The shields on the enemy vessel are down. Focus all firepower on the bridge!
+line01 - Destroy the bridge and defeat the enemy fleet!
+
+

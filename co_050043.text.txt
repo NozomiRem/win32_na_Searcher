@@ -1,0 +1,11 @@
+co_050043.text was created: 8/8/2021 8:55:21 PM
+Filesize is: 400 bytes
+
+system_message
+Group 0
+linewindow001 - エコー(EP2)をパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Echo (Ep. 2) as your Partner.
+
+

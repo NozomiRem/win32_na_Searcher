@@ -1,0 +1,13 @@
+bo_050211.text was created: 8/8/2021 8:59:04 PM
+Filesize is: 544 bytes
+
+bo_050211
+Group 0
+bo_050211_0010 - 見た目は、第６使徒そのものね……
+bo_050211_0020 - また、アレと戦うことになるなんて……
+
+Group 1
+bo_050211_0010 - He looks exactly like the sixth disciple.
+bo_050211_0020 - I never thought we'd have to fight THAT again.
+
+

@@ -1,0 +1,10 @@
+ar_clear_or011304.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 208 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+
+Group 1
+
+

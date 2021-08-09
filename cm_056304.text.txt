@@ -1,0 +1,13 @@
+cm_056304.text was created: 8/8/2021 9:00:23 PM
+Filesize is: 592 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 点在する高密度マナ結晶を壊せば<br>マナが大きく回復できるはずです。
+
+Group 1
+name01 - Xiera
+text01 - If you crush the high-density mana crystals<br>scattered around, you should be able to<br>recover a large amount of mana.
+
+

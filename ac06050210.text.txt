@@ -1,0 +1,15 @@
+ac06050210.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - スターミッション・２－１０
+Goal - 「採取」をする×５
+Explanation - 仮　ac06050210
+
+Group 1
+Title - ac06050210 Title
+Goal - ac06050210 Goal
+Explanation - ac06050210 Explanation
+
+

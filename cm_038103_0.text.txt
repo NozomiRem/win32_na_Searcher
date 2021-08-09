@@ -1,0 +1,11 @@
+cm_038103_0.text was created: 8/8/2021 8:55:24 PM
+Filesize is: 464 bytes
+
+Event1
+Group 0
+linewindow - スイッチでフェンスを開放し、制限時間内に最奥のチャレンジマイルを入手せよ！
+
+Group 1
+linewindow - Press the switch, open the fence and get the Challenge Miles before time runs out!
+
+

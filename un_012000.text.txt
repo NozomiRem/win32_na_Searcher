@@ -1,0 +1,19 @@
+un_012000.text was created: 8/8/2021 8:57:26 PM
+Filesize is: 496 bytes
+
+CharaName
+Group 0
+
+Group 1
+
+
+un_012000
+Group 0
+un_012000_0001 - ？？？
+un_012000_0010 - ……ここにもいない。<br>くっ、ハドレッド……どこに……！
+un_012000_0020 - ……ふん。
+un_012000_0030 - A.P.238/2/23
+
+Group 1
+
+

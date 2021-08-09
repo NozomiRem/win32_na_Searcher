@@ -1,0 +1,17 @@
+wh_te_pg_001009.text was created: 8/8/2021 8:59:40 PM
+Filesize is: 384 bytes
+
+Title
+Group 0
+name01 - サポートパートナーで楽々！
+
+Group 1
+name01 - Life is Aux-some with an Auxiliary!
+
+
+mess
+Group 0
+
+Group 1
+
+

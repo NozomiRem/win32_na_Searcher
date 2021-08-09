@@ -1,0 +1,13 @@
+bo00001605.text was created: 8/8/2021 8:59:46 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【クライアントオーダークリア】<br>へっぽこぴーの小石拾い<br><br>【対象キャラクター】<br>クレシダ
+
+Group 1
+Title - Bingo Order 99
+Explanation - [Client Order Completion]<br>Clownish Pebble Collection<br><br>[Target Character]<br>Cressida
+
+

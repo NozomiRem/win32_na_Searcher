@@ -1,0 +1,15 @@
+ac06040405.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「地下坑道探索」をクリア
+Explanation - フリーフィールド「地下坑道探索」をクリアし<br>浮遊大陸エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Underground Shafts Exploration"
+Explanation - Clear the Expedition "Underground Shafts Exploration" and<br>unlock the Floating Continent!
+
+

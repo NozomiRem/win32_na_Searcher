@@ -1,0 +1,15 @@
+ac06040702.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「マグブリーダーをめざせ！」を達成報告
+Explanation - エコーのクライアントオーダー<br>「マグブリーダーをめざせ！」を達成報告しよう！
+
+Group 1
+Title - Main Mission
+Goal - Complete "Mag Breeder in Training!"
+Explanation - Complete Echo's Client Order "Mag Breeder in Training!"
+
+

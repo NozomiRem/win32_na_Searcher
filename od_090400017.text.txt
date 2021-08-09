@@ -1,0 +1,12 @@
+od_090400017.text was created: 8/8/2021 8:49:39 PM
+Filesize is: 432 bytes
+
+Event1
+Group 0
+text01 - ありがとーっ！<br>間に合ってよかったぁー！
+11_voice_NPC_5099_100 - もう笹葉に包むところまで終わったから<br>今すぐ結んで、蒸し始めちゃうね！
+text03 - うーん、できあがりが楽しみー！
+
+Group 1
+
+

@@ -1,0 +1,15 @@
+ac06041101.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - レオンティーナに話しかける
+Explanation - ゲートエリア１Ｆのスペースゲート付近にいる<br>アークスハンドブック案内係<br>レオンティーナに話しかけよう！
+
+Group 1
+Title - Main Mission
+Goal - Speak to Leontina
+Explanation - Speak to ARKS Handbook Guide Leontina<br>near the space gate in Gate Area 1F!
+
+

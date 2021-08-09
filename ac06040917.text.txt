@@ -1,0 +1,15 @@
+ac06040917.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 480 bytes
+
+Info
+Group 0
+Title - チュートリアルタスク・９－１７
+Goal - 仮タイトル
+Explanation - 仮説明文
+
+Group 1
+Title - Tutorial Task 9-17
+Goal - Placeholder Title
+Explanation - Placeholder Explanation
+
+

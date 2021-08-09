@@ -1,0 +1,75 @@
+ii_boss_ahl_dk.text was created: 8/8/2021 8:54:02 PM
+Filesize is: 1104 bytes
+
+common
+Group 0
+IncidentName - ※※※
+TrialBeginMsg - ※※※
+TrialAbstract - ※※※
+
+Group 1
+IncidentName - ※※※
+TrialBeginMsg - ※※※
+TrialAbstract - ※※※
+
+
+type1
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+
+type2
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+
+type3
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+
+type6
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+
+type9
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+
+type9f
+Group 0
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+Group 1
+NpcComOnBegin - ※※※
+NpcComOnSuccess - ※※※
+
+

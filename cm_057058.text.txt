@@ -1,0 +1,13 @@
+cm_057058.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_008 - ３つのテレポーターの転送先にいる<br>エネミーをすべて撃破してください。<br>人数配分には、ご注意を。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_008 - Defeat the enemies at the three Teleporter<br>destinations. Be mindful of how you allocate<br>your members.
+
+

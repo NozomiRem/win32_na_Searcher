@@ -1,0 +1,11 @@
+cm_060034_9840.text was created: 8/8/2021 8:49:57 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - お疲れ様でした。<br>まずまずの結果だと思います。
+
+Group 1
+
+

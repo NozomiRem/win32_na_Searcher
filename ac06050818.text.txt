@@ -1,0 +1,14 @@
+ac06050818.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 640 bytes
+
+Info
+Group 0
+Title - スターミッション・８－１８
+Goal - ＳＨ：「幻惑の森探索」を３回クリア
+Explanation - 「幻惑の森探索」をスーパーハード以上で３回クリアしよう！
+
+Group 1
+Goal - SH: Clear "Bewitched Woods Exploration" 3 Times
+Explanation - Clear "Bewitched Woods Exploration" 3 times on Super Hard or above!
+
+

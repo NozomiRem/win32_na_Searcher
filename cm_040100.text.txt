@@ -1,0 +1,11 @@
+cm_040100.text was created: 8/8/2021 8:57:14 PM
+Filesize is: 320 bytes
+
+TutorialText
+Group 0
+Title - エネミー残り75体！
+
+Group 1
+Title - There are 75 enemies remaining!
+
+

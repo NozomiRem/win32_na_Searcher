@@ -1,0 +1,14 @@
+ac06032052.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - 閃機種を１００体撃破
+Explanation - 閃機種を合計で１００体撃破しよう！<br><br><yellow>※Lv.80～のエネミーが対象<c>
+
+Group 1
+Goal - Defeat 100 Luminmechs
+Explanation - Defeat a total of 100 luminmechs!<br><br><yellow>Note: Enemies must be Lv. 80 or above.<c>
+
+

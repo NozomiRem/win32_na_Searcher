@@ -1,0 +1,11 @@
+cm_066037.text was created: 8/8/2021 8:55:41 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text02 - 残り<yellow>２<c>体！
+
+Group 1
+text02 - <yellow>Two<c> left!
+
+

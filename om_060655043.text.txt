@@ -1,0 +1,11 @@
+om_060655043.text was created: 8/8/2021 8:59:14 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+text01 - クアアッ……ア……ガ……ァ！<br>ウウヴァァ……！！<br>クハッ、クハハハッ……！
+text02 - 急にどうしたの？<br>びっくりするじゃない……<br>もっと静かに喜んでよ。
+
+Group 1
+
+

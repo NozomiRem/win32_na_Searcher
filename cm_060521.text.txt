@@ -1,0 +1,14 @@
+cm_060521.text was created: 8/8/2021 8:56:34 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+text01 - 状態異常「バーン」が効きやすいエネミーを倒せ！
+name01 - シエラ
+text02 - 状態異常「バーン」が効きやすい<br>エネミーを倒してください。<br>いいことがありますよ！
+
+Group 1
+text01 - Defeat enemies that are vulnerable to Burn!
+name01 - Xiera
+
+

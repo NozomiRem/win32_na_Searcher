@@ -1,0 +1,11 @@
+om_040652142.text was created: 8/8/2021 8:59:14 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - <%me>様。<br>今回もよろしくお願いします。
+
+Group 1
+text01 - <%me>,<br>I look forward to working with you.
+
+

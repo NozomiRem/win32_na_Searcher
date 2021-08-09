@@ -1,0 +1,15 @@
+co10009995.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - 新デバッグオーダー2
+Explanation - 新デバッグオーダーだよ！
+Errand - ゼノと話しましょう
+
+Group 1
+Title - New Debug Order 2
+Explanation - It’s a new debug order!
+Errand - Chat with Zeno
+
+

@@ -1,0 +1,11 @@
+np_013110.text was created: 8/8/2021 8:54:27 PM
+Filesize is: 336 bytes
+
+C001
+Group 0
+Regius_01_010 - テキストがまだないので仮です
+
+Group 1
+Regius_01_010 - Dummy string. Text is not yet finished.
+
+

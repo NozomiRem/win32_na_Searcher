@@ -1,0 +1,15 @@
+om_050645052.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 752 bytes
+
+Event1
+Group 0
+text01 - 強い敵……ワクワクする……
+text02 - すてきな石……どこかにないかな。
+text03 - さあ、ご命令を。<br>どれから吹き飛ばせばよろしいですか？
+
+Group 1
+text01 - Powerful foes... make me feel alive.
+text02 - Think there are any shiny rocks around here?
+text03 - I await your command. Which target would<br>you like me to blast to bits first?
+
+

@@ -1,0 +1,17 @@
+ui_gacha_101_00.text was created: 8/8/2021 8:56:23 PM
+Filesize is: 752 bytes
+
+Comment
+Group 0
+Comment - SG（スタージェム）を使って<br>引くことができるスクラッチです。<br>このスクラッチから排出される<br>アイテムは、マイショップで<br>取引することができません。
+
+Group 1
+Comment - This Scratch Ticket can be drawn<br>by using SG (Star Gems).<br>The items drawn from this Scratch<br>Ticket cannot be traded in Personal Shops.
+
+
+Common
+Group 0
+
+Group 1
+
+

@@ -1,0 +1,13 @@
+co_010006.text was created: 8/8/2021 8:54:25 PM
+Filesize is: 608 bytes
+
+Event1
+Group 0
+text100 - 『クライアントオーダー』について
+text101 - クロトにクライアントオーダーが発生しました。<br><br>クロトはゲートエリア2階にいます。
+
+Group 1
+text100 - Client Orders
+text101 - Client Order Issuance Notice:<br><br>See Chroto at Gate Area - 2nd Floor for more information.
+
+

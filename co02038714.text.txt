@@ -1,0 +1,13 @@
+co02038714.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 896 bytes
+
+Info
+Group 0
+Title - 海岸で特訓しちゃうよ！
+Explanation - ほいほいっ、こんにちは。<br>ねえ、<%me>！<br>わたし、アークスの諸先輩方にならって<br>他のアークスに同行してお互いに切磋琢磨<br>なーんてことをしてみたくってさー。<br>あなたと海岸あたりで特訓したいなーって<br>ずーっと思ってたんだ。<br>どう、やってみない？<br><yellow>※アザナミのみ同行、ブレイバーで<br>スーパーハード以上、Ｓランククリア<c>
+
+Group 1
+Title - Boot Camp: Coast
+Explanation - <yellow>Braver only. With Azanami as your only partner, <br>clear on Hard or above.<c>
+
+

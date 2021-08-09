@@ -1,0 +1,15 @@
+ac06040416.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 592 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「ラスベガス探索」をクリア
+Explanation - フリーフィールド「ラスベガス探索」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Las Vegas Exploration"
+Explanation - Clear the Expedition "Las Vegas Exploration"!
+
+

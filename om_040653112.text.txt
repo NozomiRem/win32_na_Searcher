@@ -1,0 +1,11 @@
+om_040653112.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - 張り切って行くニャン！<br>レッツゴーニャン！
+
+Group 1
+text01 - Purrimed and ready! Let's go!
+
+

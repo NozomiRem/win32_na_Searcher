@@ -1,0 +1,11 @@
+np_012392.text was created: 8/8/2021 9:01:04 PM
+Filesize is: 384 bytes
+
+Skit01
+Group 0
+linewindow001 - EP4モードの時にストーリーボードを選択してください。
+
+Group 1
+linewindow001 - In Episode 4 Mode, please select the Storyboard.
+
+

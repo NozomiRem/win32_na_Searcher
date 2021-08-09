@@ -1,0 +1,11 @@
+om_050641042.text was created: 8/8/2021 8:59:41 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+text01 - では参ろう。<br>フフ……われの気に喰われるなよ？
+
+Group 1
+text01 - Let us proceed, then.<br>Oh, but do not dare displease me.
+
+

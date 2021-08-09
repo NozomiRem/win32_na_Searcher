@@ -1,0 +1,12 @@
+ar_talk_or010402.text was created: 8/8/2021 8:46:17 PM
+Filesize is: 432 bytes
+
+Event1
+Group 0
+name01 - アスタルテ
+text01 - 現在の貴方の目標は……
+11_voice_shop_414 - <c bb0000>ショップエリア、コスチュームショップ<br>およびユニットショップへの訪問<c>と<br>なっています。
+
+Group 1
+
+

@@ -1,0 +1,19 @@
+un_012260.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 432 bytes
+
+CharaName
+Group 0
+
+Group 1
+
+
+un_012260
+Group 0
+un_012260_0010 - …………
+un_012260_0020 - A.P.238/3/26
+
+Group 1
+un_012260_0010 - ...
+un_012260_0020 - A.P. 238/3/26
+
+

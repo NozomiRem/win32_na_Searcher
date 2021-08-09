@@ -1,0 +1,17 @@
+wh_te_pg_004002.text was created: 8/8/2021 8:56:01 PM
+Filesize is: 400 bytes
+
+Title
+Group 0
+name01 - 防具強化でダメージ軽減！
+
+Group 1
+name01 - Enhance Your Armor and Curb that Damage!
+
+
+mess
+Group 0
+
+Group 1
+
+

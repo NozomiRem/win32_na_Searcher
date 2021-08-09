@@ -1,0 +1,13 @@
+do00009509.text was created: 8/8/2021 8:56:25 PM
+Filesize is: 384 bytes
+
+Info
+Group 0
+Title - デイリーオーダーテスト9
+Explanation - クエストクリア
+
+Group 1
+Title - Daily Order Test 9
+Explanation - Quest Complete
+
+

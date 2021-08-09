@@ -1,0 +1,29 @@
+cm_052419_05.text was created: 8/8/2021 8:59:41 PM
+Filesize is: 832 bytes
+
+CharaName
+Group 0
+
+Group 1
+
+
+Skit_ci00
+Group 0
+skit01 - /ci1 2 もうダメ……
+skit02 - /ci1 2 そんなっ！<br>守りきれなかったなんて……
+
+Group 1
+skit01 - /ci1 2 I'm done for...
+skit02 - /ci1 2 No! We couldn't save her...!
+
+
+Skit00
+Group 0
+skit01 - もうダメ……
+skit02 - そんなっ！<br>守りきれなかったなんて……
+
+Group 1
+skit01 - I'm done for...
+skit02 - No! We couldn't save her...!
+
+

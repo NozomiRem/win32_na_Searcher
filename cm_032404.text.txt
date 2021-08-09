@@ -1,0 +1,27 @@
+cm_032404.text was created: 8/8/2021 8:55:06 PM
+Filesize is: 800 bytes
+
+CharaName
+Group 0
+name01 - アフィン
+
+Group 1
+name01 - Afin
+
+
+Skit_ci
+Group 0
+skit01 - /toge /ci3 1 ちっ、まだ来るのかよ……！<br>でも、おれは絶対に諦めないぞ！
+
+Group 1
+skit01 - /toge /ci3 1 Tch, there's more? Well, don't<br>give up!
+
+
+Skit
+Group 0
+skit01 - ちっ、まだ来るのかよ……！<br>でも、おれは絶対に諦めないぞ！
+
+Group 1
+skit01 - Tch, there's more? Well, don't give up!
+
+

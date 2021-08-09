@@ -1,0 +1,14 @@
+ac06050823.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 480 bytes
+
+Info
+Group 0
+Title - ティアミッション
+Goal - アルティメットクエストを３回クリア
+Explanation - アルティメットクエストを３回クリアしよう！
+
+Group 1
+Goal - Clear 3 Ultimate Quests
+Explanation - Clear 3 Ultimate Quests!
+
+

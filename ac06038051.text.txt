@@ -1,0 +1,16 @@
+ac06038051.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 720 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - アークマスロットを１回プレイする<pict repeat>
+Explanation - カジノエリアのアークマスロットを<br>１回プレイしよう！
+
+Group 1
+Title - Debug Order: Grant EXP
+Goal - Play Arkuma Slots 1 Time<pict repeat>
+Explanation - Play Arkuma Slots at the Casino 1 time!
+Errand - 5 Monomates, Thank You Kindly
+
+

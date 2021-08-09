@@ -1,0 +1,19 @@
+co05050509.text was created: 8/8/2021 8:47:53 PM
+Filesize is: 400 bytes
+
+Info
+Group 0
+Title - ＊＊＊
+Explanation - ＊＊＊
+Target - ＊＊＊
+Reward - ＊＊＊
+Reward_received - ＊＊＊
+
+Group 1
+Title - ＊＊＊
+Explanation - ＊＊＊
+Target - ＊＊＊
+Reward - ＊＊＊
+Reward_received - ＊＊＊
+
+

@@ -1,0 +1,27 @@
+co_012709.text was created: 8/8/2021 8:47:50 PM
+Filesize is: 832 bytes
+
+CharaName
+Group 0
+name01 - ブリギッタ
+
+Group 1
+name01 - Brigitta
+
+
+Skit
+Group 0
+skit01 - 私が敵を引きつけます。<br>貴方様は銃座で殲滅を。
+
+Group 1
+skit01 - I'll distract the enemies. Eradicate them with<br>the Turret.
+
+
+Skit_ci
+Group 0
+skit01 - /ci1 2 私が敵を引きつけます。<br>貴方様は銃座で殲滅を。
+
+Group 1
+skit01 - /ci1 2 I'll distract the enemies. Eradicate<br>them with the Turret.
+
+

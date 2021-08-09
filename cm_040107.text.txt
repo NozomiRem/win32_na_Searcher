@@ -1,0 +1,11 @@
+cm_040107.text was created: 8/8/2021 8:54:21 PM
+Filesize is: 384 bytes
+
+TutorialText
+Group 0
+Title - 敵性反応！　A.I.S起動ソケットを使え！
+
+Group 1
+Title - I've got hostile readings! Use the AIS Activation Socket!
+
+

@@ -1,0 +1,13 @@
+co_048001.text was created: 8/8/2021 8:58:19 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+skit01 - VR Volcano
+skit02 - VRアリーナ　火山
+
+Group 1
+skit01 - VR Volcano
+skit02 - VR Arena - Volcano
+
+

@@ -1,0 +1,11 @@
+ob_3200_0051.text was created: 8/8/2021 8:53:14 PM
+Filesize is: 320 bytes
+
+ob_3200_0051
+Group 0
+TouchToast - レーザーセンサーに接触！ 
+
+Group 1
+TouchToast - Contact with the laser sensor!
+
+

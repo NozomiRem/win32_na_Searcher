@@ -1,0 +1,11 @@
+mb_000009.text was created: 8/8/2021 9:00:00 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+text100 - 『ロジオのいる場所』について
+text101 - ロジオはショップエリア・階段前広場3階にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

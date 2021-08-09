@@ -1,0 +1,18 @@
+cm_069412.text was created: 8/8/2021 9:00:49 PM
+Filesize is: 432 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - ￥ここまでよくたどり着けました......<br>これが本訓練最後の戦闘です！<br>全力で挑みましょう！
+
+Group 1
+
+

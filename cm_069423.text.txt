@@ -1,0 +1,11 @@
+cm_069423.text was created: 8/8/2021 9:00:35 PM
+Filesize is: 368 bytes
+
+Skit00
+Group 0
+mes00 - 左敵艦上の砲台、全て撃破！
+
+Group 1
+mes00 - All gun batteries on the left<br>enemy vessel destroyed!
+
+

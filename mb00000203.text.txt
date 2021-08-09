@@ -1,0 +1,12 @@
+mb00000203.text was created: 8/8/2021 9:00:57 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - アークスシップ内での交流
+TargetName_Errand - アークスシップ内にいる<br>該当のキャラクターに話しかけ<br>イベントを閲覧してくること。
+Explanation - 【場所】<br>　ゲートエリア・メディカルセンター<br><br>【キャラクター】<br>　フィリア<br><br>【イベント】<br>　記憶喪失は幸せなこと？
+
+Group 1
+
+

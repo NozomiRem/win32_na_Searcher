@@ -1,0 +1,17 @@
+wh_te_pg_005004.text was created: 8/8/2021 8:59:04 PM
+Filesize is: 416 bytes
+
+Title
+Group 0
+name01 - 倉庫やマイショップが使える！
+
+Group 1
+name01 - Put Your Storage and Personal Shop to Use!
+
+
+mess
+Group 0
+
+Group 1
+
+

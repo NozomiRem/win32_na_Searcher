@@ -1,0 +1,13 @@
+go01101010.text was created: 8/8/2021 8:59:36 PM
+Filesize is: 928 bytes
+
+Info
+Group 0
+Title - 火山洞窟：ダーカー討伐
+Explanation - アークスより、登録チームに対し<br>発布された討伐依頼です。<br><br>討伐目標：ダーカー<br>場所：火山洞窟<br><br><yellow>※Lv.21以上のエネミーが対象<c>
+
+Group 1
+Title - Volcanic Caves: Falspawn Suppression
+Explanation - A suppression request has been issued<br>for all registered ARKS alliances.<br><br>Suppression target: Falspawn<br>Location: Volcanic Caves<br><br><yellow>Level 21 enemies or above<c>
+
+

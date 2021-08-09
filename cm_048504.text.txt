@@ -1,0 +1,11 @@
+cm_048504.text was created: 8/8/2021 8:55:25 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 多数のエネミーを検知しました。<br>順次撃破してください。
+
+Group 1
+
+

@@ -1,0 +1,11 @@
+mb_000007.text was created: 8/8/2021 8:57:13 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+text100 - 『レダのいる場所』について
+text101 - レダはショップエリア・東ショップ広場2階にいます。<br><br>ショップエリアへ向かいましょう。
+
+Group 1
+
+

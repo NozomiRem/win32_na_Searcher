@@ -1,0 +1,10 @@
+cm_048203.text was created: 8/8/2021 8:59:10 PM
+Filesize is: 240 bytes
+
+Event1
+Group 0
+line01 - すべてのエネミーを撃破せよ！
+
+Group 1
+
+

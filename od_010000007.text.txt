@@ -1,0 +1,19 @@
+od_010000007.text was created: 8/8/2021 8:59:57 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+text01 - はい！<br>達成報告、承りました！<br>お疲れ様でした！
+
+Group 1
+text01 - I've already heard the good news! Nice job!
+
+
+Event2
+Group 0
+text01 - 達成報告を承りました。<br>ご協力、ありがとうございました。
+
+Group 1
+text01 - I heard you found what we needed. Thank you.
+
+

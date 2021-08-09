@@ -1,0 +1,23 @@
+co_0511105.text was created: 8/8/2021 9:00:56 PM
+Filesize is: 640 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+name02 - シエラ
+name03 - シエラ
+
+Group 1
+name01 - Xiera
+name02 - Xiera
+name03 - Xiera
+
+
+Skit00
+Group 0
+text00 - フォトンパニッシャーを転送します！<br>残ったエネミーを掃討して下さい！
+
+Group 1
+text00 - Sending in the Photon Punisher!<br>Mop up the remaining enemy forces!
+
+

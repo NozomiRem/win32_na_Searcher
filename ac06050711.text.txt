@@ -1,0 +1,14 @@
+ac06050711.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 640 bytes
+
+Info
+Group 0
+Title - スターミッション・７－１１
+Goal - カジノゲームでカジノコイン２５００枚獲得
+Explanation - カジノエリアのカジノゲームで<br>カジノコインを合計２５００枚獲得しよう！
+
+Group 1
+Goal - Acquire 2500 Casino Coins through Casino Games
+Explanation - Play Casino games to obtain a total of 2500 Casino Coins!
+
+

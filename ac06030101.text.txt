@@ -1,0 +1,14 @@
+ac06030101.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 416 bytes
+
+Info
+Group 0
+Title - イースターオーダー・１
+Goal - テスト目標
+Explanation - 仮説明文
+
+Group 1
+Goal - Test Objective
+Explanation - Placeholder Explanation
+
+

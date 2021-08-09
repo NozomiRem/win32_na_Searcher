@@ -1,0 +1,11 @@
+cm_060905.text was created: 8/8/2021 8:58:59 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+name01 - ハリエット
+text01 - ￥守護輝士、今です！
+
+Group 1
+
+

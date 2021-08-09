@@ -1,0 +1,13 @@
+co02038700.text was created: 8/8/2021 8:50:15 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - カタナの使い方を指導しちゃうよ！
+Explanation - やはっ、こんにちは。<br>あなたひょっとしてブレイバーに<br>なりたてかな？<br>よーし、それじゃ特別に<br>おねえさんがカタナの使い方を<br>指導してあげちゃおう！<br>カタナの使い方はあなたより<br>わたしのほうがちょっと先輩だしね。<br><yellow>※抜剣系限定<br>『フォンガルフ討伐』推奨<c>
+
+Group 1
+Title - Time For Katana Lessons!
+Explanation - <yellow>Katana only.<br>"Phongrulf Extermination" is recommended.<c>
+
+

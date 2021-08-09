@@ -1,0 +1,12 @@
+mb00000601.text was created: 8/8/2021 8:55:48 PM
+Filesize is: 640 bytes
+
+Info
+Group 0
+Title - イベントフィールドの探索
+TargetName_Errand - 該当のクエスト中、何処かに出現する<br>イベントフィールドを発見し<br>イベントを閲覧してくること。
+Explanation - 【出現ポイント】<br>　森林エリアが対象となる<br>　アークスクエストおよびフリーフィールドの<br>　シングルパーティーエリア内<br><br>【キャラクター】<br>　オーザ＆マールー<br><br>【イベント】<br>　繋がる気持ち
+
+Group 1
+
+

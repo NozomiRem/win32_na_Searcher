@@ -1,0 +1,11 @@
+co_0121112.text was created: 8/8/2021 9:00:07 PM
+Filesize is: 400 bytes
+
+Skit
+Group 0
+linewindow - <br>タイムアップ！！開いていた青フェンスが全て閉じます！<br>
+
+Group 1
+linewindow - <br>Time's up! All open blue fences are closing!<br>
+
+

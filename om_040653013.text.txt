@@ -1,0 +1,11 @@
+om_040653013.text was created: 8/8/2021 9:01:17 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - もう終わりか！<br>あっという間だったぜ！
+
+Group 1
+text01 - Done already?<br>Man, that was quick!
+
+

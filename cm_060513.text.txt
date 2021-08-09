@@ -1,0 +1,11 @@
+cm_060513.text was created: 8/8/2021 8:49:40 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - \これにて演習は一通り終わりました！<br>報酬を受け取って帰還してください！<br>お疲れ様でした！
+
+Group 1
+
+

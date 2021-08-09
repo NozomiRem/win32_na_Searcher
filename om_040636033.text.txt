@@ -1,0 +1,11 @@
+om_040636033.text was created: 8/8/2021 8:58:19 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+text01 - うん、こんな感じで十分かな。<br>それじゃ、帰ろっか。
+
+Group 1
+text01 - Yeah, this should be plenty. Let's head back.
+
+

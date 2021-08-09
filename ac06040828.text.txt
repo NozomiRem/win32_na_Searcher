@@ -1,0 +1,15 @@
+ac06040828.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 864 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「大切なひとを守るために」をクリア
+Explanation - クエストカウンターで「ストーリークエスト」を選択し<br>「EPISODE3」を進めることでプレイ可能になる<br>「大切なひとを守るために」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "To Protect My Beloved"
+Explanation - Select [Story Quests] at the Quest Counter and<br>clear "To Protect My Beloved" unlocked by<br>progressing through Episode 3!
+
+

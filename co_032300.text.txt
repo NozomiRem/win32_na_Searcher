@@ -1,0 +1,13 @@
+co_032300.text was created: 8/8/2021 8:57:26 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+skit01 - FLOAT PLANT
+skit02 - 惑星ウォパル　浮上施設
+
+Group 1
+skit01 - FLOAT PLANT
+skit02 - Wopal - Floating Facility
+
+

@@ -1,0 +1,15 @@
+ac06010401.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 864 bytes
+
+Info
+Group 0
+Title - デイリーミッション
+Goal - グッジョブを送る
+Explanation - ほかのプレイヤーに「グッジョブを送る」をしよう！<br><br><yellow>※グッジョブは<br>　「フレンドリスト」「周囲のキャラクター」<br>　「マイショップ」等から送信可<c>
+
+Group 1
+Title - Daily Mission
+Goal - Send Kudos
+Explanation - Send kudos to another player!<br><br><yellow>You can send kudos from the Friend List,<br>Nearby Characters, and Personal Shop menus.<c>
+
+

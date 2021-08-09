@@ -1,0 +1,11 @@
+cp_026102.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+name01 - シー
+text01 - いきなりびっくりしたねーっ！<br>んー、次のスイッチは北にあるみたい。<br>……だけど、嫌な予感がするなあ。
+
+Group 1
+
+

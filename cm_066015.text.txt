@@ -1,0 +1,11 @@
+cm_066015.text was created: 8/8/2021 8:53:59 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+mes01 - ３つ目のフェンスが解除された！
+
+Group 1
+mes01 - The third fence was released!
+
+

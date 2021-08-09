@@ -1,0 +1,11 @@
+cm_065004.text was created: 8/8/2021 8:54:03 PM
+Filesize is: 304 bytes
+
+Skit00
+Group 0
+mes00 - あと1回測定できます。
+
+Group 1
+mes00 - One more calculation available.
+
+

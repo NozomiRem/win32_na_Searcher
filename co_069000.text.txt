@@ -1,0 +1,11 @@
+co_069000.text was created: 8/8/2021 8:54:10 PM
+Filesize is: 368 bytes
+
+Skit1
+Group 0
+Line1 - 『最終決戦：時空の狭間』が解放されました
+
+Group 1
+Line1 - "Final Battle: Space-Time Interstice" was unlocked.
+
+

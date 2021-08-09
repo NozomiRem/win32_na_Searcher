@@ -1,0 +1,17 @@
+wh_te_pg_004008.text was created: 8/8/2021 8:47:55 PM
+Filesize is: 384 bytes
+
+Title
+Group 0
+name01 - 特殊能力を装備品に追加しよう！
+
+Group 1
+name01 - Add Augments to Your Gear!
+
+
+mess
+Group 0
+
+Group 1
+
+

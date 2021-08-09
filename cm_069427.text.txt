@@ -1,0 +1,11 @@
+cm_069427.text was created: 8/8/2021 8:48:51 PM
+Filesize is: 336 bytes
+
+Skit00
+Group 0
+mes00 - 第三区画の砲台、全て撃破！
+
+Group 1
+mes00 - All gun batteries in sector three destroyed!
+
+

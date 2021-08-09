@@ -1,0 +1,11 @@
+cm_048202.text was created: 8/8/2021 9:00:23 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+line01 - フェンスが開いた！　先に進め！
+
+Group 1
+line01 - The fence is open! Proceed!
+
+

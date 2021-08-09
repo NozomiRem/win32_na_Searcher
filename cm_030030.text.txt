@@ -1,0 +1,10 @@
+cm_030030.text was created: 8/8/2021 8:57:07 PM
+Filesize is: 272 bytes
+
+Skit
+Group 0
+line01 - 全ての敵を撃破した！<br><yellow>矢印の方向に進め！<c>
+
+Group 1
+
+

@@ -1,0 +1,17 @@
+wh_te_pg_002006.text was created: 8/8/2021 9:01:26 PM
+Filesize is: 384 bytes
+
+Title
+Group 0
+name01 - エクストリームクエストで！
+
+Group 1
+name01 - Go Beyond with Extreme Quests!
+
+
+mess
+Group 0
+
+Group 1
+
+

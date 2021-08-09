@@ -1,0 +1,17 @@
+wh_te_pg_001005.text was created: 8/8/2021 8:53:59 PM
+Filesize is: 400 bytes
+
+Title
+Group 0
+name01 - 経験値ブーストをかさねがけ！
+
+Group 1
+name01 - Double Your Gains, Double Your Fun!
+
+
+mess
+Group 0
+
+Group 1
+
+

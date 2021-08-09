@@ -1,0 +1,16 @@
+ac06038052.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 704 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - ブラックニャックで勝利する<pict repeat>
+Explanation - カジノエリアのブラックニャックで勝利しよう！
+
+Group 1
+Title - Debug Order: Grant EXP
+Goal - Win at Blacknyack<pict repeat>
+Explanation - Play Blacknyack at the Casino and win!
+Errand - 5 Monomates, Thank You Kindly
+
+

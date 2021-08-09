@@ -1,0 +1,14 @@
+ac06050601.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 608 bytes
+
+Info
+Group 0
+Title - スターミッション・６－１
+Goal - 火山洞窟で１５回「採取」をする
+Explanation - 火山洞窟のフリーフィールドで<br>１５回「採取」をしよう！
+
+Group 1
+Goal - Harvest 15 times in the Volcanic Caves
+Explanation - Go on an Expedition to the Volcanic Caves and harvest 15 times!
+
+

@@ -1,0 +1,15 @@
+ac06040415.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「黒ノ領域探索」をクリア
+Explanation - フリーフィールド「黒ノ領域探索」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Nightfall Province Exploration"
+Explanation - Clear the Expedition "Nightfall Province Exploration"!
+
+

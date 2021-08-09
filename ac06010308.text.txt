@@ -1,0 +1,15 @@
+ac06010308.text was created: 8/8/2021 9:01:25 PM
+Filesize is: 576 bytes
+
+Info
+Group 0
+Title - デイリーミッション
+Goal - ブーストアイテム/フードアイテムを使用
+Explanation - 任意のブーストアイテムかフードアイテムを<br>１回使用しよう！
+
+Group 1
+Title - Daily Mission
+Goal - Use Booster / Eat Food
+Explanation - Use a Booster or eat food once!
+
+

@@ -1,0 +1,11 @@
+om_040653022.text was created: 8/8/2021 8:57:54 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+text01 - よろしく。<br>それじゃ、行こう。
+
+Group 1
+text01 - Hello. Let's move.
+
+

@@ -1,0 +1,13 @@
+od_020620052.text was created: 8/8/2021 9:00:49 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+11_voice_NPC_5125_100 - ＊＊＊
+text02 - ＊＊＊
+
+Group 1
+11_voice_NPC_5125_100 - ＊＊＊
+text02 - ＊＊＊
+
+

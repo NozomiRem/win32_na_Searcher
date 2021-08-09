@@ -1,0 +1,15 @@
+ac06050412.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - スターミッション・４－１２
+Goal - 任意のクライアントオーダークリア×１０
+Explanation - 仮　ac06050412
+
+Group 1
+Title - ac06050412 Title
+Goal - ac06050412 Goal
+Explanation - ac06050412 Explanation
+
+

@@ -1,0 +1,11 @@
+cm_069428.text was created: 8/8/2021 8:53:58 PM
+Filesize is: 304 bytes
+
+Skit00
+Group 0
+mes00 - カサドールⅣ、全て撃破！
+
+Group 1
+mes00 - All Cazador IVs destroyed!
+
+

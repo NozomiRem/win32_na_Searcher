@@ -1,0 +1,11 @@
+cm_036104.text was created: 8/8/2021 8:56:31 PM
+Filesize is: 368 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - わ、わわっ！　リリーパ族の集落が<br>襲われてます！　E-5の転送装置を<br>使って救援に向かってくださーい！
+
+Group 1
+
+

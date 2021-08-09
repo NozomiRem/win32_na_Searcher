@@ -1,0 +1,27 @@
+cm_042705.text was created: 8/8/2021 8:47:11 PM
+Filesize is: 704 bytes
+
+CharaName
+Group 0
+name01 - エンガ
+
+Group 1
+name01 - Enga
+
+
+Skit_ci00
+Group 0
+skit01 - /ci3 4 t3 敵の気配がするぞ！<br>気を抜くな！
+
+Group 1
+skit01 - /ci3 4 t3 I sense enemies! Watch yourselves!
+
+
+Skit00
+Group 0
+skit01 - 敵の気配がするぞ！<br>気を抜くな！
+
+Group 1
+skit01 - I sense enemies! Watch yourselves!
+
+

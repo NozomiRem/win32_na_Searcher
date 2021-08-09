@@ -1,0 +1,11 @@
+co_013327.text was created: 8/8/2021 8:56:20 PM
+Filesize is: 304 bytes
+
+Skit
+Group 0
+linewindow - <br>道が開いた!!<br>
+
+Group 1
+linewindow - <br>The path is open!<br>
+
+

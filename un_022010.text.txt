@@ -1,0 +1,19 @@
+un_022010.text was created: 8/8/2021 9:01:06 PM
+Filesize is: 528 bytes
+
+CharaName
+Group 0
+
+Group 1
+
+
+un_022010
+Group 0
+un_022010_0005 - <%sp_name>
+un_022010_0010 - 初めまして、マスター。<br>これからよろしくお願いします。
+
+Group 1
+un_022010_0005 - <%sp_name>
+un_022010_0010 - Hello, master.<br>Thank you for having me.
+
+

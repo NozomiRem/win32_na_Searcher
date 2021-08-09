@@ -1,0 +1,15 @@
+ac06040406.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「浮遊大陸探索」をクリア
+Explanation - フリーフィールド「浮遊大陸探索」をクリアし<br>遺跡エリア・龍祭壇エリアを解放しよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Floating Continent Exploration"
+Explanation - Clear the Expedition "Floating Continent Exploration" and<br>unlock the Ruins and the Dragon Altar!
+
+

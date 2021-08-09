@@ -1,0 +1,13 @@
+co_040142.text was created: 8/8/2021 8:54:23 PM
+Filesize is: 288 bytes
+
+TutorialText
+Group 0
+Title - ＊＊＊
+text0001 - ＊＊＊
+
+Group 1
+Title - ＊＊＊
+text0001 - ＊＊＊
+
+

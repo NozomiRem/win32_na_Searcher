@@ -1,0 +1,14 @@
+ac06051014.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 672 bytes
+
+Info
+Group 0
+Title - ティアミッション
+Goal - 魔物種を１００体撃破
+Explanation - 魔物種を合計で１００体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<c>
+
+Group 1
+Goal - Defeat 100 Supernaturals
+Explanation - Defeat a total of 100 supernaturals!<br><br><yellow>Note: Enemies must be Lv. 1 or above.<c>
+
+

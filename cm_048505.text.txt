@@ -1,0 +1,11 @@
+cm_048505.text was created: 8/8/2021 8:59:23 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 西側のゲート開放。<br>エネミーを撃破してください。
+
+Group 1
+
+

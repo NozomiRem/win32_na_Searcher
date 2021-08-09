@@ -1,0 +1,15 @@
+ac06038153.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 736 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - ギャザリングフィーバーを発生<pict repeat>
+Explanation - フリーフィールドでギャザリングを何度か行い<br>ギャザリングフィーバーを１回発生させよう！
+
+Group 1
+Title - Main Mission
+Goal - Activate Gathering Fever<pict repeat>
+Explanation - Gather several times during an Expedition and<br>activate Gathering Fever once!
+
+

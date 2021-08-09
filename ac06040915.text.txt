@@ -1,0 +1,15 @@
+ac06040915.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 448 bytes
+
+Info
+Group 0
+Title - チュートリアルタスク・９－１５
+Goal - 「決闘」をクリアしよう
+Explanation - <space>
+
+Group 1
+Title - Tutorial Task 9-15
+Goal - Clear "Duel"
+Explanation - <space>
+
+

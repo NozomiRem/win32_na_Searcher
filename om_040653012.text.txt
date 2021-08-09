@@ -1,0 +1,11 @@
+om_040653012.text was created: 8/8/2021 8:54:58 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+text01 - おっしゃ！<br>張り切っていこうぜ！
+
+Group 1
+text01 - Awright! Time to kick some ass!
+
+

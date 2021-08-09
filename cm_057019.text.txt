@@ -1,0 +1,13 @@
+cm_057019.text was created: 8/8/2021 8:56:24 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_009 - ここでは、後ほど出現する<br>特定エネミーが撃破目標となります。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_009 - Here, your objective is to defeat specific<br>enemies that will spawn.
+
+

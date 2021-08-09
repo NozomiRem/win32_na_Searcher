@@ -1,0 +1,15 @@
+co04073107.text was created: 8/8/2021 8:58:34 PM
+Filesize is: 464 bytes
+
+Info
+Group 0
+Title - アイカ・07
+Explanation - 仮実装の状態となります。
+Errand - アイカのPC
+
+Group 1
+Title - Aika Seven
+Explanation - This will be provisional.
+Errand - Aika's PC
+
+

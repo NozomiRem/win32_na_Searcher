@@ -1,0 +1,11 @@
+co_060015.text was created: 8/8/2021 8:53:59 PM
+Filesize is: 400 bytes
+
+system_message
+Group 0
+linewindow001 - アフィン（ＥＰ３）をパートナーとして呼べるようになりました。
+
+Group 1
+linewindow001 - You can now invite Afin (Ep. 3) as your Partner.
+
+

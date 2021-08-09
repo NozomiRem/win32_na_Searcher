@@ -1,0 +1,18 @@
+cm_069109.text was created: 8/8/2021 9:00:49 PM
+Filesize is: 432 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Event1
+Group 0
+name01 - シエラ
+text01 - ￥スプレッドボムがついている敵は<br>撃破した際に爆発します！<br>大型の敵をうまく巻き込んでください！
+
+Group 1
+
+

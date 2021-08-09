@@ -1,0 +1,11 @@
+cm_048408.text was created: 8/8/2021 8:56:50 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 目標すべてクリアー！<br>これにて訓練終了！<br>帰還エリアに転送しますねー。
+
+Group 1
+
+

@@ -1,0 +1,11 @@
+om_040652032.text was created: 8/8/2021 8:57:36 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - おらおらッ！<br>遅れるんじゃねえぞ！
+
+Group 1
+text01 - Hey, move it! Pick up those feet!
+
+

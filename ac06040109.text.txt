@@ -1,0 +1,15 @@
+ac06040109.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 656 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - アフィンに話しかける
+Explanation - ゲートエリア１Ｆの西クエストカウンター付近にいる<br>アフィンに話しかけてみよう！
+
+Group 1
+Title - Main Mission
+Goal - Speak to Afin
+Explanation - Afin is near the West Quest Counter in the<br>1st Floor Gate Area. Pay him a visit!
+
+

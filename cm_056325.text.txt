@@ -1,0 +1,13 @@
+cm_056325.text was created: 8/8/2021 8:49:58 PM
+Filesize is: 416 bytes
+
+Event1
+Group 0
+name01 - シエラ
+11_voice_navi09f_qu067 - 目標もかなり消耗しているようです！
+
+Group 1
+name01 - Xiera
+11_voice_navi09f_qu067 - The target is significantly damaged!
+
+

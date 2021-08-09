@@ -1,0 +1,33 @@
+quest_00599999.text was created: 8/8/2021 8:53:15 PM
+Filesize is: 576 bytes
+
+Basic
+Group 0
+Title - SKIT_BASE
+Explanation - TEST
+
+Group 1
+Title - SKIT_BASE
+Explanation - TEST
+
+
+QuestTarget
+Group 0
+SimpleExplanation - ***
+
+Group 1
+SimpleExplanation - ***
+
+
+AreaName
+Group 0
+
+Group 1
+
+
+AcceptCondition
+Group 0
+
+Group 1
+
+

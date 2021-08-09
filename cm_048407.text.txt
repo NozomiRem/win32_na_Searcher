@@ -1,0 +1,11 @@
+cm_048407.text was created: 8/8/2021 8:57:38 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - ここが最後のエリアですよー。<br>みなさん、最後まで<br>油断しないでくださいねー。
+
+Group 1
+
+

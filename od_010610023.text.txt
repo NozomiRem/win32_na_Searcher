@@ -1,0 +1,15 @@
+od_010610023.text was created: 8/8/2021 8:55:30 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+11_voice_NPC_5069_107 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+
+Group 1
+11_voice_NPC_5069_107 - ＊＊＊
+text02 - ＊＊＊
+text03 - ＊＊＊
+
+

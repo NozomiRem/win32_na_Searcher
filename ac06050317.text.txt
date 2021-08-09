@@ -1,0 +1,14 @@
+ac06050317.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 688 bytes
+
+Info
+Group 0
+Title - スターミッション・３－１７
+Goal - VＨ：魔物種を８０体撃破
+Explanation - 魔物種を合計で８０体撃破しよう！<br><br><yellow>※Lv.41～のエネミーが対象<c>
+
+Group 1
+Goal - VH: Defeat 80 Supernaturals
+Explanation - Defeat a total of 80 Supernaturals!<br><br><yellow>Note: Enemies must be Lv. 41 or above.<c>
+
+

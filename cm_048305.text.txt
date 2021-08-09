@@ -1,0 +1,11 @@
+cm_048305.text was created: 8/8/2021 8:56:44 PM
+Filesize is: 320 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - このエリアはフットスイッチが<br>障壁と連動しています！　要注意です！
+
+Group 1
+
+

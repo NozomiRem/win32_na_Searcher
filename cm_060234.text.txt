@@ -1,0 +1,19 @@
+cm_060234.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 544 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+name01 - Xiera
+
+
+Skit00
+Group 0
+skit01 - 目標エネミーの反応消失を確認！<br>次のエリアに移動してください。
+
+Group 1
+skit01 - I've lost the target's signal! Please head to the next area.
+
+

@@ -1,0 +1,13 @@
+cm_038205_4.text was created: 8/8/2021 8:57:14 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_010 - 正真正銘最後の関門です。<br>死力を尽くし、エネミーを<br>撃破してください。ご武運を。
+
+Group 1
+name01 - Inanna
+11_voice_navi07_010 - This is your the true and final trial.<br>Go out there and fight like your life depends on<br>it. Best of luck.
+
+

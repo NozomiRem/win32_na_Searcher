@@ -1,0 +1,13 @@
+cm_064140.text was created: 8/8/2021 8:49:58 PM
+Filesize is: 512 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - さらにもう一体、来ます！<br>今までの反応とは違います！<br>気をつけてください！
+
+Group 1
+name01 - Xiera
+text01 - Another one is coming! It's different from the others. Please be careful!
+
+

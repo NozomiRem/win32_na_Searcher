@@ -1,0 +1,11 @@
+om_040635032.text was created: 8/8/2021 9:01:29 PM
+Filesize is: 272 bytes
+
+Event1
+Group 0
+text01 - では、行こう。
+
+Group 1
+text01 - Let's get moving.
+
+

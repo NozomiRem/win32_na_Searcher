@@ -1,0 +1,15 @@
+ac06041301.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - フランカ’ｓ カフェに行く
+Explanation - ショップエリア東にある入り口から<br>フランカ’ｓ カフェに行ってみよう！
+
+Group 1
+Title - Main Mission
+Goal - Go to Franca's Cafe
+Explanation - Check out Franca's Cafe, accessible from Shopping Plaza: East!
+
+

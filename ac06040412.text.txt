@@ -1,0 +1,15 @@
+ac06040412.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 560 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - 「遺跡探索」をクリア
+Explanation - フリーフィールド「遺跡探索」をクリアしよう！
+
+Group 1
+Title - Main Mission
+Goal - Clear "Ruins Exploration"
+Explanation - Clear the Expediton "Ruins Exploration"!
+
+

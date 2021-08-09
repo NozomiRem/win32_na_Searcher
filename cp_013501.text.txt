@@ -1,0 +1,11 @@
+cp_013501.text was created: 8/8/2021 8:48:50 PM
+Filesize is: 272 bytes
+
+Skit
+Group 0
+linewindow - 道が開いた!!
+
+Group 1
+linewindow - The path is open!
+
+

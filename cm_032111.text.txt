@@ -1,0 +1,27 @@
+cm_032111.text was created: 8/8/2021 8:55:09 PM
+Filesize is: 704 bytes
+
+CharaName
+Group 0
+name01 - マトイ
+
+Group 1
+name01 - Matoi
+
+
+Skit_ci
+Group 0
+skit01 - /toge /ci2 2 わたしたちも協力するよ<br>コトシロさん！
+
+Group 1
+skit01 - /toge /ci2 2 We're here to help, Kotoshiro!
+
+
+Skit
+Group 0
+skit01 - わたしたちも協力するよ<br>コトシロさん！
+
+Group 1
+skit01 - We're here to help, Kotoshiro!
+
+

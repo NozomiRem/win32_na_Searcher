@@ -1,0 +1,12 @@
+ac06032211.text was created: 8/8/2021 9:01:33 PM
+Filesize is: 416 bytes
+
+Info
+Group 0
+Title - イベントミッション
+Goal - デイリーミッションを２５回達成
+Explanation - デイリーミッションを２５回達成しよう！<br><br><yellow>※デイリーミッションを達成した時に加算<c>
+
+Group 1
+
+

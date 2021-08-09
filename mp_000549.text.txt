@@ -1,0 +1,15 @@
+mp_000549.text was created: 8/8/2021 8:57:58 PM
+Filesize is: 1216 bytes
+
+TutorialText
+Group 0
+Title - 『使用できる武器』について
+text0001 - 【ＶＲアリーナ（火山：夜）】<br>下記の４種類の武器が使用可能です。<br><br>ソード<br>　・ノヴァストライク<br>　・ライドスラッシャー<br>デュアルブレード<br>　・イモータルダーヴ<br>アサルトライフル<br>　・ワンポイント<br>　・ピアッシングシェル
+text0002 - ロッド<br>　・フォイエ<br>　・ゾンデ<br>　・メギド
+
+Group 1
+Title - Available Weapons
+text0001 - VR Arena - Volcano: Night<br>The following four weapon types are available:<br><br>Sword<br>- Nova Strike<br>- Ride Slash<br>Soaring Blades<br>- Immortal Dove<br>Rifle<br>- Steady Shot<br>- Piercing Round
+text0002 - Rod<br>- Foie<br>- Zonde<br>- Megid
+
+

@@ -1,0 +1,14 @@
+ac06050609.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 576 bytes
+
+Info
+Group 0
+Title - スターミッション・６－９
+Goal - 砂漠で１５回「採取」をする
+Explanation - 砂漠のフリーフィールドで<br>１５回「採取」をしよう！
+
+Group 1
+Goal - Harvest 15 times at the Desert
+Explanation - Go on an Expedition to the Desert and harvest 15 times!
+
+

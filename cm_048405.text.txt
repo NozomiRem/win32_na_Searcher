@@ -1,0 +1,11 @@
+cm_048405.text was created: 8/8/2021 8:59:02 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - 敵さんの沈黙、確認！<br>次のエリアへどうぞ！
+
+Group 1
+
+

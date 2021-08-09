@@ -1,0 +1,15 @@
+ii_j_s_ssn_apc_revival.text was created: 8/8/2021 8:54:02 PM
+Filesize is: 528 bytes
+
+common
+Group 0
+IncidentName - パートナー達と共闘せよ
+TrialBeginMsg - パートナー達と共闘せよ！
+TrialAbstract - パートナー達と共闘せよ！
+
+Group 1
+IncidentName - Join up with Your Partners and Fight!
+TrialBeginMsg - Join up with your partners and fight!
+TrialAbstract - Join up with your partners and fight!
+
+

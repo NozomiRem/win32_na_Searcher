@@ -1,0 +1,15 @@
+ao05001303.text was created: 8/8/2021 8:56:51 PM
+Filesize is: 512 bytes
+
+Info
+Group 0
+Title - DB4・3
+Explanation - <space>
+Target1 - 「ビックリハンマー」を<br>「いずれかのエネミー」に当てる
+
+Group 1
+Title - Dark Blast 4-3
+Explanation - <space>
+Target1 - Hit any enemy with<br>Smash-Em Hammer.
+
+

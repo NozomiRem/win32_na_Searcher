@@ -1,0 +1,11 @@
+om_050668023.text was created: 8/8/2021 8:57:43 PM
+Filesize is: 288 bytes
+
+Event1
+Group 0
+text01 - クエストクリア時テキスト
+
+Group 1
+text01 - Quest Completion Text
+
+

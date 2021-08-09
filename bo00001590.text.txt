@@ -1,0 +1,13 @@
+bo00001590.text was created: 8/8/2021 8:59:45 PM
+Filesize is: 448 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - コーデカタログで<br>みんなのコーデを見る
+
+Group 1
+Title - Bingo Order 99
+Explanation - View a player's look in the Lookbook.
+
+

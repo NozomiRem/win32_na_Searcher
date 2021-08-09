@@ -1,0 +1,11 @@
+en_chr09_furie.text was created: 8/8/2021 9:00:42 PM
+Filesize is: 304 bytes
+
+Word
+Group 0
+Dead - こんなはずじゃあ……
+
+Group 1
+Dead - This... can't be happening...
+
+

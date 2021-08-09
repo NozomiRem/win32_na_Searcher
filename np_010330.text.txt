@@ -1,0 +1,11 @@
+np_010330.text was created: 8/8/2021 8:59:44 PM
+Filesize is: 336 bytes
+
+C001
+Group 0
+Huey_01_010 - テキストがまだないので仮です
+
+Group 1
+Huey_01_010 - Dummy string. Text is not yet finished.
+
+

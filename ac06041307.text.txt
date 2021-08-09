@@ -1,0 +1,15 @@
+ac06041307.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - チップに話しかける
+Explanation - カジノエリアの南側にいる<br>景品カウンター店員チップに話しかけよう！
+
+Group 1
+Title - Main Mission
+Goal - Speak to Chip
+Explanation - Speak to Prize Counter Clerk Chip<br>in the southern section of the Casino!
+
+

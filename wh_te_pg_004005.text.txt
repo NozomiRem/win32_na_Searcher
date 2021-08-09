@@ -1,0 +1,17 @@
+wh_te_pg_004005.text was created: 8/8/2021 8:56:20 PM
+Filesize is: 368 bytes
+
+Title
+Group 0
+name01 - スキルリングを強化！
+
+Group 1
+name01 - Enhance Your Skill Ring!
+
+
+mess
+Group 0
+
+Group 1
+
+

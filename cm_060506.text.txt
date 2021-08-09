@@ -1,0 +1,13 @@
+cm_060506.text was created: 8/8/2021 8:56:24 PM
+Filesize is: 640 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - さあ、いよいよ最後の戦いです！<br>これまでのクエストポイントによって<br>相手が変わりますよ。がんばって！
+
+Group 1
+name01 - Xiera
+text01 - The last battle is finally upon you! Your opponent will depend on the amount of Quest Points you've collected. Good luck!
+
+

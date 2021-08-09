@@ -1,0 +1,15 @@
+cm_057054.text was created: 8/8/2021 9:00:23 PM
+Filesize is: 832 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+11_voice_navi07_017 - オメガ・アンゲルの撃破を。<br>ミッションの達成で<br>インターバルエリアに進行できます。
+line01 - オメガ・アンゲルの撃破で進行可能！
+
+Group 1
+name01 - Inanna
+11_voice_navi07_017 - Destroy Omega Angel. You will be permitted<br>to advance to the Interval Zone upon<br>completion of this mission.
+line01 - You will be permitted to advance once<br>Omega Angel is destroyed!
+
+

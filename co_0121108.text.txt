@@ -1,0 +1,11 @@
+co_0121108.text was created: 8/8/2021 8:54:00 PM
+Filesize is: 352 bytes
+
+Skit
+Group 0
+linewindow - <br>ナヴ・ラッピーが逃げ出そうとしている！<br>
+
+Group 1
+linewindow - <br>Nav Rappies are getting away!<br>
+
+

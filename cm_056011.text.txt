@@ -1,0 +1,17 @@
+cm_056011.text was created: 8/8/2021 8:54:22 PM
+Filesize is: 320 bytes
+
+CharaName
+Group 0
+name01 - シエラ
+
+Group 1
+
+
+Event1
+Group 0
+Text01 - ***
+
+Group 1
+
+

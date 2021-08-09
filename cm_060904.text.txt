@@ -1,0 +1,11 @@
+cm_060904.text was created: 8/8/2021 8:56:35 PM
+Filesize is: 304 bytes
+
+Event1
+Group 0
+name01 - マトイ
+text01 - ￥きっと、あともう少し。<br>なんとかここを凌いで……！
+
+Group 1
+
+

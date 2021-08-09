@@ -1,0 +1,15 @@
+ac06050809.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 736 bytes
+
+Info
+Group 0
+Title - スターミッション・８－９
+Goal - 「壊世調査：ナベリウス」を３回クリア
+Explanation - アルティメットクエスト「壊世調査：ナベリウス」を<br>３回クリアしよう！
+
+Group 1
+Title - ac06050809 Title
+Goal - Clear "Corruption Investigation: Naverius" 3 times
+Explanation - Clear the Ultimate Quest "Corruption Investigation: Naverius" 3 times!
+
+

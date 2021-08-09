@@ -1,0 +1,13 @@
+mp_000546.text was created: 8/8/2021 8:57:40 PM
+Filesize is: 1008 bytes
+
+TutorialText
+Group 0
+Title - 『使用できる武器』について
+text0001 - 【ＶＲアリーナ（東京）】<br>下記の４種類の武器が使用可能です。<br><br>ソード<br>　・ライジングエッジ<br>　・ライドスラッシャー<br>アサルトライフル<br>　・エンドアトラクト<br>バレットボウ<br>　・ラストネメシス<br>タリス<br>　・ナ・グランツ
+
+Group 1
+Title - Available Weapons
+text0001 - VR Arena - Tokyo<br>The following four weapon types are available:<br><br>Sword<br>・Rising Edge<br>・Ride Slash<br>Assault Rifle<br>・Positron Blast<br>Bow<br>・Final Nemesis<br>Talis<br>・Nagrants
+
+

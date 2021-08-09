@@ -1,0 +1,14 @@
+ac06050713.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 752 bytes
+
+Info
+Group 0
+Title - ティアミッション
+Goal - 侵食核付きエネミーを５０体撃破
+Explanation - 侵食核の付いたエネミーを合計で５０体撃破しよう！<br><br><yellow>※Lv.1～のエネミーが対象<c>
+
+Group 1
+Goal - Defeat 50 Enemies with Corrupted Cores
+Explanation - Defeat a total of 50 enemies that have Corrupted Cores!<br><br><yellow>Note: Enemies must be Lv. 1 or above.<c>
+
+

@@ -1,0 +1,11 @@
+co_020019.text was created: 8/8/2021 8:54:03 PM
+Filesize is: 368 bytes
+
+Skit
+Group 0
+line01 - 最後のフェンスが開いた！　エリア2へ進め！
+
+Group 1
+line01 - The final fence has opened! Move toward Area 2!
+
+

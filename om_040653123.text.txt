@@ -1,0 +1,11 @@
+om_040653123.text was created: 8/8/2021 8:56:54 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+text01 - ふー、終わった終わった！<br>楽しかったな。
+
+Group 1
+text01 - Phew, all done! That was fun.
+
+

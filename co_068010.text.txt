@@ -1,0 +1,19 @@
+co_068010.text was created: 8/8/2021 8:59:57 PM
+Filesize is: 624 bytes
+
+CharaName
+Group 0
+name01 - ブリギッタ
+
+Group 1
+name01 - Brigitta
+
+
+Skit00
+Group 0
+skit01 - 訓練、完了です。<br>お疲れさまでした。<br>帰還まで、少々お待ちください。
+
+Group 1
+skit01 - All enemy signals have been eradicated!<br>Operation complete!<br>Great job, everyone!
+
+

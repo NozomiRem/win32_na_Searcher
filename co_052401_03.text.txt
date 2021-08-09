@@ -1,0 +1,27 @@
+co_052401_03.text was created: 8/8/2021 9:00:56 PM
+Filesize is: 608 bytes
+
+CharaName
+Group 0
+name01 - リナ
+
+Group 1
+name01 - Rina
+
+
+Skit_ci00
+Group 0
+skit01 - ……嘘よ。<br>こんなこと、有りえない……<br>ＳＯＲＯーッ！
+
+Group 1
+skit01 - ...No way.<br>This can't be happening...<br>SORO!
+
+
+Skit00
+Group 0
+skit01 - ……嘘よ。<br>こんなこと、有りえない……<br>ＳＯＲＯーッ！
+
+Group 1
+skit01 - ...No way.<br>This can't be happening...<br>SORO!
+
+

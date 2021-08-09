@@ -1,0 +1,15 @@
+cm_060525.text was created: 8/8/2021 8:46:11 PM
+Filesize is: 656 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - さすがです！<br>支援を行います！
+text02 - 弱点属性と弱点部位への攻撃力が上昇！
+
+Group 1
+name01 - Xiera
+text01 - I knew you could do it!<br>Here's some help!
+text02 - Attack power against Elemental Weaknesses<br>and Weak Points will now be increased!
+
+

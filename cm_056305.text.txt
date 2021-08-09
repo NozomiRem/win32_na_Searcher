@@ -1,0 +1,13 @@
+cm_056305.text was created: 8/8/2021 8:58:52 PM
+Filesize is: 624 bytes
+
+Event1
+Group 0
+name01 - シエラ
+text01 - 高密度マナ結晶の反応は<br>壁や天井にも反応があります。<br>見つけたら積極的に壊してください。
+
+Group 1
+name01 - Xiera
+text01 - I'm getting readings on high-density mana<br>crystals in the walls and ceiling as well.<br>Crush them if you find them!
+
+

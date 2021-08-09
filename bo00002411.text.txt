@@ -1,0 +1,13 @@
+bo00002411.text was created: 8/8/2021 8:59:51 PM
+Filesize is: 624 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【クエストクリア】<br>チョコレートの行方<br><br>【クエスト難易度】<br>スーパーハード以上
+
+Group 1
+Title - Bingo Order 99
+Explanation - [Quest Completion]<br>Where the Chocolate Went <br><br>[Quest Difficulty]<br>Super Hard or above
+
+

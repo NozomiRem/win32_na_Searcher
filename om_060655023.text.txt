@@ -1,0 +1,11 @@
+om_060655023.text was created: 8/8/2021 8:59:49 PM
+Filesize is: 400 bytes
+
+Event1
+Group 0
+text01 - クククク……<br>ウレシイな。<br>ウレシイぞ。
+text02 - 久々に戦いを楽しむことが出来たが<br>欲を言えば、まだまだ物足りん……<br>また頼むぞ、<%me>。
+
+Group 1
+
+

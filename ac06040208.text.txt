@@ -1,0 +1,15 @@
+ac06040208.text was created: 8/8/2021 9:01:34 PM
+Filesize is: 816 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - エンドレスクエストをクリア
+Explanation - 任意のエンドレスクエストを１回クリアしよう！<br><yellow><br>※いずれかのクラスレベルを70以上にすると受注可<c>
+
+Group 1
+Title - Main Mission
+Goal - Clear an Endless Quest
+Explanation - Clear an Endless Quest!<br><br><yellow>Note: You can undertake Endless Quests by<br>reaching Class Level 70 with any Class.<c>
+
+

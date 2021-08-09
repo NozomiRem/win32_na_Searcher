@@ -1,0 +1,19 @@
+cm_069507.text was created: 8/8/2021 8:58:52 PM
+Filesize is: 464 bytes
+
+CharaName
+Group 0
+name01 - メリッタ
+
+Group 1
+name01 - Melita
+
+
+Event1
+Group 0
+name01 - メリッタ
+text01 - スイッチを起動したら<br>エネルギータンクが転送されますー！<br>上手く使って敵さんを倒してください！
+
+Group 1
+
+

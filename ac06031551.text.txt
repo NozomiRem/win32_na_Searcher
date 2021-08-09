@@ -1,0 +1,15 @@
+ac06031551.text was created: 8/8/2021 9:01:30 PM
+Filesize is: 608 bytes
+
+Info
+Group 0
+Title - メインミッション
+Goal - ブラックニャックで１回勝利する
+Explanation - カジノエリアのブラックニャックで<br>ニャウに１回勝利しよう！
+
+Group 1
+Title - Main Mission
+Goal - Win at Blacknyack
+Explanation - Play Blacknyack at the Casino and beat Nyau<br>1 time!
+
+

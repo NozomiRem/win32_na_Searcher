@@ -1,0 +1,19 @@
+co_012810.text was created: 8/8/2021 9:01:41 PM
+Filesize is: 544 bytes
+
+Skit
+Group 0
+skit02 - 【逆走禁止コリジョンC】
+
+Group 1
+skit02 - 【逆走禁止コリジョンC】 (Not to be translated)
+
+
+Skit_ci
+Group 0
+skit02 - /ci2 2 【逆走禁止コリジョンC】
+
+Group 1
+skit02 - /ci2 2 【逆走禁止コリジョンC】 <br>(Not to be translated)
+
+

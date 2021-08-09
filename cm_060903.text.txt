@@ -1,0 +1,11 @@
+cm_060903.text was created: 8/8/2021 8:48:49 PM
+Filesize is: 256 bytes
+
+Event1
+Group 0
+name01 - マトイ
+text01 - ￥な、なにあれ……
+
+Group 1
+
+

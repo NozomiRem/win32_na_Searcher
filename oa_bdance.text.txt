@@ -1,0 +1,11 @@
+oa_bdance.text was created: 8/8/2021 8:57:14 PM
+Filesize is: 528 bytes
+
+oa_bdance
+Group 0
+AccessInfo - <yellow>タイミングよく<c><%NormalAttack>/<%PhotonArts><yellow>を入力しろ！<c>
+
+Group 1
+AccessInfo - <yellow>Input<c><%NormalAttack>/<%PhotonArts><yellow><br>at the right moment!<c>
+
+

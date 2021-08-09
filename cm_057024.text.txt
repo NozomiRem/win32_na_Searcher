@@ -1,0 +1,13 @@
+cm_057024.text was created: 8/8/2021 8:58:35 PM
+Filesize is: 528 bytes
+
+Event1
+Group 0
+name01 - イナンナ
+text01 - 最終ミッションとなります。<br>最後まで諦めずにミッションの<br>達成を目指して下さい。
+
+Group 1
+name01 - Inanna
+text01 - This is the final mission. Try to complete it<br>fully. Never give up.
+
+

@@ -1,0 +1,14 @@
+ac06050704.text was created: 8/8/2021 9:01:36 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - スターミッション・７－４
+Goal - 青色のコンテナを５個破壊
+Explanation - 青色のコンテナを５個破壊しよう！
+
+Group 1
+Goal - Destroy 5 Blue Containers
+Explanation - Destroy a total of 5 blue containers!
+
+

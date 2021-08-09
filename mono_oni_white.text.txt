@@ -1,0 +1,19 @@
+mono_oni_white.text was created: 8/8/2021 8:59:42 PM
+Filesize is: 688 bytes
+
+Word
+Group 0
+Appear - どうか、お助けください！
+AtkCriticalHit - くらえっ！
+Dead - こんなところで……
+Escape - ありがとうございます！
+EscapeFailed - ……残念だ
+
+Group 1
+Appear - Please help me!
+AtkCriticalHit - Take THAT!
+Dead - It... can't end like this...
+Escape - Thank you so much!
+EscapeFailed - What a shame...
+
+

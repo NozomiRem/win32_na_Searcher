@@ -1,0 +1,12 @@
+bo00000725.text was created: 8/8/2021 8:59:40 PM
+Filesize is: 496 bytes
+
+Info
+Group 0
+Title - ビンゴオーダー99
+Explanation - 【エネミー撃破】<br>オル・ミクダ<br><br>【対象レベル】<br>Lv.1以上
+
+Group 1
+Explanation - [Enemy Extermination]<br>Ahl Mikda<br><br>[Level Requirement]<br>Level 1+
+
+

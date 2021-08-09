@@ -1,0 +1,11 @@
+om_040635043.text was created: 8/8/2021 9:01:07 PM
+Filesize is: 352 bytes
+
+Event1
+Group 0
+text01 - これで、大丈夫だ。<br>ありがとう。助かった。
+
+Group 1
+text01 - That should do it. Thanks for the help.
+
+

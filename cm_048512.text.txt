@@ -1,0 +1,11 @@
+cm_048512.text was created: 8/8/2021 8:58:21 PM
+Filesize is: 336 bytes
+
+Event1
+Group 0
+name01 - ブリギッタ
+text01 - 制限時間終了を確認。<br>訓練終了となります。<br>帰還用エリアに転送します。
+
+Group 1
+
+
